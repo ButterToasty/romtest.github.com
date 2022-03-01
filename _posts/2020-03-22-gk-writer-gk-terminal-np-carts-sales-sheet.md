@@ -9,7 +9,7 @@ author: matthew_callis
 thumbnail: game-kiosk-np-writer/gk-writer-gk-terminal-np-carts-sales-sheet-thumb.jpg
 download:
  title: Game Kiosk (NP Writer) Sales Sheet
- filename: other/Game Kiosk (NP Writer) Sales Sheet
+ filename: other/Game Kiosk (NP Writer) Sales Sheet.pdf
 ---
 
 This is a sales sheet for the tentativly named *Game Kiosk*, which was the working name for the Nintendo Power rewriteable cart service. This breaks down what it is, or was planned to be, how it works, how partners would work withit, and various technical details for the *GK Writer*, the *GK Terminal* and *F Carts*, the white Nintendo Power carts.
