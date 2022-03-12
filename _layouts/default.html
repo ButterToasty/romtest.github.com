@@ -5,10 +5,10 @@
 {% include header.html %}
 {{ content }}
 {% include footer.html %}
-<script src="{% asset_path cheet.js %}"></script>
-<script src="{% asset_path site.js %}"></script>
+<script src="{% asset 'cheet.js' @path %}"></script>
+<script src="{% asset 'site.js' @path %}"></script>
 <script>
-window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+window.ga = window.ga || function () { (ga.q = ga.q || []).push(arguments); }; ga.l = +new Date();
 ga('create', 'UA-315321-1', 'auto');
 ga('require', 'displayfeatures');
 ga('require', 'linkid');

@@ -1,0 +1,188 @@
+I"�)<p><strong><a href="https://superfamicom.org/info/hyper-iria">ハイパーイリア</a></strong></p>
+
+<p>A very early, sample cart. Claiming to be 70% complete on the cart label. From July 3rd, with a planned release date of September 30th, which it didn’t make as it was released on October 13th, 1995.</p>
+
+<pre><code>---------------------Internal ROM Info----------------------
+       File: Hyper Iria (Japan) (Sample).sfc
+       Name: MAHOUJIN GURUGURU        Company: Enix
+     Header: None                        Bank: HiROM
+Interleaved: None                        SRAM: 64 Kb
+       Type: Normal + Batt                ROM: 12 Mb
+    Country: Japan                      Video: NTSC
+  ROM Speed: 120ns (FastROM)         Revision: 1.0
+   Checksum: Bad 0xBF16 != 0xD56F   Game Code: AGUJ
+---------------------------Hashes---------------------------
+      CRC32: DC48EBC3
+        MD5: 21C40A272E29CFFBDCCA798F7C0F0DD9
+      SHA-1: 9E3A8BC5E77F9F9BA062870344E3431C76CFC0A8
+--------------------------Database--------------------------
+    ROM wasn't found in the database (possible bad dump).
+
+---------------------Internal ROM Info----------------------
+       File: Hyper Iria (Japan).sfc
+       Name: ﾊｲﾊﾟｰｲﾘｱ                Company: Banpresto
+     Header: None                        Bank: HiROM
+Interleaved: None                        SRAM: 0 Kb
+       Type: Normal                       ROM: 12 Mb
+    Country: Japan                      Video: NTSC
+  ROM Speed: 120ns (FastROM)         Revision: 1.0
+   Checksum: Good 0xA9CB            Game Code: AZEJ
+---------------------------Hashes---------------------------
+      CRC32: AE7F2B0D
+        MD5: 32314AD978DEECD5FEF5AD5E55906D1E
+      SHA-1: D725C456869198F95DC254D7377EBEA78DD4274E
+--------------------------Database--------------------------
+       Name: Hyper Iria
+    Country: Japan                   Revision: 1.0
+     Port 1: Gamepad                   Port 2: Gamepad
+    Genre 1: Platform Adventure       Genre 2: Shooter
+</code></pre>
+
+<p><em>Title - Final</em>  / <em>Sample</em></p>
+
+<p>The title is very different with the large sample label. The PASSWORD and OPTIONS do not work in the sample. There is no title screen music in the sample.</p>
+
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="/assets/screenshots/hyper-iria-sample/title-469528c76d89e81fbdd2c9ddae98af872a3fbdb2e4b334ad0d372190ea5f1b9b78ec69b5dd6a7cd31d622a26826ab9a3bfce39d7ae8341190315c166c56a0542.png" alt="Title - Final" title="Title - Final" />
+      </div>
+      <img src="/assets/screenshots/hyper-iria-sample/title-sample-f9337a6e129aee79af3cee17be523ea1cd11d30f831b13ecc51f96d501a0122f2b165c91419a2ad59f20031008f7cdaedc50a33b19c00a881a1196fec90b2520.png" alt="Title - Sample" title="Title - Sample" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<p><em>Intro - Final</em>  / <em>Sample</em></p>
+
+<p>The intro wording has changed slightly. There is no flying dialog after this screen in the sample. The item on the right is animated and will is not aligned in the screenshots.</p>
+
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="/assets/screenshots/hyper-iria-sample/intro-4b89b71c4553380831e50eb274e8372ffe37004938d72c2f7bda51a554783db2eb04289e4175a88ef00ac8aa38577c0c854e73d73faf4068d18e44a5313a776e.png" alt="Intro - Final" title="Intro - Final" />
+      </div>
+      <img src="/assets/screenshots/hyper-iria-sample/intro-sample-0c85056221a102481e3ae5803f2380550b8a08fb57da62aa954839f5dc82a8061ea8e211edb40dcd8b6c711f252dceb2ebcdeb6ee19cf0da61f43b7da9c216ac.png" alt="Intro - Sample" title="Intro - Sample" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<p><em>Level 1 - Final</em>  / <em>Sample</em></p>
+
+<p>The first level is very different. The dialog and the layout has changed.</p>
+
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="/assets/screenshots/hyper-iria-sample/level-1-speaking-683885c1ce82103299e74bccfc9b0a5c2f227ff009f70a7c6b6b85800e5f2d12261c58b734391b00b80f32de326cac7cf0c2f896c5eb615f97f5400d279b8248.png" alt="Level 1 Speaking - Final" title="Level 1 Speaking - Final" />
+      </div>
+      <img src="/assets/screenshots/hyper-iria-sample/level-1-speaking-sample-876bd3157ad883c326e5f538aef331ce1665c27b5c6fac9daffd14af1ecd41c58a5af858b3837f3118d88724be49241ff3765724e82e011a1784dab32a15d375.png" alt="Level 1 Speaking - Sample" title="Level 1 Speaking - Sample" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="/assets/screenshots/hyper-iria-sample/level-1-elevator-35a33ac0c08afa2419b61d5322768b12f6daca6139d30ca7dc461ece93cf1cb3c9a90b188b8406f58e8a4a333ff8e6ed0847e4fe3401a41c809401087fd2ad56.png" alt="Level 1 Elevator - Final" title="Level 1 Elevator - Final" />
+      </div>
+      <img src="/assets/screenshots/hyper-iria-sample/level-1-elevator-sample-ac58cb436352319ca42313175a710a52b5136c062aab44e219eb484a008047b0d40db70a4a4ce626f4ead418748bcacf66f0eb8475888074f508ff977b9dadd0.png" alt="Level 1 Elevator - Sample" title="Level 1 Elevator - Sample" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<p>If you happen to know the game well and find more differences, <a href="https://github.com/MatthewCallis/eludevisibility.org">please update this post on GitHub</a>!</p>
+
+<p><img src="/assets/Hyper Iria (Japan) (Sample) - Cart Front-0ca7fe3ccba64c69f9e605764ada3bf7216c9618b200e79bb88f6cf0a69e71d6611b509f51b7437663205ede86d67b10fc867f3eef0f04196fae0df09ed539a2.jpg" alt="Hyper Iria (Japan) (Sample) - Cart Front" title="Hyper Iria (Japan) (Sample) - Cart Front" /></p>
+:ET

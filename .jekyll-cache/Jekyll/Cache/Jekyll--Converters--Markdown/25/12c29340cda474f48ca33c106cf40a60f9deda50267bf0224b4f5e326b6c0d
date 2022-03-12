@@ -1,0 +1,626 @@
+I"��<p><strong><a href="https://superfamicom.org/info/down-the-world-mervils-ambition">ダウン・ザ・ワールド</a></strong></p>
+
+<p>An interesting demo, all it does is loop with a banner between scenes, nothing really playable. Seems cheaper to just use a VHS tape.</p>
+
+<p><em>Title - Final</em>  / <em>Sample</em></p>
+
+<p>The title is replaced with a sales banner with a release date. I didn’t even see a similar screen in the final.</p>
+
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="/assets/screenshots/down-the-world-mervils-ambition-japan-demo/down-the-world-mervils-ambition-japan.000-b5534a2e896f89ba68f2d32a5195d32a54c293e55ac58107f4e7ed421c35c545cd8642a617222da7a6268939a0d3c79452dd0714e5246b781e78457ea98f1444.png" alt="Title - Final" title="Title - Final" />
+      </div>
+      <img src="/assets/screenshots/down-the-world-mervils-ambition-japan-demo/down-the-world-mervils-ambition-japan-demo.023-0e89e8377c860aa86ecd58eb5433d476464d6b822be91d64651ee3d2df8eeeb47a0ed97e9d9805c53e3f3e5138dfb2ef8d7384c2055e84e7b952c09ec107a2e8.png" alt="Title - Sample" title="Title - Sample" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<p><em>Extra Intro Scene</em></p>
+
+<p>There is an extra intro sequence not in the final demo. Any help translating the strings would be wonderful!</p>
+
+<p><img src="/assets/screenshots/down-the-world-mervils-ambition-japan-demo/down-the-world-mervils-ambition-japan-demo.001-be10bcbc6b7d95d291be68bea5e19227865ad114d3a6d416ea3d18ae4f09bf0e4abd57812363a99bd0c6786c5f3dfc0c2b244075081f9194b13d826fdb7956b5.png" alt="Dialog 1" />
+<img src="/assets/screenshots/down-the-world-mervils-ambition-japan-demo/down-the-world-mervils-ambition-japan-demo.002-0e789002776b8ecc512ce56d2d23ddea708e169dfa3fe3407bd2714490d489ea13a36e7f8bccd86b04c3bbb4c4052e631a7b41cdeeb8dfba0663d12d9c6808be.png" alt="Dialog 2" />
+<img src="/assets/screenshots/down-the-world-mervils-ambition-japan-demo/down-the-world-mervils-ambition-japan-demo.003-df766b67472736df4c8d326659f2b3cac99d561352c115f2bb515555085f87f50e6ec504fee58366db56a48eb05392cbf45174048724343e91bf2e8f130bc4ad.png" alt="Dialog 3" />
+<img src="/assets/screenshots/down-the-world-mervils-ambition-japan-demo/down-the-world-mervils-ambition-japan-demo.004-d544ed7e590fd2756734323e0bd39bb4aaa4a0c59a87d2045964b8bdb8c834038f36a1bd5179ea0f094ae8c36de286f487423d65001145d3bcb70c405702ce26.png" alt="Dialog 4" />
+<img src="/assets/screenshots/down-the-world-mervils-ambition-japan-demo/down-the-world-mervils-ambition-japan-demo.005-1bfee988547c97d1bcee8eaf8469bbcede75847192e88d89dd5957bbbad4f84405d030639ca8d83c9a3f34c85a957d8cf5b440dda8978a853701fb49d64a1877.png" alt="Dialog 5" />
+<img src="/assets/screenshots/down-the-world-mervils-ambition-japan-demo/down-the-world-mervils-ambition-japan-demo.006-3c1594106f49adc57e7291320bbd46c5e07dd1509527644e01bab444a32bdb2879db04f88fadb87f903d2f28be10bd84bb0b1e2bc9595f0217fe7257c206db0d.png" alt="Dialog 6" />
+<img src="/assets/screenshots/down-the-world-mervils-ambition-japan-demo/down-the-world-mervils-ambition-japan-demo.007-814e4f3341e8025bbd80c4648568e068811e7112e6c248c72fc50ed244a9562955d58dc6ab8c71ac70145a057896da3c889f72a4796a672815ffcbe59989d162.png" alt="Dialog 7" />
+<img src="/assets/screenshots/down-the-world-mervils-ambition-japan-demo/down-the-world-mervils-ambition-japan-demo.008-97a0d2706bab992766c4dcdc81a7dff69ffe91180a53c62460e05b56146e8c8ad8f9707b3eaf5953567927973c0a27898e816cb01824c96bffe970dc8ab423fe.png" alt="Dialog 8" />
+<img src="/assets/screenshots/down-the-world-mervils-ambition-japan-demo/down-the-world-mervils-ambition-japan-demo.009-cddbe409f28d55c673f7bd0734cd356658b122ac3ff68fe3d5b114a41f8ac65de0a0b83818d30b6ac84c089b70ce746e1785044c9db6deb1f0034641117b266b.png" alt="Dialog 9" />
+<img src="/assets/screenshots/down-the-world-mervils-ambition-japan-demo/down-the-world-mervils-ambition-japan-demo.010-ca9d570bdb18f29d2d31eda797f5b5bbf8310c65936f8a12d5a61f8e9d7749d5417f5aabfe80efaaf93bc754a8ba7b9f97820b113f7b0e8b9d27125e1da081c8.png" alt="Dialog 10" />
+<img src="/assets/screenshots/down-the-world-mervils-ambition-japan-demo/down-the-world-mervils-ambition-japan-demo.011-78de80f850ea6970cfc1a3a828716ee91fa70a48629f57b98c4d1eff20a62861a016fc0c4037559e4c531b9010c7900d826cd9317fb143b1f251536ec69967f7.png" alt="Dialog 11" />
+<img src="/assets/screenshots/down-the-world-mervils-ambition-japan-demo/down-the-world-mervils-ambition-japan-demo.012-191a9e693d842de5b4058cb226104d007f374a3d4ef6203343afed16b069fac3dd959d91157f1f9f7d52db878cb6cca4b9320468c66cb5088f84adb730ed7845.png" alt="Dialog 12" />
+<img src="/assets/screenshots/down-the-world-mervils-ambition-japan-demo/down-the-world-mervils-ambition-japan-demo.013-e855cf3e41b9177689b6fa0db0e4043688df5fbf14530aa0856b2ddc3708e4e2dad9b679bc9d4a67f367fe7344c0a69bfbfe2266e7094856768a3b1370e1dbac.png" alt="Dialog 13" />
+<img src="/assets/screenshots/down-the-world-mervils-ambition-japan-demo/down-the-world-mervils-ambition-japan-demo.014-59d9a2901aa3f6666a3b58c1ed307d7f2c41d78942de46e341e1f1029e399e21fa8a4284446d13c4fc076f9f8bbedf1cb8ae68d33f10fcf332686246134f7821.png" alt="Dialog 14" />
+<img src="/assets/screenshots/down-the-world-mervils-ambition-japan-demo/down-the-world-mervils-ambition-japan-demo.015-499b9e41200016bc411130161eb98f020170a6eb25a005324076b49a274c1577a58c84afefe7ea450ef2ec9b7f510c2baa599f8de6d7f95a95397d3f8af8dadc.png" alt="Dialog 15" />
+<img src="/assets/screenshots/down-the-world-mervils-ambition-japan-demo/down-the-world-mervils-ambition-japan-demo.016-2306868747f954111ea2afcd6ec022bd8d7793225d983d9d3d67f46d4b93533376bfa263f3fdb6757bd6bc1e7982a540e28d9807b5527329f8b4bbe396b2d5e5.png" alt="Dialog 16" />
+<img src="/assets/screenshots/down-the-world-mervils-ambition-japan-demo/down-the-world-mervils-ambition-japan-demo.017-24a6574f6c6217cf492ba51e6a0eaff1ed52244b24ac53d5551131f06bd4948fa724518f80edcfccae470f8f69e81e80f3735c79626fdfff00e1543afc288289.png" alt="Dialog 17" />
+<img src="/assets/screenshots/down-the-world-mervils-ambition-japan-demo/down-the-world-mervils-ambition-japan-demo.018-109191cc99e45ca38ac20e2b4c9a0b83bbf1665d3d5e79a35d57694325be517e59d7358f0123f88e43e3393ce232d3568eae42e5f9ca6b6de3b2fa3f19c5f84c.png" alt="Dialog 18" />
+<img src="/assets/screenshots/down-the-world-mervils-ambition-japan-demo/down-the-world-mervils-ambition-japan-demo.019-1612440c4d7d87acb0da5f4dd8dfee90a235f59305ef392bac546960360f7b3405e3c29a557d97651ae6c5461fff859375fc5fa552cb7d8f118fed3bb8ad6dc0.png" alt="Dialog 19" />
+<img src="/assets/screenshots/down-the-world-mervils-ambition-japan-demo/down-the-world-mervils-ambition-japan-demo.020-1614ee155f60bb4c15bba0177191637a59c456c0123a39d99855117f1f60d7ac6e14fea826ff82829d189ec1d1f5055f6abaee46a8fe7b9f05fa3d8ad19c2b69.png" alt="Dialog 20" />
+<img src="/assets/screenshots/down-the-world-mervils-ambition-japan-demo/down-the-world-mervils-ambition-japan-demo.021-0d9062e262bd7bdc87449e0635522200b43d73971cdf507f88bc848c265e7c25066bd094c65a934de7ec8268e0163cc4554a2e1b685ca0eb81f014d3637566b1.png" alt="Dialog 21" />
+<img src="/assets/screenshots/down-the-world-mervils-ambition-japan-demo/down-the-world-mervils-ambition-japan-demo.022-fc551c0a3d48fed63a45dc4d15b22326a3d898c64ef2ae5ba0e1b207db7e009e6fc73b3c2991544fc6bb15e9a239296bf3766294995d06a2600826c0ee7e09ea.png" alt="Dialog 22" /></p>
+
+<p><em>Extra Outro Scenes</em></p>
+
+<p>There is also an extra few outro sequences not in the final demo. Any help translating them too, would be wonderful!</p>
+
+<p><img src="/assets/screenshots/down-the-world-mervils-ambition-japan-demo/down-the-world-mervils-ambition-japan-demo.101-1008aa3886853f946c857dedf0aac729e90cecd61bc381f178af1a46feb77084438e30ce2fc148cc39ba0d200175e1f6b895746e01bae70a3067efd771fff90d.png" alt="Dialog 1" />
+<img src="/assets/screenshots/down-the-world-mervils-ambition-japan-demo/down-the-world-mervils-ambition-japan-demo.102-31b48008a28dec98cc428f05eb0cc088eecfd0795212e8272f333ae60353b7ca0fde6fcb75872f8341c9b4c048a62a8d41fc1ee9ad56ff632deb85d17b614179.png" alt="Dialog 2" />
+<img src="/assets/screenshots/down-the-world-mervils-ambition-japan-demo/down-the-world-mervils-ambition-japan-demo.103-18e0f61b6d0ed963f9baa14e840c7850ff3ac3ca6458d347cb2f4faea2476374e404311872e46fc0c04e0e0e791bc99946b4113ab8d261f6ff37d2d9d49525bb.png" alt="Dialog 3" />
+<img src="/assets/screenshots/down-the-world-mervils-ambition-japan-demo/down-the-world-mervils-ambition-japan-demo.104-80303342fea6d3d70f78b80db24c6f0457d930e76a3ed51b9bcdd947ce2abf61b974ec50b73a50ad126f9a93203dda3a4b81eba2b9a40f92f923f6f0a9caa9df.png" alt="Dialog 4" />
+<img src="/assets/screenshots/down-the-world-mervils-ambition-japan-demo/down-the-world-mervils-ambition-japan-demo.105-96bd071500a8db73c8c79370fbcfc95555e49eb30f1cd2b7d6fa5d9338afc465f9d97fb28d2c1e32135766d0f81b3898c2ae2eac99adddcff411bcb114b59e30.png" alt="Dialog 5" />
+<img src="/assets/screenshots/down-the-world-mervils-ambition-japan-demo/down-the-world-mervils-ambition-japan-demo.106-471e710c921fd55b18cde019c391da2987120c683b0294784badbdd0e4fb97ab9dc334ce79484c480370ff08d31840cf5d2d7c744c0047d5e71948b59366b898.png" alt="Dialog 6" />
+<img src="/assets/screenshots/down-the-world-mervils-ambition-japan-demo/down-the-world-mervils-ambition-japan-demo.107-5f38185f3f6722cd8f0fbad7292975e25db29bbe3da19b8966c9e692d9c114c07ac619bbc025f592b2f658a2f712a419eef6e8c48a053b52436a4396dd622758.png" alt="Dialog 7" />
+<img src="/assets/screenshots/down-the-world-mervils-ambition-japan-demo/down-the-world-mervils-ambition-japan-demo.109-a27c164ae547261434f3343dcd79efa845513444550d87e457c925d2ea0ae131fb7b103dd6abab9acfa8bd445b10bac021382c9eab3b5b14713fdb76bb42ea7a.png" alt="Dialog 8" />
+<img src="/assets/screenshots/down-the-world-mervils-ambition-japan-demo/down-the-world-mervils-ambition-japan-demo.110-4e28a4127cd8c8df37ba8f064da0c0e61c545cf30879dedf04dfb9331714311d2abb320ebcf5ccfd09c4ab38538bd77c1845064530e145a9c7017f52d8719541.png" alt="Dialog 9" />
+<img src="/assets/screenshots/down-the-world-mervils-ambition-japan-demo/down-the-world-mervils-ambition-japan-demo.111-2faf3f77799550a130852ec68bc047817241240751ab05fe0f10c371da4dac05cebee170d7dd9a14300ee30c2c7d9fe226b273604e82f22cf87d5faccf2994e4.png" alt="Dialog 10" />
+<img src="/assets/screenshots/down-the-world-mervils-ambition-japan-demo/down-the-world-mervils-ambition-japan-demo.112-d76cb9afba420788a5bd53287d2bd5b231e39caeb8c86d4124e31e43073e36ea3d91a3e8f68c827c74fc77cac98200877ed31ae96f621a209f554d8f78ba000f.png" alt="Dialog 11" /></p>
+
+<p><em>Demo - Final</em>  / <em>Sample</em></p>
+
+<p>The only differences seem to be moving objects and the text slightly offset.</p>
+
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="/assets/screenshots/down-the-world-mervils-ambition-japan-demo/down-the-world-mervils-ambition-japan.001-64547445eb3bce8b69ab3a930b61819de62fbc2d87c7d797270dadc31692b35e986bbd2a6fd26c74abe6423565d52e5547899cbc1889b1d9da474ef60ac91173.png" alt="Final" title="Final" />
+      </div>
+      <img src="/assets/screenshots/down-the-world-mervils-ambition-japan-demo/down-the-world-mervils-ambition-japan-demo.024-96d47eed68afcf795f74078a036908a7becd0a23af88969e9dadadab86259097a2d2e1ded8fe052b38a2fee2fabeda67774230d07ac00d9f39f922c6b249b3a9.png" alt="Sample" title="Sample" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="/assets/screenshots/down-the-world-mervils-ambition-japan-demo/down-the-world-mervils-ambition-japan.001-64547445eb3bce8b69ab3a930b61819de62fbc2d87c7d797270dadc31692b35e986bbd2a6fd26c74abe6423565d52e5547899cbc1889b1d9da474ef60ac91173.png" alt="Final" title="Final" />
+      </div>
+      <img src="/assets/screenshots/down-the-world-mervils-ambition-japan-demo/down-the-world-mervils-ambition-japan-demo.024-96d47eed68afcf795f74078a036908a7becd0a23af88969e9dadadab86259097a2d2e1ded8fe052b38a2fee2fabeda67774230d07ac00d9f39f922c6b249b3a9.png" alt="Sample" title="Sample" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="/assets/screenshots/down-the-world-mervils-ambition-japan-demo/down-the-world-mervils-ambition-japan.002-21993f4c4da33cd671d556670a45f7d9cc2a0cc2b1bd1a6b4c2cac709f12457fd328969ace6715c9b14b5a6d1565d4eccea2fe9d5bbed21ab54bae3ee1873b95.png" alt="Final" title="Final" />
+      </div>
+      <img src="/assets/screenshots/down-the-world-mervils-ambition-japan-demo/down-the-world-mervils-ambition-japan-demo.025-cb9661557eff4d30c6a755c4786bb2a8615064673adc40f7868cf9965c43c949bf9f3be6d98485c43a26a31bbe0e911892bd01714e0b7d06fc164829a4b07e45.png" alt="Sample" title="Sample" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="/assets/screenshots/down-the-world-mervils-ambition-japan-demo/down-the-world-mervils-ambition-japan.003-a1967ec4dee657c5c4666155440ca63722d0401b6522088922aa1ec5c9e2e0ac393cc2ddf0f6c729e87c141468a8dde257ff14db3d13e33b39f4e6e89d0b5041.png" alt="Final" title="Final" />
+      </div>
+      <img src="/assets/screenshots/down-the-world-mervils-ambition-japan-demo/down-the-world-mervils-ambition-japan-demo.027-a65c4cfafd0b0c7e66e8686a250249ff9f5e5971a1580685b2d1520728a09547ded5a208f4b9c623b64af82945f331abf154fcd18ecdc45c97b338db791fcce5.png" alt="Sample" title="Sample" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="/assets/screenshots/down-the-world-mervils-ambition-japan-demo/down-the-world-mervils-ambition-japan.004-bed9882018add879c813a8175d65ed33ff7eccf4a5582fe74fb1e012ed82338e75fd20f4a8219bb3716b0e157c907f2861437798b5a9c5ddd065d52d9b355124.png" alt="Final" title="Final" />
+      </div>
+      <img src="/assets/screenshots/down-the-world-mervils-ambition-japan-demo/down-the-world-mervils-ambition-japan-demo.028-291958e670f4e9b5aad82181cdce6a25e6fcaad912ddd725123e552f7bd110138490366a2ec25263438d1d4e9acf7bbc1114c6ffd70956999e382b060e315fdf.png" alt="Sample" title="Sample" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="/assets/screenshots/down-the-world-mervils-ambition-japan-demo/down-the-world-mervils-ambition-japan.005-500d30446216e11c26cc4dfe1d5a3e6f95bc9c053bfb27a26f6622b1aae3a06c8d0cab5805445d0cb9a83baa708db5f0c2d8e1b42416af79cf2676d460166b5c.png" alt="Final" title="Final" />
+      </div>
+      <img src="/assets/screenshots/down-the-world-mervils-ambition-japan-demo/down-the-world-mervils-ambition-japan-demo.029-418da6f8d7e9ccb8c37b37cdf1222b07cfdd52741f27c37b85fb61a89365442cf370a7f6d9c792923ff920a3cc6ec7fc72f4e125d3ceb930a30ad1396c7627a8.png" alt="Sample" title="Sample" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="/assets/screenshots/down-the-world-mervils-ambition-japan-demo/down-the-world-mervils-ambition-japan.006-48cb40fbc71d8444cde83adb0b8ad07c4a685d286b3d54243e6a8daceb17563942d8cd4d596825531c39b7d3df006db2892f092cd9ec4cde46978cd9c4dde08e.png" alt="Final" title="Final" />
+      </div>
+      <img src="/assets/screenshots/down-the-world-mervils-ambition-japan-demo/down-the-world-mervils-ambition-japan-demo.030-1bc32d25d3badc089849a0e13b9fbfe0610b2e86f83216b301a244cb654e49bb130b3c7d82a7296ee2effec73db1d73a7a9b4baee4a3735251f485ac8500e53d.png" alt="Sample" title="Sample" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="/assets/screenshots/down-the-world-mervils-ambition-japan-demo/down-the-world-mervils-ambition-japan.007-701d0603bc98f99833a15fdfc77a622be1386c326f40df54ea26be9127410a80fd1bca933f6a13e483f6b054bf920d3196821cc13338015671ebf1c1aa2394ff.png" alt="Final" title="Final" />
+      </div>
+      <img src="/assets/screenshots/down-the-world-mervils-ambition-japan-demo/down-the-world-mervils-ambition-japan-demo.031-c260d6021a3e8ca9a303eeb4971cebd3d08ec11666185b324d65a1fe1cf89fd3467e9728de2a33de6a33a1667d774a6b53d47bfbd916f71101da987b1ac4a877.png" alt="Sample" title="Sample" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="/assets/screenshots/down-the-world-mervils-ambition-japan-demo/down-the-world-mervils-ambition-japan.008-98c8169e98877af35528f7d0352f47526472982cbddbe83bbf362d5deb46f8f94ff2dbacb3e924a8958c7043c031c5adc8e7ea831bba244b9c37d27e1e201002.png" alt="Final" title="Final" />
+      </div>
+      <img src="/assets/screenshots/down-the-world-mervils-ambition-japan-demo/down-the-world-mervils-ambition-japan-demo.032-7272dd5bb82bac6063545645d5a269da44e47a3a8472a0c42997d7b28e07aae6dacf84a4ba1580fda6d6f91e7e468b0337f620176d21a09fbc712c2bba0b19f9.png" alt="Sample" title="Sample" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="/assets/screenshots/down-the-world-mervils-ambition-japan-demo/down-the-world-mervils-ambition-japan.009-a2991f32a196a769df4da8f71d169e0475d091e15496cc9a57fe8a40491150bcdce1786a4dcb07ee5aa5c747a6c6bdf16a4d650fecf1da56da14da59dd6609b0.png" alt="Final" title="Final" />
+      </div>
+      <img src="/assets/screenshots/down-the-world-mervils-ambition-japan-demo/down-the-world-mervils-ambition-japan-demo.033-e0373d7a3e688cac90c88d0bb70066e3b25a67da279d29e63506fd0548bbc4a306b6847c731771fe6d94e9c0598b4b22ba53a24c1a96e17d4307746508b478ff.png" alt="Sample" title="Sample" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="/assets/screenshots/down-the-world-mervils-ambition-japan-demo/down-the-world-mervils-ambition-japan.010-03864e43c04d950e444d0ccfc24987899dad858bc07a28ec86a5605c9119d614706340911ef4eb03034117bbcba6b1341b8e1824a84d49ad29bd676b5dfbf5f0.png" alt="Final" title="Final" />
+      </div>
+      <img src="/assets/screenshots/down-the-world-mervils-ambition-japan-demo/down-the-world-mervils-ambition-japan-demo.034-a18ce27714be1a66939fae5b4419b6884197fd043268cc5b516ebb8c63943bd4443a3c70d840df509367e1f0849d6e1136019840eff40df97b729bf628ff5709.png" alt="Sample" title="Sample" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="/assets/screenshots/down-the-world-mervils-ambition-japan-demo/down-the-world-mervils-ambition-japan.011-78fc1d06a545e4c0cd8a12e7a3909b064676271c80946a3c1cf35c1e28f55c56f8e1f39631a46ac986b7f79e6bd982f0f8d31c9cf14665279ad603d66242dcb1.png" alt="Final" title="Final" />
+      </div>
+      <img src="/assets/screenshots/down-the-world-mervils-ambition-japan-demo/down-the-world-mervils-ambition-japan-demo.035-66d9331626361fdbc687403d5dd0f13cbe31dae0c1885a61e3ba330bf8e90bd14de5f1852f62fe6b4069c2cdeb60f8f6df92276244f61ff19479e4e6be24bd7d.png" alt="Sample" title="Sample" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="/assets/screenshots/down-the-world-mervils-ambition-japan-demo/down-the-world-mervils-ambition-japan.012-a65cde06d9dc0f730324b2d2d4ead66793b5fe83b952e22f209b35a5dd34dd8660b1ef0ec8f8a0991b0ab4f24cbabe38c15a774100a99d927cb48e15b7be1765.png" alt="Final" title="Final" />
+      </div>
+      <img src="/assets/screenshots/down-the-world-mervils-ambition-japan-demo/down-the-world-mervils-ambition-japan-demo.037-75f5d6d81ad05a4800ec140b16751cee2b964d631ff7a55378faecbd913424d6fb23189d53ed61de43ba1fad31eeef0494cda3259ba5b1a8df936194c5450105.png" alt="Sample" title="Sample" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="/assets/screenshots/down-the-world-mervils-ambition-japan-demo/down-the-world-mervils-ambition-japan.013-7347678f198f090b7193760a8a8353a48d6952f86db1164738238c147897d0884468050b546ccbe970f4323a1f7e7f8d0c9f29d51c0d3051272e5939d4ba745a.png" alt="Final" title="Final" />
+      </div>
+      <img src="/assets/screenshots/down-the-world-mervils-ambition-japan-demo/down-the-world-mervils-ambition-japan-demo.038-4023207243c18d6bba3798d03e708f6e080154b9579f529eff0fe9f31e0b9c7cd6fb704179e32e680081043d4726f162a787dfbfb7bf0a6b302a46ff6448a8b8.png" alt="Sample" title="Sample" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="/assets/screenshots/down-the-world-mervils-ambition-japan-demo/down-the-world-mervils-ambition-japan.014-1b1c7176a90ddd22696d6ff7bcda2e8bae0ee9c74f80c7a28458e0298f4edb05fe3db420352f536a737650a6f0170f07b1bfa0d0976bba61a7ee37cbd7c31f43.png" alt="Final" title="Final" />
+      </div>
+      <img src="/assets/screenshots/down-the-world-mervils-ambition-japan-demo/down-the-world-mervils-ambition-japan-demo.039-cf5df29c6de1e50810a1e0a82fe21d302cea0ecfcc2ed291aaaac9813f29f5dd38077eb2b887abedb13c154a3d439910ad5bad0846040e6c90d5c50769e11f21.png" alt="Sample" title="Sample" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<pre><code>---------------------Internal ROM Info----------------------
+       File: Down the World - Mervil's Ambition (Japan) (Demo).sfc
+       Name: DOWN THE WORLD           Company: ASCII Co./Nexoft
+     Header: None                        Bank: HiROM
+Interleaved: None                        SRAM: 64 Kb
+       Type: Normal + Batt                ROM: 16 Mb
+    Country: Japan                      Video: NTSC
+  ROM Speed: 120ns (FastROM)         Revision: 1.0
+   Checksum: Bad 0x2229 != 0x5751   Game Code:
+---------------------------Hashes---------------------------
+      CRC32: 75D8E363
+        MD5: 575F8EAC8E976357113EA433D27A7CF4
+      SHA-1: 9BBB61002610D9C4BB1EB423F5FB78BC083F1CA1
+--------------------------Database--------------------------
+    ROM wasn't found in the database (possible bad dump).
+
+---------------------Internal ROM Info----------------------
+       File: Down the World - Mervil's Ambition (Japan).sfc
+       Name: DOWN THE WORLD           Company: ASCII Co./Nexoft
+     Header: None                        Bank: HiROM
+Interleaved: None                        SRAM: 64 Kb
+       Type: Normal + Batt                ROM: 16 Mb
+    Country: Japan                      Video: NTSC
+  ROM Speed: 120ns (FastROM)         Revision: 1.0
+   Checksum: Good 0x5627            Game Code:
+---------------------------Hashes---------------------------
+      CRC32: F1110FAD
+        MD5: F72D2187295B9803E29E810CBD2C78DA
+      SHA-1: 75DF5E4E2D577703EEDEDDEBA2314924DAE32263
+--------------------------Database--------------------------
+       Name: Down the World
+    Country: Japan                   Revision: 1.0
+     Port 1: Gamepad                   Port 2: Gamepad
+    Genre 1: RPG                      Genre 2: Unknown
+</code></pre>
+
+<p>If you happen to know the game well and find more differences, or can translate any of the screen shots above- <a href="https://github.com/MatthewCallis/eludevisibility.org">please update this post on GitHub</a> or contact me!</p>
+
+<p><img src="/assets/Down the World - Mervil's Ambition (Japan) (Demo) - PCB Front-9cfe5f62e9de8e8ac931e8008bb50f1d28e1542606f7bbbac4dddc9308af5d42f64bbd3b3e01d07b893f02df6456454a9a5e0f95b86df6c4f925407a43c225dd.jpg" alt="Down the World - Mervil's Ambition (Japan) (Demo) - PCB Front" title="Down the World - Mervil\'s Ambition (Japan) (Demo) - PCB Front" /></p>
+
+<p>A gameplay video play through played by <a href="https://www.youtube.com/channel/UCOXvfoAZZJhmDZw0boGkSYA">Kiddo Cabbusses | サテラビュー好きの外人さん</a>:</p>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/wXbkmgPZ4aY" frameborder="0" allowfullscreen=""></iframe>
+:ET

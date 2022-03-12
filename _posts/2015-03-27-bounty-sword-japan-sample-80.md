@@ -18,7 +18,7 @@ __[バウンティ ソード](https://superfamicom.org/info/bounty-sword)__
 80% (5/16 版)
 ```
 
-![Bounty Sword (Japan) (Sample, 80%)]({% asset_path 'screenshots/bounty-sword-japan-sample-80/bounty-sword-japan-sample-80.0.png' %})
+![Bounty Sword (Japan) (Sample, 80%)]({% asset 'screenshots/bounty-sword-japan-sample-80/bounty-sword-japan-sample-80.0.png' %})
 
 Purchased on Yahoo! Japan.
 
@@ -26,5 +26,5 @@ Write up at [SNESCentral](http://www.snescentral.com/review.php?id=0882&num=0&fa
 
 Write up at [pantalytron.com](http://pantalytron.com/blog7.php/bounty-sword-80-beta)
 
-![PCB]({% asset_path 'Bounty Sword (Japan) (Sample 80) - PCB.jpg' %})
-![Sample Label]({% asset_path 'Bounty Sword (Japan) (Sample 80) - Sample Label.jpg' %})
+![PCB]({% asset 'Bounty Sword (Japan) (Sample 80) - PCB.jpg' @path %})
+![Sample Label]({% asset 'Bounty Sword (Japan) (Sample 80) - Sample Label.jpg' @path %})

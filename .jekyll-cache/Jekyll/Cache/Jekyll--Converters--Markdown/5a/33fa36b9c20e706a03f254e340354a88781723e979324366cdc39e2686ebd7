@@ -1,0 +1,96 @@
+I"�<p><strong><a href="https://superfamicom.org/info/arabian-nights-sabaku-no-seirei-ou">アラビアンナイト 〜砂漠の精霊王〜</a></strong></p>
+
+<p>A beautiful card based RPG. The ROM is very different in certain parts, but I can’t find where or how to access the differences.</p>
+
+<p><img src="/assets/screenshots/arabian-knights-japan-prototype/title-21c86effd9694cf214042644b499ec65bc738d8be0123321e84e95c568043f4647b650090ccbdd0c2fbcf605c596affd1bc871fd60f6dd77715909840c183523.png" alt="Title" title="Title" />
+<img src="/assets/screenshots/arabian-knights-japan-prototype/castle-c20ff5516fd03ada60ff7f84d233aff62f5482d535ebf1252c29fd9f69fc203256437e5473f23a2debe5acb065b6f2a374cba7b53af61ae367cf142f269810aa.png" alt="Title" title="Title" /></p>
+
+<p><em>Initial Stats</em></p>
+
+<p>I did notice you start with less of something in the prototype, but that was all.</p>
+
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="/assets/screenshots/arabian-knights-japan-prototype/stats-final-ee4831fba3caf14b3c8a88af61dca0a2a1918f14e6d2cd6f8331148bed2ab5da31f06a8e2e028d090126470e90f1ff647121994d08bd3f7cf3e0054b948d1b30.png" alt="Stats - Final" title="Stats - Final" />
+      </div>
+      <img src="/assets/screenshots/arabian-knights-japan-prototype/stats-606adfe2042dc6485e43c968e0e35f61b65b4b423c32b7af6130df3f2e68ba97569f5a0370939820af9fdca4bc491387897f67dd60897deb3bf45bd42887b671.png" alt="Stats - Sample" title="Stats - Sample" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<p><em>Pro-Action Replay Codes / Cheats</em></p>
+
+<p>These were useful when trying to figure it out.</p>
+
+<pre><code>7E00D6 80 - No Enemies
+7E0473 FF - Girl HP at 255
+7E04D3 FF - Boy HP at 255
+
+</code></pre>
+
+<p><em>ROM Info</em></p>
+
+<pre><code>---------------------Internal ROM Info----------------------
+       File: Arabian Knights - Sabaku no Seirei Ou (Japan) (Prototype).sfc
+       Name: ｱﾗﾋﾞｱﾝﾅｲﾄ               Company: Takara
+     Header: None                        Bank: HiROM
+Interleaved: None                        SRAM: 64 Kb
+       Type: Normal + Batt                ROM: 20 Mb
+    Country: Japan                      Video: NTSC
+  ROM Speed: 120ns (FastROM)         Revision: 1.0
+   Checksum: Good 0x01CA            Game Code: AAJJ
+---------------------------Hashes---------------------------
+      CRC32: DB17DCFA
+        MD5: CE5090F7F795557C48986BA68CFF09DB
+      SHA-1: 79883A2816BAD5AFE68A93F8679190DC1995B4E7
+--------------------------Database--------------------------
+    ROM wasn't found in the database (possible bad dump).
+
+---------------------Internal ROM Info----------------------
+       File: Arabian Knights - Sabaku no Seirei Ou (Japan).sfc
+       Name: ｱﾗﾋﾞｱﾝﾅｲﾄ               Company: Takara
+     Header: None                        Bank: HiROM
+Interleaved: None                        SRAM: 64 Kb
+       Type: Normal + Batt                ROM: 20 Mb
+    Country: Japan                      Video: NTSC
+  ROM Speed: 120ns (FastROM)         Revision: 1.0
+   Checksum: Good 0x1FCC            Game Code: AAJJ
+---------------------------Hashes---------------------------
+      CRC32: B6DBF57B
+        MD5: EB1AD755DA3310F392CF8BC94962612E
+      SHA-1: 4C06A9A1F5598869852B9F008136E38E2A39BAAB
+--------------------------Database--------------------------
+       Name: Arabian Nights - Sabaku no Seirei Ou
+    Country: Japan                   Revision: 1.0
+     Port 1: Gamepad                   Port 2: Gamepad
+    Genre 1: RPG                      Genre 2: Turn Based
+</code></pre>
+
+<p>If you happen to know the game well and find more differences, or can translate any of the screen shots above- <a href="https://github.com/MatthewCallis/eludevisibility.org">please update this post on GitHub</a> or contact me!</p>
+
+<p>PCB Scans coming soon!</p>
+:ET

@@ -15,8 +15,8 @@ __[アラビアンナイト 〜砂漠の精霊王〜](https://superfamicom.org/i
 
 A beautiful card based RPG. The ROM is very different in certain parts, but I can't find where or how to access the differences.
 
-![Title]({% asset_path 'screenshots/arabian-knights-japan-prototype/title.png' %} "Title")
-![Title]({% asset_path 'screenshots/arabian-knights-japan-prototype/castle.png' %} "Title")
+![Title]({% asset 'screenshots/arabian-knights-japan-prototype/title.png' @path %} "Title")
+![Title]({% asset 'screenshots/arabian-knights-japan-prototype/castle.png' @path %} "Title")
 
 _Initial Stats_
 

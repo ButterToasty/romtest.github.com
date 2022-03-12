@@ -1,0 +1,283 @@
+I"€K<p><strong><a href="https://superfamicom.org/info/the-pirates-of-dark-water">The Pirates of Dark Water</a></strong></p>
+
+<p>This is a PAL sample, different than the <a href="http://www.snescentral.com/review.php?id=0549&amp;num=0&amp;fancy=yes&amp;article=proto">USA Prototype on SNESCentral</a>, but another copy of the <a href="http://www.snescentral.com/review.php?id=0549&amp;num=1&amp;fancy=yes&amp;article=proto">white label version</a>. Apart from being in a case, there are only a handful of differences between all the versions I compared: <em>USA Prototype</em>, <em>Europe</em> and <em>Europe Sample</em>. For the most part, the <em>USA Prototype</em> matched the <em>Europe</em> final closer than the <em>Europe Sample</em> did.</p>
+
+<p><em>Titles - USA Prototype</em>  / <em>Europe</em>  / <em>Europe Sample</em></p>
+
+<p>The <em>Europe Sample</em>  title has the string <code>SAMPLE VERSION</code> clearly at the top. The missing <code>PRESS START</code> is simply not picture as it blinks in all version.</p>
+
+<p><img src="/assets/screenshots/pirates-of-dark-water-europe-sample/usa-prototype-title-36f74abb44fee980408163273bcdbb23598d36083a307aa669b6f4fafdd4ab92e51f91b3f1a1f360b932f95d0352145470e40502bee28d773b380ccc31542e5f.png" alt="USA Prototype Title" title="USA Prototype Title" />
+<img src="/assets/screenshots/pirates-of-dark-water-europe-sample/europe-title-769b25edfad08b068f14b9e30a1ddada97c6f4e49e61d1b7d22fd399a8aec58f450c809569b47211bedc6146abce61cbec7defd8d149ed811bcca0b56601fb60.png" alt="Europe Title" title="Europe Title" />
+<img src="/assets/screenshots/pirates-of-dark-water-europe-sample/europe-sample-title-a3ff83c56639dcd89e211a8d4487fede6e83daa2079ef8351f824d4df6b7e519364139e4deb16a951d2e036fb0ce18991d3c7e64c1d85ac1afcf80a587870f5a.png" alt="Europe Sample Title" title="Europe Sample Title" /></p>
+
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="/assets/screenshots/pirates-of-dark-water-europe-sample/europe-sample-title-a3ff83c56639dcd89e211a8d4487fede6e83daa2079ef8351f824d4df6b7e519364139e4deb16a951d2e036fb0ce18991d3c7e64c1d85ac1afcf80a587870f5a.png" alt="Title - Europe Sample" title="Title - Europe Sample" />
+      </div>
+      <img src="/assets/screenshots/pirates-of-dark-water-europe-sample/europe-title-769b25edfad08b068f14b9e30a1ddada97c6f4e49e61d1b7d22fd399a8aec58f450c809569b47211bedc6146abce61cbec7defd8d149ed811bcca0b56601fb60.png" alt="Title - Europe" title="Title - Europe" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<p><em>License - USA Prototype</em>  / <em>Europe Sample</em></p>
+
+<p>As noted on <a href="http://www.snescentral.com/review.php?id=0549&amp;num=0&amp;fancy=yes&amp;article=proto">SNESCentral</a> the license screen has been shuffled around, moving the license string <code>LICENSED BY NINTENDO</code> to the title screen.</p>
+
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="/assets/screenshots/pirates-of-dark-water-europe-sample/europe-sample-license-a6cbad9d929b7e94ccf494730cc57be82783203b3497eb499f3f61c3861ab8f8ba1a38a0ae49a6f2a6383ed2aef012b9c5453f277a14008b4adbf24e828f36e3.png" alt="License - Europe Sample" title="License - Europe Sample" />
+      </div>
+      <img src="/assets/screenshots/pirates-of-dark-water-europe-sample/usa-prototype-license-66ad9269e2072975afda8ff2b8e5c9fdfa7eab7c7c79050d43d286efc38daa4c21e7dff71b4b7caf721f27d3b7baf6f6555e5f34dca92879376fcb5a3d78aaaa.png" alt="License - USA Prototype" title="License - USA Prototype" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<p><em>Options - USA Prototype</em>  / <em>Europe Sample</em></p>
+
+<p>The <em>Europe Sample</em> has a <code>LEVEL SELECT</code>, as seen on <a href="https://tcrf.net/The_Pirates_of_Dark_Water_(SNES)">The Cutting Room Floor article</a> that lets you toggle between <code>01</code>, <code>04</code> and <code>05</code>, this is missing from the <em>USA Prototype</em> version.</p>
+
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="/assets/screenshots/pirates-of-dark-water-europe-sample/europe-sample-options-01119042e1189c7c8b7069a4e8808723a662bdb7f805129ac4484729d7d9eb7bb30441b43a728833399924db178882744d23b1ff70a4c84b301ec72440d13071.png" alt="Options - Europe Sample" title="Options - Europe Sample" />
+      </div>
+      <img src="/assets/screenshots/pirates-of-dark-water-europe-sample/usa-prototype-options-45278e1a399a47eb635303202782dea5f933b29fc02505e61c2cc6b58b61f3eaf92de07ecf539281c2f1b3fa2567ed9d104f816f7b084f3b7740e2716a3f951e.png" alt="Options - USA Prototype" title="Options - USA Prototype" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<p><em>Game Select - USA Prototype</em>  / <em>Europe Sample</em></p>
+
+<p>The <em>Europe Sample</em> has the options higher up, which is harder to read.</p>
+
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="/assets/screenshots/pirates-of-dark-water-europe-sample/europe-sample-select-7f544512353f37eef52c0e3e746775d81679d577b9f47c6a2d6124f231590c7ab3673b8bb035438304d78dba5aa4e5683a39c925430facb07a6246973878c477.png" alt="Select - Europe Sample" title="Select - Europe Sample" />
+      </div>
+      <img src="/assets/screenshots/pirates-of-dark-water-europe-sample/usa-prototype-select-3d8542db46cfe640174312bf49576875edf9ff3eb2967faa19e1d470240fb1c85a5a2f56b46a591f529d005e5182f817f5702a9b8771410ea73bd47a17971b2b.png" alt="Select - USA Prototype" title="Select - USA Prototype" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<p><em>Level 1 - Dragonâ€™s Maw - USA Prototype</em>  / <em>Europe Sample</em></p>
+
+<p>The <em>USA Prototype</em> appears to have no shadow under the player, but is otherwise the same from what I saw. The flying creatures are randomly placed in the background.</p>
+
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="/assets/screenshots/pirates-of-dark-water-europe-sample/europe-sample-level-1-a81e2efb1022b574ed66e7db1f2b1d7edbde1f28c1db4785383310cd4cdc084032496b263b1cd04a69db7f2f1f1e9426da8330cd13be622f236d5634f3bb494c.png" alt="Level 1 - Dragon's Maw - Europe Sample" title="Level 1 - Dragon's Maw - Europe Sample" />
+      </div>
+      <img src="/assets/screenshots/pirates-of-dark-water-europe-sample/usa-prototype-level-1-1a5d94ceba98b9f56fcff42fbbd35ab2dde1f100ee5e5b4653ce08e1e539d76b670fbf2cc29e3344b8661faf9be8919a6fad72056be42d34d0ef2226d46ae147.png" alt="Level 1 - Dragon's Maw - USA Prototype" title="Level 1 - Dragon's Maw - USA Prototype" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<p><em>Screenshots</em></p>
+
+<p><img src="/assets/screenshots/pirates-of-dark-water-europe-sample/europe-sample-sunsoft-87154ce2f91ca3cc7fe2812c02100229b695a0a67dbbd010e61293d3c959c0a02757649fab4df9a132a93564330340edebba443e59b914892d231b678f89e657.png" alt="Sunsoft Logo" />
+<img src="/assets/screenshots/pirates-of-dark-water-europe-sample/europe-sample-intro-text-a3c5c62c4550d5cf2d6c09e278d7e4c23b2c0ba3e64301a45ab24c6ace0e7adae41678321c1e0af26e9bb14c5834a6db6ed5af4af47f2c40c7acf8bb11da0ed9.png" alt="Intro Text" />
+<img src="/assets/screenshots/pirates-of-dark-water-europe-sample/europe-sample-frame-1-7a18245a694e5fd78985d05e42af2cbfee0e1efd15a77c3086eac324c228b93b66fb6b488e1975f0ae08f5376448cb5f2556f7f019f50f23c2ff5b224ebea685.png" alt="Frame 1" />
+<img src="/assets/screenshots/pirates-of-dark-water-europe-sample/europe-sample-frame-2-de8cd79af60209c9263efd58f2f6d76b18c1e2eae5e85d258d71511046c1a81be1af0a8603a91d0fa22a650d48086cc50219ad705f0d75663f5d5b8929bed05c.png" alt="Frame 2" />
+<img src="/assets/screenshots/pirates-of-dark-water-europe-sample/europe-sample-ren-bio-51497536350782680a9ab78e42f982517331bccf65a4173fac208f9dc75e90706f1b9a2c4363c2b4db3cdd5ad0d411e45af178d4dc6c8a62b4943bbfa5efc07e.png" alt="Ren Bio" />
+<img src="/assets/screenshots/pirates-of-dark-water-europe-sample/europe-sample-character-select-61fb48eb8493d79075aea05a77d45d9183443b3811402918e1ccb7f45864933cc9f7a567a1d06d983fa58276fe351587c2fadbd9bc982a27a4e973125bf54448.png" alt="Character Select" />
+<img src="/assets/screenshots/pirates-of-dark-water-europe-sample/europe-sample-map-1-dce3f04d6841e347a3e0d762a179a3a001181fda832ad61f9fc7d2264c257ff0b9c70e9bf972f8202f07d8b68be50cc6ce0da9be54d74aee22195459e8dd0816.png" alt="Map 1" />
+<img src="/assets/screenshots/pirates-of-dark-water-europe-sample/europe-sample-map-2-28c50f7f74fe5bcf95e3f46a183cb1dc8fb10e8c01b508c80424131b125599101f6a85c968ce589751775611240d81b39f19047961dabc3964b73deeee3498da.png" alt="Map 2" />
+<img src="/assets/screenshots/pirates-of-dark-water-europe-sample/europe-sample-level-5-cf3df91f8ee1e290a8b231836ac4292cc79037850217527201030b9959e2c7f0a96b98379778ac22c9c2deeb8e82b68ef08497775a1447f73091fe1f8603f6ba.png" alt="Level 5" /></p>
+
+<p><em>ROM Info</em></p>
+
+<pre><code>---------------------Internal ROM Info----------------------
+       File: Pirates of Dark Water, The (Europe) (Sample).sfc
+       Name: DARK WATER               Company: Sunsoft
+     Header: None                        Bank: LoROM
+Interleaved: None                        SRAM: 0 Kb
+       Type: Normal                       ROM: 8 Mb
+    Country: Euro/Asia/Oceania          Video: PAL
+  ROM Speed: 120ns (FastROM)         Revision: 1.0
+   Checksum: Bad 0xBBA9 != 0xBC87   Game Code:
+---------------------------Hashes---------------------------
+      CRC32: E3986DBF
+        MD5: 4C3814F5BE295994785F749A6C5425A4
+      SHA-1: D14BA08717BDFF5082F3D8E7730A6E62C27B7998
+--------------------------Database--------------------------
+    ROM wasn't found in the database (possible bad dump).
+
+---------------------Internal ROM Info----------------------
+       File: Pirates of Dark Water, The (Europe).sfc
+       Name: DARK WATER               Company: Sunsoft
+     Header: None                        Bank: LoROM
+Interleaved: None                        SRAM: 0 Kb
+       Type: Normal                       ROM: 8 Mb
+    Country: Euro/Asia/Oceania          Video: PAL
+  ROM Speed: 120ns (FastROM)         Revision: 1.0
+   Checksum: Good 0xE82F            Game Code:
+---------------------------Hashes---------------------------
+      CRC32: 4C4782B5
+        MD5: CD4DF66A9798365D5A766FCFF18B4377
+      SHA-1: DAED2AA89DFC2FB4DE1C690C2E26ACF271C0AA31
+--------------------------Database--------------------------
+       Name: Pirates of Dark Water, The
+    Country: Europe                  Revision: 1.0
+     Port 1: Gamepad                   Port 2: Gamepad
+    Genre 1: Fighting                 Genre 2: Brawler
+
+---------------------Internal ROM Info----------------------
+       File: Pirates of Dark Water, The (USA) (Prototype).sfc
+       Name: DARK WATER               Company: Sunsoft
+     Header: None                        Bank: LoROM
+Interleaved: None                        SRAM: 0 Kb
+       Type: Normal                       ROM: 8 Mb
+    Country: USA                        Video: NTSC
+  ROM Speed: 120ns (FastROM)         Revision: 1.0
+   Checksum: Good 0xF8AA            Game Code:
+---------------------------Hashes---------------------------
+      CRC32: 2BB26C4A
+        MD5: 097DA94A3066DA59D1D31F4C54BAD041
+      SHA-1: 524B7252FB07C7085D6539DA91BF2F9E18C92D8B
+--------------------------Database--------------------------
+    ROM wasn't found in the database (possible bad dump).
+
+---------------------Internal ROM Info----------------------
+       File: Pirates of Dark Water, The (USA).sfc
+       Name: DARK WATER               Company: Sunsoft
+     Header: None                        Bank: LoROM
+Interleaved: None                        SRAM: 0 Kb
+       Type: Normal                       ROM: 8 Mb
+    Country: USA                        Video: NTSC
+  ROM Speed: 120ns (FastROM)         Revision: 1.0
+   Checksum: Good 0xE87B            Game Code:
+---------------------------Hashes---------------------------
+      CRC32: 7CA0CA4D
+        MD5: E57FF9A6F8A23935A1171F871C0CE68F
+      SHA-1: EE8CB83B46B0DFCE33CBBFA16BF0C713FBF288BA
+--------------------------Database--------------------------
+       Name: Pirates of Dark Water, The
+    Country: USA                     Revision: 1.0
+     Port 1: Gamepad                   Port 2: Gamepad
+    Genre 1: Fighting                 Genre 2: Brawler
+</code></pre>
+
+<p>If you happen to know the game well and find more differences, or can translate any of the screen shots above- <a href="https://github.com/MatthewCallis/eludevisibility.org">please update this post on GitHub</a> or contact me!</p>
+
+<p><img src="/assets/The Pirates of Dark Water (USA) (Sample) - Cart-0945a39fb31141a1ca615b1d2f0146e80d331159935e038b9b9e6f15a2e8be61efa6bc06f6c2096d3201bb17261d7a0985ac6870229df77b1fe47f2065bde952.jpg" alt="The Pirates of Dark Water (USA) (Sample) - Cart" title="The Pirates of Dark Water (USA) (Sample) - Cart" />
+<img src="/assets/The Pirates of Dark Water (USA) (Sample) - PCB Front-35b7dfce7c4b2c51946521024038163630072b4041310cf4ca60d039a161f72565a8036a82d1e3be0602212b7f3f59606d4394ca0ef68c22292428305a0d7e26.jpg" alt="The Pirates of Dark Water (USA) (Sample) - PCB Front" title="The Pirates of Dark Water (USA) (Sample) - PCB Front" /></p>
+:ET

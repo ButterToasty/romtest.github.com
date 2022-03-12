@@ -30,44 +30,44 @@ _Extra Intro Scene_
 
 There is an extra intro sequence not in the final demo. Any help translating the strings would be wonderful!
 
-![Dialog 1]({% asset_path 'screenshots/down-the-world-mervils-ambition-japan-demo/down-the-world-mervils-ambition-japan-demo.001.png' %})
-![Dialog 2]({% asset_path 'screenshots/down-the-world-mervils-ambition-japan-demo/down-the-world-mervils-ambition-japan-demo.002.png' %})
-![Dialog 3]({% asset_path 'screenshots/down-the-world-mervils-ambition-japan-demo/down-the-world-mervils-ambition-japan-demo.003.png' %})
-![Dialog 4]({% asset_path 'screenshots/down-the-world-mervils-ambition-japan-demo/down-the-world-mervils-ambition-japan-demo.004.png' %})
-![Dialog 5]({% asset_path 'screenshots/down-the-world-mervils-ambition-japan-demo/down-the-world-mervils-ambition-japan-demo.005.png' %})
-![Dialog 6]({% asset_path 'screenshots/down-the-world-mervils-ambition-japan-demo/down-the-world-mervils-ambition-japan-demo.006.png' %})
-![Dialog 7]({% asset_path 'screenshots/down-the-world-mervils-ambition-japan-demo/down-the-world-mervils-ambition-japan-demo.007.png' %})
-![Dialog 8]({% asset_path 'screenshots/down-the-world-mervils-ambition-japan-demo/down-the-world-mervils-ambition-japan-demo.008.png' %})
-![Dialog 9]({% asset_path 'screenshots/down-the-world-mervils-ambition-japan-demo/down-the-world-mervils-ambition-japan-demo.009.png' %})
-![Dialog 10]({% asset_path 'screenshots/down-the-world-mervils-ambition-japan-demo/down-the-world-mervils-ambition-japan-demo.010.png' %})
-![Dialog 11]({% asset_path 'screenshots/down-the-world-mervils-ambition-japan-demo/down-the-world-mervils-ambition-japan-demo.011.png' %})
-![Dialog 12]({% asset_path 'screenshots/down-the-world-mervils-ambition-japan-demo/down-the-world-mervils-ambition-japan-demo.012.png' %})
-![Dialog 13]({% asset_path 'screenshots/down-the-world-mervils-ambition-japan-demo/down-the-world-mervils-ambition-japan-demo.013.png' %})
-![Dialog 14]({% asset_path 'screenshots/down-the-world-mervils-ambition-japan-demo/down-the-world-mervils-ambition-japan-demo.014.png' %})
-![Dialog 15]({% asset_path 'screenshots/down-the-world-mervils-ambition-japan-demo/down-the-world-mervils-ambition-japan-demo.015.png' %})
-![Dialog 16]({% asset_path 'screenshots/down-the-world-mervils-ambition-japan-demo/down-the-world-mervils-ambition-japan-demo.016.png' %})
-![Dialog 17]({% asset_path 'screenshots/down-the-world-mervils-ambition-japan-demo/down-the-world-mervils-ambition-japan-demo.017.png' %})
-![Dialog 18]({% asset_path 'screenshots/down-the-world-mervils-ambition-japan-demo/down-the-world-mervils-ambition-japan-demo.018.png' %})
-![Dialog 19]({% asset_path 'screenshots/down-the-world-mervils-ambition-japan-demo/down-the-world-mervils-ambition-japan-demo.019.png' %})
-![Dialog 20]({% asset_path 'screenshots/down-the-world-mervils-ambition-japan-demo/down-the-world-mervils-ambition-japan-demo.020.png' %})
-![Dialog 21]({% asset_path 'screenshots/down-the-world-mervils-ambition-japan-demo/down-the-world-mervils-ambition-japan-demo.021.png' %})
-![Dialog 22]({% asset_path 'screenshots/down-the-world-mervils-ambition-japan-demo/down-the-world-mervils-ambition-japan-demo.022.png' %})
+![Dialog 1]({% asset 'screenshots/down-the-world-mervils-ambition-japan-demo/down-the-world-mervils-ambition-japan-demo.001.png' @path %})
+![Dialog 2]({% asset 'screenshots/down-the-world-mervils-ambition-japan-demo/down-the-world-mervils-ambition-japan-demo.002.png' @path %})
+![Dialog 3]({% asset 'screenshots/down-the-world-mervils-ambition-japan-demo/down-the-world-mervils-ambition-japan-demo.003.png' @path %})
+![Dialog 4]({% asset 'screenshots/down-the-world-mervils-ambition-japan-demo/down-the-world-mervils-ambition-japan-demo.004.png' @path %})
+![Dialog 5]({% asset 'screenshots/down-the-world-mervils-ambition-japan-demo/down-the-world-mervils-ambition-japan-demo.005.png' @path %})
+![Dialog 6]({% asset 'screenshots/down-the-world-mervils-ambition-japan-demo/down-the-world-mervils-ambition-japan-demo.006.png' @path %})
+![Dialog 7]({% asset 'screenshots/down-the-world-mervils-ambition-japan-demo/down-the-world-mervils-ambition-japan-demo.007.png' @path %})
+![Dialog 8]({% asset 'screenshots/down-the-world-mervils-ambition-japan-demo/down-the-world-mervils-ambition-japan-demo.008.png' @path %})
+![Dialog 9]({% asset 'screenshots/down-the-world-mervils-ambition-japan-demo/down-the-world-mervils-ambition-japan-demo.009.png' @path %})
+![Dialog 10]({% asset 'screenshots/down-the-world-mervils-ambition-japan-demo/down-the-world-mervils-ambition-japan-demo.010.png' @path %})
+![Dialog 11]({% asset 'screenshots/down-the-world-mervils-ambition-japan-demo/down-the-world-mervils-ambition-japan-demo.011.png' @path %})
+![Dialog 12]({% asset 'screenshots/down-the-world-mervils-ambition-japan-demo/down-the-world-mervils-ambition-japan-demo.012.png' @path %})
+![Dialog 13]({% asset 'screenshots/down-the-world-mervils-ambition-japan-demo/down-the-world-mervils-ambition-japan-demo.013.png' @path %})
+![Dialog 14]({% asset 'screenshots/down-the-world-mervils-ambition-japan-demo/down-the-world-mervils-ambition-japan-demo.014.png' @path %})
+![Dialog 15]({% asset 'screenshots/down-the-world-mervils-ambition-japan-demo/down-the-world-mervils-ambition-japan-demo.015.png' @path %})
+![Dialog 16]({% asset 'screenshots/down-the-world-mervils-ambition-japan-demo/down-the-world-mervils-ambition-japan-demo.016.png' @path %})
+![Dialog 17]({% asset 'screenshots/down-the-world-mervils-ambition-japan-demo/down-the-world-mervils-ambition-japan-demo.017.png' @path %})
+![Dialog 18]({% asset 'screenshots/down-the-world-mervils-ambition-japan-demo/down-the-world-mervils-ambition-japan-demo.018.png' @path %})
+![Dialog 19]({% asset 'screenshots/down-the-world-mervils-ambition-japan-demo/down-the-world-mervils-ambition-japan-demo.019.png' @path %})
+![Dialog 20]({% asset 'screenshots/down-the-world-mervils-ambition-japan-demo/down-the-world-mervils-ambition-japan-demo.020.png' @path %})
+![Dialog 21]({% asset 'screenshots/down-the-world-mervils-ambition-japan-demo/down-the-world-mervils-ambition-japan-demo.021.png' @path %})
+![Dialog 22]({% asset 'screenshots/down-the-world-mervils-ambition-japan-demo/down-the-world-mervils-ambition-japan-demo.022.png' @path %})
 
 _Extra Outro Scenes_
 
 There is also an extra few outro sequences not in the final demo. Any help translating them too, would be wonderful!
 
-![Dialog 1]({% asset_path 'screenshots/down-the-world-mervils-ambition-japan-demo/down-the-world-mervils-ambition-japan-demo.101.png' %})
-![Dialog 2]({% asset_path 'screenshots/down-the-world-mervils-ambition-japan-demo/down-the-world-mervils-ambition-japan-demo.102.png' %})
-![Dialog 3]({% asset_path 'screenshots/down-the-world-mervils-ambition-japan-demo/down-the-world-mervils-ambition-japan-demo.103.png' %})
-![Dialog 4]({% asset_path 'screenshots/down-the-world-mervils-ambition-japan-demo/down-the-world-mervils-ambition-japan-demo.104.png' %})
-![Dialog 5]({% asset_path 'screenshots/down-the-world-mervils-ambition-japan-demo/down-the-world-mervils-ambition-japan-demo.105.png' %})
-![Dialog 6]({% asset_path 'screenshots/down-the-world-mervils-ambition-japan-demo/down-the-world-mervils-ambition-japan-demo.106.png' %})
-![Dialog 7]({% asset_path 'screenshots/down-the-world-mervils-ambition-japan-demo/down-the-world-mervils-ambition-japan-demo.107.png' %})
-![Dialog 8]({% asset_path 'screenshots/down-the-world-mervils-ambition-japan-demo/down-the-world-mervils-ambition-japan-demo.109.png' %})
-![Dialog 9]({% asset_path 'screenshots/down-the-world-mervils-ambition-japan-demo/down-the-world-mervils-ambition-japan-demo.110.png' %})
-![Dialog 10]({% asset_path 'screenshots/down-the-world-mervils-ambition-japan-demo/down-the-world-mervils-ambition-japan-demo.111.png' %})
-![Dialog 11]({% asset_path 'screenshots/down-the-world-mervils-ambition-japan-demo/down-the-world-mervils-ambition-japan-demo.112.png' %})
+![Dialog 1]({% asset 'screenshots/down-the-world-mervils-ambition-japan-demo/down-the-world-mervils-ambition-japan-demo.101.png' @path %})
+![Dialog 2]({% asset 'screenshots/down-the-world-mervils-ambition-japan-demo/down-the-world-mervils-ambition-japan-demo.102.png' @path %})
+![Dialog 3]({% asset 'screenshots/down-the-world-mervils-ambition-japan-demo/down-the-world-mervils-ambition-japan-demo.103.png' @path %})
+![Dialog 4]({% asset 'screenshots/down-the-world-mervils-ambition-japan-demo/down-the-world-mervils-ambition-japan-demo.104.png' @path %})
+![Dialog 5]({% asset 'screenshots/down-the-world-mervils-ambition-japan-demo/down-the-world-mervils-ambition-japan-demo.105.png' @path %})
+![Dialog 6]({% asset 'screenshots/down-the-world-mervils-ambition-japan-demo/down-the-world-mervils-ambition-japan-demo.106.png' @path %})
+![Dialog 7]({% asset 'screenshots/down-the-world-mervils-ambition-japan-demo/down-the-world-mervils-ambition-japan-demo.107.png' @path %})
+![Dialog 8]({% asset 'screenshots/down-the-world-mervils-ambition-japan-demo/down-the-world-mervils-ambition-japan-demo.109.png' @path %})
+![Dialog 9]({% asset 'screenshots/down-the-world-mervils-ambition-japan-demo/down-the-world-mervils-ambition-japan-demo.110.png' @path %})
+![Dialog 10]({% asset 'screenshots/down-the-world-mervils-ambition-japan-demo/down-the-world-mervils-ambition-japan-demo.111.png' @path %})
+![Dialog 11]({% asset 'screenshots/down-the-world-mervils-ambition-japan-demo/down-the-world-mervils-ambition-japan-demo.112.png' @path %})
 
 _Demo - Final_  / _Sample_
 
@@ -217,7 +217,7 @@ Interleaved: None                        SRAM: 64 Kb
 
 If you happen to know the game well and find more differences, or can translate any of the screen shots above- [please update this post on GitHub](https://github.com/MatthewCallis/eludevisibility.org) or contact me!
 
-![Down the World - Mervil\'s Ambition (Japan) (Demo) - PCB Front]({% asset_path "Down the World - Mervil's Ambition (Japan) (Demo) - PCB Front.jpg" %} "Down the World - Mervil\'s Ambition (Japan) (Demo) - PCB Front")
+![Down the World - Mervil\'s Ambition (Japan) (Demo) - PCB Front]({% asset "Down the World - Mervil's Ambition (Japan) (Demo) - PCB Front.jpg" @path %} "Down the World - Mervil\'s Ambition (Japan) (Demo) - PCB Front")
 
 A gameplay video play through played by [Kiddo Cabbusses | サテラビュー好きの外人さん](https://www.youtube.com/channel/UCOXvfoAZZJhmDZw0boGkSYA):
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/wXbkmgPZ4aY" frameborder="0" allowfullscreen></iframe>

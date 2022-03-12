@@ -1,0 +1,118 @@
+I"Q<p><strong><a href="https://superfamicom.org/info/shonen-ninja-sasuke">少年忍者サスケ</a></strong></p>
+
+<p>Identical except for the header to the <code>Beta</code> that has been circulating for a long time. More than anything it just confirms the <code>Beta</code> versions authenticity, as they rest of the file is identical, basically adding header details as seen below. This at least has a date of <code>1994-07-26</code> from an EEPROM label.</p>
+
+<p>Not sure what the real differences are, it seemed very similar except everything noted below.</p>
+
+<p><em>Title - Final</em>  / <em>Sample</em></p>
+
+<p>The title is different by stopping a few pixels off and missing the copyright info.</p>
+
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="/assets/screenshots/shounen-ninja-sasuke-japan-sample/title-e9738377a3e01f5f3e30940cbd0605509d86f2c43a0475546dff11eddb13c1237373f76cf7ad79834e2ac7d2f57d9097172a2a6e982d0c2cb86bfed598f581e8.png" alt="Title - Final" title="Title - Final" />
+      </div>
+      <img src="/assets/screenshots/shounen-ninja-sasuke-japan-sample/title-sample-eb6a9337b1804144ea44fc7a837f50904a87efd5c4f08efad74f4f8c4a8efc8e0566862907676df4ab1706e0649cf556457fd435a90d91f2da19f2227989a9ef.png" alt="Title - Sample" title="Title - Sample" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<p><em>Sample</em></p>
+
+<p>These appear to be the same as final, here for show.</p>
+
+<p><img src="/assets/screenshots/shounen-ninja-sasuke-japan-sample/dialog-1-sample-db9cc9de8b3645eada40d9ba246db119daadf3f799fafaca9ec20bd371aa43933bb3de315b7147d6cb2381bbe18b0a76b6cf88b4bd3a538f7e1b37f0804cdced.png" alt="Dialog 1" />
+<img src="/assets/screenshots/shounen-ninja-sasuke-japan-sample/dialog-2-sample-0b45895368625610dbbb4526b38b235afa4981644773817015631f5f8d9066b518a278ff4599e6896c14efebd860b4cca2ba928cdccddc335aa18ad73689b214.png" alt="Dialog 2" />
+<img src="/assets/screenshots/shounen-ninja-sasuke-japan-sample/dialog-3-sample-d43f540f5a64cd7e6ad79ca0f4fbc2f6619d28201eafde8d511c0426cb48225730cd018247748142b5e92268db403a4653bdf52b45017e5c3f35d75b5fbb5343.png" alt="Dialog 3" />
+<img src="/assets/screenshots/shounen-ninja-sasuke-japan-sample/dialog-4-sample-fa8eea46ca70e555b11b8938060bac78beef91ae7d1c3e17cac1a05f82727f09a456cbdd062f58d238d0770caecf45426b2fd24089207c2085a1b8bff4d01216.png" alt="Dialog 4" />
+<img src="/assets/screenshots/shounen-ninja-sasuke-japan-sample/2-player-sample-32fc3819eabba544c9dd3f9a24616f3ec9e10e6da9815eb71e5339d5a7eb161950fa05ec35211b5b4fa2401203cd1f3c6373513158fdcc9c4e28a6a2bbe26ed9.png" alt="2 Player Screen" /></p>
+
+<pre><code>1: Replace 4 bytes at offset 0x7fb0 with 4 bytes
+2: Insert 13 bytes at offset 0x7fc0
+3: Delete 8 bytes at offset 0x7fc6
+4: Delete 5 bytes at offset 0x7fd0
+5: Replace 1 byte at offset 0x7fdc with 1 byte
+6: Replace 1 byte at offset 0x7fde with 1 byte
+</code></pre>
+
+<pre><code>---------------------Internal ROM Info----------------------
+       File: Shounen Ninja Sasuke (Beta).sfc
+       Name: SASUKE                   Company: Unlicensed
+     Header: None                        Bank: LoROM
+Interleaved: None                        SRAM: 64 Kb
+       Type: Normal + Batt                ROM: 12 Mb
+    Country: Japan                      Video: NTSC
+  ROM Speed: 120ns (FastROM)         Revision: 1.0
+   Checksum: Bad 0x36BD != 0x7A04   Game Code:
+---------------------------Hashes---------------------------
+      CRC32: 316419D3
+        MD5: 8CCA90891728B558962D2E012D859097
+      SHA-1: 6A129CB34AD65CD91F4EB27D3F318C0B205AE9F3
+--------------------------Database--------------------------
+    ROM wasn't found in the database (possible bad dump).
+
+---------------------Internal ROM Info----------------------
+       File: Shounen Ninja Sasuke (Japan) (Sample).sfc
+       Name: SHONEN NINJA SASUKE      Company: Sunsoft
+     Header: None                        Bank: LoROM
+Interleaved: None                        SRAM: 64 Kb
+       Type: Normal + Batt                ROM: 12 Mb
+    Country: Japan                      Video: NTSC
+  ROM Speed: 120ns (FastROM)         Revision: 1.0
+   Checksum: Bad 0x3930 != 0x7A01   Game Code: EO
+---------------------------Hashes---------------------------
+      CRC32: B8A87C29
+        MD5: 64B27EC10F5FD59D7A4E546EF951BCB3
+      SHA-1: F6F8946B4BA0A88E8FD3511E1D6CAD51EB25E0B4
+--------------------------Database--------------------------
+    ROM wasn't found in the database (possible bad dump).
+
+---------------------Internal ROM Info----------------------
+       File: Shounen Ninja Sasuke (Japan).sfc
+       Name: SHONEN NINJA SASUKE      Company: Sunsoft
+     Header: None                        Bank: LoROM
+Interleaved: None                        SRAM: 64 Kb
+       Type: Normal + Batt                ROM: 12 Mb
+    Country: Japan                      Video: NTSC
+  ROM Speed: 120ns (FastROM)         Revision: 1.0
+   Checksum: Good 0xEEFA            Game Code: EO
+---------------------------Hashes---------------------------
+      CRC32: C2D10E95
+        MD5: 8FE73BB73145A217BE9E610020B5FE35
+      SHA-1: 7C20C21DA24876EFEFD4BA915929C265EBAA6CA5
+--------------------------Database--------------------------
+       Name: Shounen Ninja Sasuke
+    Country: Japan                   Revision: 1.0
+     Port 1: Gamepad                   Port 2: Gamepad
+    Genre 1: Fighting                 Genre 2: Brawler
+</code></pre>
+
+<p>If you happen to know the game well and find more differences, or can translate any of the screen shots above- <a href="https://github.com/MatthewCallis/eludevisibility.org">please update this post on GitHub</a> or contact me!</p>
+
+<p><img src="/assets/Shounen Ninja Sasuke (Japan) (Sample) - PCB Front-f919f70b7c3e8ae8980fa5a0a913eaef80d843199e8e5284b44e04afdf98bec76f2a43a20572efbd8dbfae59f09f07aa28e7e0588ccfe89397ea5190165a8b60.jpg" alt="Shounen Ninja Sasuke (Japan) (Sample) - PCB Front" title="Shounen Ninja Sasuke (Japan) (Sample) - PCB Front" />
+<img src="/assets/Shounen Ninja Sasuke (Japan) (Sample) - PCB Back-7023bf6e76819d48abd053acf32cb4c28da217a13d36e85c0720280a1b98f944b3abb039923e537a603db3fb80871afa4bd485b565bf6a708bef5e795a0f6658.jpg" alt="Shounen Ninja Sasuke (Japan) (Sample) - PCB Back" title="Shounen Ninja Sasuke (Japan) (Sample) - PCB Back" /></p>
+:ET

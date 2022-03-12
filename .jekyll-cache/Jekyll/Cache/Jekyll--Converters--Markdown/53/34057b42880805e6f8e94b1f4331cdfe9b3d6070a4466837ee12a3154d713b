@@ -1,0 +1,338 @@
+I"SN<p>An interesting penguin themed puzzle game. Write up at <a href="http://www.snescentral.com/review.php?id=1051&amp;num=0&amp;fancy=yes&amp;article=proto">SNESCentral</a>.</p>
+
+<p><em>Title - Final</em>  / <em>Sample</em></p>
+
+<p>The title is slightly different, but the logo is still animated, so that isn’t aligned between the two <em>Title</em> images. There is no intro demo where he runs laps in the sample.</p>
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="/assets/screenshots/pikiinya-japan-sample/title-5cefd7ecde03ed5c00bb9ddc77cf93f220e0fded5986d96d379e6d6e49296503d900fbdbc9ec829fc4a14ae14d86c6c370133d43d57e8474b978e235380cbbfd.png" alt="Title - Final" title="Title - Final" />
+      </div>
+      <img src="/assets/screenshots/pikiinya-japan-sample/title-sample-94ab4f808e5ed74658aa6ce54c23628a4690aac78f5471c82a461c1b66c0163229ebba46dbb37562def190fccbf35d898c2e33c28e96b606883e20e6361f1e58.png" alt="Title - Sample" title="Title - Sample" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<p><em>Game Select 1 - Final</em>  / <em>Sample</em></p>
+
+<p>The first game select screen is quite different, but I’m not familiar with the game enough to know exactly what each one does.</p>
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="/assets/screenshots/pikiinya-japan-sample/game-select-1-e03a8e5b55faa69b3ec6aada3ff720de43f1b35d170932b63f4c27fc7397a063b041b369f6d1a9ad0cd7c6881e5262a532ea691544a51c2d145b1135d4334794.png" alt="Game Select - Final" title="Game Select - Final" />
+      </div>
+      <img src="/assets/screenshots/pikiinya-japan-sample/game-select-1-sample-d3c25b3a3ceb2e2e007aac7552832eeacae286a197bd1d0759572e2738ab2a36deb6cc21aa4daecbacfefba60ad36d9c1fc62929609d45f3594e776b4f0a48e5.png" alt="Game Select - Sample" title="Game Select - Sample" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<p>There is a Music and Sprite Test in the place of the 2 penguin icon for mono or stereo. All the buttons seem to do different things here. Any feedback on what does what is welcome!</p>
+
+<p><img src="/assets/screenshots/pikiinya-japan-sample/sprite-test-sample-c95e8b607a176b650b063261816a9d7febeca2e48c1edbb8dbac2d3ec8890d8f68f0a743ed5477a4941a0b3b9de8afd1855d6ceab4bebccf595750d5d263cd39.png" alt="Music &amp; Sprite Test - Sample" title="Music &amp; Sprite Test - Sample" /></p>
+
+<p><em>Game Select 2 - Final</em>  / <em>Sample</em></p>
+
+<p>The second game select screen is also quite different, but again I’m not familiar with the game.</p>
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="/assets/screenshots/pikiinya-japan-sample/game-select-2-22f274fb7143b0035dc3d7bb72903bfff53bcf387e454978b2d90dc551ad0020c25154982a53538e5f063c001f492ff84331351da38e11d30002f9c649c31651.png" alt="Game Select - Final" title="Game Select - Final" />
+      </div>
+      <img src="/assets/screenshots/pikiinya-japan-sample/game-select-2-sample-8270f5ae4810800516a7ee7e06357039dcb2bcaf4bdcd827eacf113b108fd9ba0b3635f0ff41a16ad4cca9c894ababb65b13870378b91472a1282ad62168dc3f.png" alt="Game Select - Sample" title="Game Select - Sample" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<p>The last icon has what looks like time trials for the lap game, that wasn’t on this screen in the final.</p>
+
+<p><img src="/assets/screenshots/pikiinya-japan-sample/runner-sample-e3aa99a0b3f8bec080b9202444d8b7081e5aa55e3544e156bbc182a17bd535feeabe1a6a2823a724cc5edc56fce6e2b494e0b6c70ff6dcf8962003773ef1a315.png" alt="Time Trial - Sample" title="Time Trial - Sample" /></p>
+
+<p><em>Player Select - Final</em>  / <em>Sample</em></p>
+
+<p>The player select screen is the same.</p>
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="/assets/screenshots/pikiinya-japan-sample/player-select-ba9e4e28e3a18f246b0f122eeb1e579b0fd845b6f804c07ed10538822d4c0d19812557244c6e97377bc9e508c2a4f70207128235cd7379fb4e47b82af67c5ae3.png" alt="Player Select - Final" title="Player Select - Final" />
+      </div>
+      <img src="/assets/screenshots/pikiinya-japan-sample/player-select-sample-62fc2608badaf63fa55681ee34a7820c04aa622b163f31474e9422378bb3475acb155c8f3fd56fa16ac8bb0f4347b1420070274ad58a899de02a99a910cfc3f6.png" alt="Player Select - Sample" title="Player Select - Sample" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<p><em>Name Entry - Final</em>  / <em>Sample</em></p>
+
+<p>The little penguin dances so he will be different, otherwise the same. There was a 3rd game select screen after this screen in the final, but not the sample.</p>
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="/assets/screenshots/pikiinya-japan-sample/name-entry-ab89d7c31cf1d637e1b5b279f3095873c1d82dae7502d41e725b5e1f5aeaabcecc47d27157134d578ec32212201e38ca8c4c66d0a4b1ab4688c3f2fb0b2e0042.png" alt="Name Entry - Final" title="Name Entry - Final" />
+      </div>
+      <img src="/assets/screenshots/pikiinya-japan-sample/name-entry-sample-b0ba46786e6f2aab2b2aee75de6bad0fee61e98ada30ab02506d527a3a8b5e79957a9ece5796606769fe5d21500c85463d7793c3158aef9b985f412751f3ca3c.png" alt="Name Entry - Sample" title="Name Entry - Sample" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<p><em>Difficulty - Final</em>  / <em>Sample</em></p>
+
+<p>The word <code>easy</code> is spelled <code>eazy</code> in the sample, and the lettering is brighter in the sample. The top and scores are animated so they won’t line up.</p>
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="/assets/screenshots/pikiinya-japan-sample/difficulty-08e01f59103c3c7bfc68279fdd3bb3f1b704d9f46bc1d12f385c804b98ac12ceaa28ac3b8bb9ffa5a2cd04f8b4df5fcd7d39d88fc421ef40335455e1a14f55e6.png" alt="Difficulty - Final" title="Difficulty - Final" />
+      </div>
+      <img src="/assets/screenshots/pikiinya-japan-sample/difficulty-sample-6583b968f7d8de005a0c61af0dd40f451d26e6fc91a2ce128f1c63f61cc89beeaade88d898e134713839ebcbdb86d4c16fd9c06b7aba686de9d2e22c1be9e578.png" alt="Difficulty - Sample" title="Difficulty - Sample" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<p><em>Game Play - Final</em>  / <em>Sample</em></p>
+
+<p>The lettering is brighter in the sample, but that was all I noticed.</p>
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="/assets/screenshots/pikiinya-japan-sample/game-play-c546dc9a75f3dbf0fc4afcc99054f5587f06297a6ae3c53129ce2310fea60de2725871fc70f586968b76c4fff208ab04b45dfd0e6cd194479951f32bcdf9ce37.png" alt="Game Play - Final" title="Game Play - Final" />
+      </div>
+      <img src="/assets/screenshots/pikiinya-japan-sample/game-play-sample-cd80e1bb1a23c95735bab031d665396b5fcf6a1452d795bd23a8da3e0774d3215253538626de3e4b0aaef51beb5da25ede79ffcbdceb00365f020ffaa8042108.png" alt="Game Play - Sample" title="Game Play - Sample" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<p><em>Intro - Final</em>  / <em>Sample</em></p>
+
+<p>The background is much more subtle in the final version, and some type is set differently.</p>
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="/assets/screenshots/pikiinya-japan-sample/intro-a9b105140e143ce47c2c49d3acd68c71338d6b5ef973ce3c1f8ff12d79ea3546a3d82558eccb7a368309a492e412364b77d0fe35a28df4f5bb50236556e20930.png" alt="Intro - Final" title="Intro - Final" />
+      </div>
+      <img src="/assets/screenshots/pikiinya-japan-sample/intro-sample-290ef1a93fd3fb87d10036d928e9d1208d337de5e5c2fd6e19c47e076bad89ec39badf5447b192a2f4dd004a08d687951351b249c02881c00dc19b33a02a649d.png" alt="Intro - Sample" title="Intro - Sample" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<p><em>Controller - Final</em>  / <em>Sample</em></p>
+
+<p>Again the background is much more subtle in the final version, and some title type is a differently color.</p>
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="/assets/screenshots/pikiinya-japan-sample/controller-b4ab513887dfda85742701f9e701e04882f5cbeeb8e6a8b4b13e3fcacd280a0edb8e16eb71ac2a4132f719330f7f07c0410514b358b30b6f464da3ddc4153835.png" alt="Controller - Final" title="Controller - Final" />
+      </div>
+      <img src="/assets/screenshots/pikiinya-japan-sample/controller-sample-b25abae368daf3cf977c24d7f3a9bbd4457c04593dbeb0a077490c267c1f48a99af161d9d6769a462dd0257cab3182510251bcbb6eb607c9dd6ae5be30ac83b7.png" alt="Controller - Sample" title="Controller - Sample" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<p>After a soft reset there was a second title screen I couldn’t get to show in the final version of the game.</p>
+
+<p><img src="/assets/screenshots/pikiinya-japan-sample/second-title-083e6fec4faa6ce18bd99653699c563559cf530f98f199378610ff15c0e03f12cd2072d318144fe3f25804210e184704dc1a53bbcced387dfb61c18b4c0e0d35.png" alt="Second Title - Sample" title="Second Title - Sample" /></p>
+:ET

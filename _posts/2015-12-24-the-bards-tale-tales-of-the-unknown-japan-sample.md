@@ -13,4 +13,4 @@ download:
 
 __The Bard's Tale: Shirarezaru Monogatari__ / __バーズテイル　知られざる物語__
 
-![The Bard's Tale - Tales of the Unknown (Japan) (Sample)]({% asset_path 'screenshots/the-bards-tale-tales-of-the-unknown-japan-sample/the-bards-tale-tales-of-the-unknown-japan-sample.0.png' %})
+![The Bard's Tale - Tales of the Unknown (Japan) (Sample)]({% asset 'screenshots/the-bards-tale-tales-of-the-unknown-japan-sample/the-bards-tale-tales-of-the-unknown-japan-sample.0.png' @path %})

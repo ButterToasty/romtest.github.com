@@ -1,0 +1,80 @@
+I"<<p>I finally got an opportunity to go through and look for any differences between the <a href="https://superfamicom.org/info/onita-atsushi-fmw/" title="Onita Atsushi FMW">Onita Atsushi FMW</a> beta and final cart. There’s not too many differences, just two to be noticed.</p>
+
+<ul>
+  <li>Killer M went through a character redesign, both in the opening bio portrait and in the actual fighter sprite. In the final bio (left) portrait there is a design in the background, his brain is elevated above his head, his chest is more defined, his shoulders are the cloth of the suit, his facial expression is different and his arms are softened but still metal. In the beta bio portrait (right) its a green gradient background, his brain is attached to his helmet, his chest is softened and his shoulders are part of the robotic arms and they are bright steel.</li>
+</ul>
+
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="/assets/screenshots/FMW_FINAL-dec442f688156e062cd1de48e05803572905caa7ca5c0cdecc8eeb180b208ebf03de601b655a7086cb18b211f3dba88ac2dc0aef7d6fa4415b28694113995433.png" alt="Onita Atsushi FMW" title="Onita Atsushi FMW" />
+      </div>
+      <img src="/assets/screenshots/FMW_BETA-e31f80f8243fa9f0698df56f00e2507309a2b644b5a2d44ead23dd0864e5eba2cb822e962d1312be3e2a1ac6f9d6009d3bd89b06ff44c96c1d2897e048feab03.png" alt="Onita Atsushi FMW Beta" title="Onita Atsushi FMW Beta" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<ul>
+  <li>Killer M’s arm was changed from a knife blade to a more human, regular robot arm.</li>
+</ul>
+
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="/assets/screenshots/FMW_ARM_FINAL-a08904fe0c2602c2631317ab9c81c35a544651c88364cfb40ecf6d133df4b4150abaecd0d7cfe60ce9e5c8927dd3dc4a37a1511f825988bc0fcc2dd4717d20a0.png" alt="Onita Atsushi FMW - Arm" title="Onita Atsushi FMW - Arm" />
+      </div>
+      <img src="/assets/screenshots/FMW_ARM_BETA-cfdef9f1ee910a403766dbba26260da5a4076c064ff663c35aecfd31cd3285d882d012648bd556aa11d882651c4530756b46fa15a738c2f7c1ee0d59dcb9b0cb.png" alt="Onita Atsushi FMW Beta - Arm" title="Onita Atsushi FMW Beta - Arm" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<ul>
+  <li>One other small difference is that the intro fight scenes have different choreography. Other differences are negligible but seen through a hex compare, so they exist to some point but I haven’t found them.</li>
+</ul>
+:ET

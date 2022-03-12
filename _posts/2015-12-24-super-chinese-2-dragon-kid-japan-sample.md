@@ -13,4 +13,4 @@ download:
 
 __スーパーチャイニーズ2 ドラゴンキッド__
 
-![Super Chinese 2 - Dragon Kid (Japan) (Sample)]({% asset_path 'screenshots/super-chinese-2-dragon-kid-japan-sample/super-chinese-2-dragon-kid-japan-sample.0.png' %})
+![Super Chinese 2 - Dragon Kid (Japan) (Sample)]({% asset 'screenshots/super-chinese-2-dragon-kid-japan-sample/super-chinese-2-dragon-kid-japan-sample.0.png' @path %})

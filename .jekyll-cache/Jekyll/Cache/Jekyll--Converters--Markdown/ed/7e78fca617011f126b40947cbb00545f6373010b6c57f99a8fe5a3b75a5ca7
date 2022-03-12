@@ -1,0 +1,23 @@
+I"4<p>Another Capcom sample, just like <a href="/demons-blazon-makai-mura-monshou-hen-japan-sample/" title="Demon's Blazon">Demon’s Blazon</a>, we have <a href="https://superfamicom.org/info/mickey-and-minnie-magical-adventure-2-the-great-circus-mystery/" title="Mickey to Minnie - Magical Adventure 2 (Japan) (Sample)">Mickey to Minnie - Magical Adventure 2 (Japan) (Sample)</a> aka <a href="https://superfamicom.org/info/mickey-and-minnie-magical-adventure-2-the-great-circus-mystery/" title="Mickey &amp; Minnie Magical Adventure 2 - The Great Circus Mystery (Japan) (Sample)">Mickey &amp; Minnie Magical Adventure 2 - The Great Circus Mystery (Japan) (Sample)</a> where all that would appear to be different is ‘SAMPLE’ pasted up on the title screen’s top right corner.</p>
+
+<p><a href="https://superfamicom.org/info/mickey-and-minnie-magical-adventure-2-the-great-circus-mystery/" title="Mickey &amp; Minnie Magical Adventure 2 - The Great Circus Mystery (Japan) (Sample)">
+<img src="/assets/screenshots/SHVC-4C-SAMPLE-27a00d847d3fe3d2463ddae98c217eb08afab6844251e606a5b0e26dc7a7bb2c278c294128da99f5ae75eea74a25329680b1ad5cb9bf73616e01a00d2e9df221.png" alt="Mickey &amp; Minnie Magical Adventure 2 - The Great Circus Mystery (Japan) (Sample)" title="Mickey &amp; Minnie Magical Adventure 2 - The Great Circus Mystery (Japan) (Sample)" />
+<img src="/assets/screenshots/SHVC-4C-80536206e03911a2dee9f10dbf40981018725f1b5a1d80fe76bd8367b1687ea9c94617a79f3134ab7410f30e1e0c42d5eb22be53b84eafdde818f06f3ac3e1d5.png" alt="Mickey &amp; Minnie Magical Adventure 2 - The Great Circus Mystery (Japan)" title="Mickey &amp; Minnie Magical Adventure 2 - The Great Circus Mystery (Japan)" />
+</a></p>
+
+<p><em>Update 2008-11-26 @ 6:50PM:</em></p>
+
+<p>Thanks to Jonny for pointing this out, the Sample ROM has a later build date that would be displayed under the word SAMPLE on the title screen after a little bit of debugging is enabled. So the Sample build date is June 22nd at 14:30; the Final build date is July 3rd at 22:00. Check it out for yourself at <code>0xDF19</code>.</p>
+
+<p><a href="https://superfamicom.org/info/mickey-and-minnie-magical-adventure-2-the-great-circus-mystery/" title="Mickey &amp; Minnie Magical Adventure 2 - The Great Circus Mystery (Japan) (Sample)">
+<img src="/assets/screenshots/SHVC-4C-SAMPLE.2-0732f83ada2db574ce7e5460fbaa9f271655996e1b9403a295c0939904c819d690b66a91feda2d5bcca0eb84c4c5ab52e0eb3eafa12b4f4a340d77d21602aa94.png" alt="Mickey &amp; Minnie Magical Adventure 2 - The Great Circus Mystery (Japan)" title="Mickey &amp; Minnie Magical Adventure 2 - The Great Circus Mystery (Japan)" />
+</a></p>
+
+<p><em>Cart &amp; PCB Scan</em></p>
+
+<p><img src="/assets/Mickey &amp; Minnie Magical Adventure 2 - The Great Circus Mystery (Japan) (Sample) - Cart-f26e9c210618c36c9b38f6355d89be0374ec66617f910515fd67e690d4874cd74b6964caba3fa2305294fc029901f66bdadcea2ea1040b0405be7b6158dc6368.jpg" alt="Mickey &amp; Minnie Magical Adventure 2 - The Great Circus Mystery (Japan) (Sample) - Cart" title="Mickey &amp; Minnie Magical Adventure 2 - The Great Circus Mystery (Japan) (Sample) - Cart" />
+<img src="/assets/Mickey &amp; Minnie Magical Adventure 2 - The Great Circus Mystery (Japan) (Sample) - PCB Front-03ee3cf556408ed28faf6afa392da837219a8c142f0a82ee058d5d09fa4bf2bec7287934bd62b6248dec965f4b62694778db6edac03710870804f168f746696f.jpg" alt="Mickey &amp; Minnie Magical Adventure 2 - The Great Circus Mystery (Japan) (Sample) - PCB Front" title="Mickey &amp; Minnie Magical Adventure 2 - The Great Circus Mystery (Japan) (Sample) - PCB Front" /></p>
+
+<p>A gameplay video play through played by <a href="https://www.youtube.com/channel/UCOXvfoAZZJhmDZw0boGkSYA">Kiddo Cabbusses | サテラビュー好きの外人さん</a>:</p>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/tjQJMlT3WNQ" frameborder="0" allowfullscreen=""></iframe>
+:ET

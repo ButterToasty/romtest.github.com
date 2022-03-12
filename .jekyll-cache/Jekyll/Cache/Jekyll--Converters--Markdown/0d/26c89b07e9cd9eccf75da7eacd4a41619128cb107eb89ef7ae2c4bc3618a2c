@@ -1,0 +1,289 @@
+I"$8<p>From <em>Jlukas</em> and the original thread:</p>
+
+<p>The NUS software on the cart is designed to work ONLY on the special NUS Checker hardware system. While the physical flash cart can technically run on a standard SNES, the NUS test software programmed on it MUST be used in combination with the Checker hardware to use its functions. All those red Caution messages you see when booting the cart is errors where the program is trying to communicate with the special hardware and not receiving the responses it expects.</p>
+
+<p>Standard controllers aren’t supported by the software at all, further proof that it’s not meant for regular systems. All user input  goes through a special register instead. Apparently, the NUS Checker hardware has its own kind of controller (or more likely, has buttons or a keypad located on the front panel) that must be used to navigate the menus.</p>
+
+<p>It’s possible to create fake input by using cheat codes to navigate through the menus. But there’s not much to explore or do as it’s not running on the correct system. As its name suggests, it just checks the hardware and vice versa and that’s about it</p>
+
+<p><img src="/assets/screenshots/nus-64/nus-64.1-07a561684af583c89e687edf9320defa77965676d2dac559451070daa19c26a023c26bc026e1bec56cc4d87e31b3accc71da0c147b8e87e26eadd54780b31614.png" alt="NUS-64 ROM 1" title="NUS-64 ROM 1" />
+<img src="/assets/screenshots/nus-64/nus-64.2-d430249b0b5cb50721faaef86ef9a9ae828642e5292c30dff5c87d9bd1558a7267a52cd8feb9ef1c7ab04ced13f66ded8fdf9f22fc88247bc241e53975dc5cd5.png" alt="NUS-64 ROM 2" title="NUS-64 ROM 2" />
+<img src="/assets/screenshots/nus-64/nus-64.3-bd7967f9cdfdfd2155bc74ed8791e03473f91a9f39aae83bc404a383cfb77c8f931880de06d4e91c5f2976c927ce1adb74dc883c25e3fa3d2b9760485ae47c02.png" alt="NUS-64 ROM 3" title="NUS-64 ROM 3" />
+<img src="/assets/screenshots/nus-64/nus-64.4-80a0cd160bd261b5fa0805e16332053669ecd1d12afc367a8c0304cf1832305fa08995de6ae4b5fb13f4bd49eb8af173d79cd0f422193c4e366fb6c6c20cc058.png" alt="NUS-64 ROM 4" title="NUS-64 ROM 4" />
+<img src="/assets/screenshots/nus-64/nus-64.5-0cc21c77cfb3e4b74222ffd9d24772c994fdb632f0102f0ad60c2c85d8c884bfae1fb082d798f0b6ebcd18333651230b5803f888c7e910e661930483465c2c7d.png" alt="NUS-64 ROM 5" title="NUS-64 ROM 5" />
+<img src="/assets/screenshots/nus-64/nus-64.6-878f2005db64fa7a1572008f6c06256da4c5b9f3611a226b9944b8f45c8f4eb7afd5c79007b031ffbbc5e9b4c6b051a90602af1ad8e2c39432ebb52189434d89.png" alt="NUS-64 ROM 6" title="NUS-64 ROM 6" />
+<img src="/assets/screenshots/nus-64/nus-64.7-43e91421177bd703cb65223eb792e1bb11b08748bf4fabbe1d10f50d4c7ba0c013b19df82d7e1a3484c97012c6eab5ed906dd63e6bf38ca8b9bfcac9f13000da.png" alt="NUS-64 ROM 7" title="NUS-64 ROM 7" />
+<img src="/assets/screenshots/nus-64/nus-64.8-1d9aa4216c77b2184e009059e0c956f6c3e02d30dfcc6541d006f6d7ea5dc35ec31fda2fa4bcb1f6a3dda1a59f7020395d3da6f94f4387d33f214da52c320e47.png" alt="NUS-64 ROM 8" title="NUS-64 ROM 8" />
+<img src="/assets/screenshots/nus-64/nus-64.9-847ffb89c9cdaf967208fb65b82f645cf5b3fa95061a467a21e5e6738b1d6bcc13e2518c3306b0b5cd7381f322d992df30764b87a02f7b62267337ebcbaec393.png" alt="NUS-64 ROM 9" title="NUS-64 ROM 9" />
+<img src="/assets/screenshots/nus-64/nus-64.10-97c5f16a06fff924a2cd8ced9f86b10238068b23524f0ecf0568963ca5f4bfc243a35adb18612661d0a39812858262a8573949e3e05e1e1707473987317940f4.png" alt="NUS-64 ROM 10" title="NUS-64 ROM 10" />
+<img src="/assets/screenshots/nus-64/nus-64.11-454677a0f349799a8f9317c91b1ec89904b485f8a838324b9738057bb63c79bd56f25436da9d37cecfac5bf1c5854f8487be5349526875bbc3b5cbbdd260f74d.png" alt="NUS-64 ROM 11" title="NUS-64 ROM 11" /></p>
+
+<p><strong>CHR Data</strong></p>
+
+<p><img src="/assets/screenshots/nus-64/nus-64-chr.0-0fa691dac0b16a866bdd9db050d80ccd4567b78963346f532e6d3f5e726ee8a06652259668def427b6d94e2c6d603ad6fd1a7c2af483434f34dfae46e7177bbd.png" alt="CHR Data 1" title="CHR Data 1" />
+<img src="/assets/screenshots/nus-64/nus-64-chr.1-6facb6a74c0c2e5c9b13f5ef84aa052640a989f4e9cfad7f16870d68f1e91abb6482e6b29df1d9f1024c3720d2fed7f3b34f70ad035901f179a3046a21517d4c.png" alt="CHR Data 2" title="CHR Data 2" />
+<img src="/assets/screenshots/nus-64/nus-64-chr.2-37bd486dc58d46ad5b035e7345ad96aeacd44d2afb26fba4ac5313684f5d23cf67a24ff0f6f1854ffc2064a9cc6d68f06a376d4af6d00996093fbebe6e2ebcd7.png" alt="CHR Data 3" title="CHR Data 3" />
+<img src="/assets/screenshots/nus-64/nus-64-chr.3-ff18c0843761a140a3f015243cd317395abcf70a0b26ea75756f396f70eb315900e80970a32184ef35830848e9f4be81b2fbb38091f09baa905bd8ccbc15c47b.png" alt="CHR Data 4" title="CHR Data 4" />
+<img src="/assets/screenshots/nus-64/nus-64-chr.4-b25d0cf3f14bf8d25d0119eeb4b48125bcc2dac21be52fc524aaf191141470c5db6b1e964cddda0a62264631b81a3ec0168ab513e49edcf0ef4266ef9d827727.png" alt="CHR Data 5" title="CHR Data 5" /></p>
+
+<p><strong>General Info</strong></p>
+
+<p>The cartridge is 8 megabit (1,048,576 bytes) LoROM (without header, and all following addresses assume it’s not present)</p>
+
+<p>Internal cart info starting at $007FC0 is almost completely blank except for required values (e.g., reset vector)</p>
+
+<p>Address range $080000-0FFFFF is a mirror of $000000-07FFFF</p>
+
+<p>Cassette is designed only to be used with NUS Checker</p>
+
+<p>The program doesn’t recognize standard SNES controllers.  User I/O is done through register $21C6</p>
+
+<p><strong>Patch Info</strong></p>
+
+<p>These address ranges are damaged (approximate):</p>
+
+<pre><code>$000980-00FFFF
+$0305F0-0306FF
+$0D9BA0-0DFFFF
+</code></pre>
+
+<p>The following individual bytes are not the same between mirrors:</p>
+
+<pre><code>Offset  - Value, Mirror - Notes
+$0000A0 - $00,$80 - $80 is correct, used to jump to address $80C8
+$017FFF - $28,$A8 - $A8 is probably correct, unused space area?
+$026E22 - $B0,$F8 - $F8 is probably correct, unused space area?
+$047D18 - $18,$9A - $9A is probably correct, unused space area?
+$047D19 - $48,$EA - $EA is probably correct, unused space area?
+$0F9D93 - $FA,$F8 - $FA is probably correct, unused space area?
+$0F9F92 - $AB,$A9 - $AB is probably correct, unused space area?
+$0F9F93 - $8A,$88 - $8A is probably correct, unused space area?
+</code></pre>
+
+<p><strong>Patch Codes</strong></p>
+
+<p>Use these patch codes (Action Replay cheats) to skip past error messages and see the different menus.</p>
+
+<p>When you see the Caution message on bootup, enter the following 3 patch codes and then use reset (ie, so the codes are active on bootup)</p>
+
+<pre><code>Patch code 008E1380 skips AD CONVERTER ERROR
+Patch code 008E9780 skips NUS POWER-ON ERROR
+Patch code 008EBB80 skips START SIGNAL ERROR
+</code></pre>
+
+<p>After applying these changes, instead of showing a Caution screen, the screen will be blank for several seconds before the program continues to load.</p>
+
+<p>Next, a screen will appear “DATA SHEET CHECK”.  This finishes after several seconds (usually with an error)</p>
+
+<p>When the text EXIT appears on the bottom of the screen, enter patch code 00914600 to view the main menu.</p>
+
+<p>As standard controllers are not supported, to access submenus you must enter one of the following patch code sets, and reset.</p>
+
+<p>After the Data Sheet Check, the selected submenu will appear in place of the main menu.</p>
+
+<pre><code>0087B8xx
+0087B9yy
+
+XXyy
+F8A3 - Clear all data sheets in SHVC cassette
+ADA5 - Cassette Check*
+A5B3 - Data Sheet Set
+29B8 - Data Sheet Copy
+54BF - EEPROM Copy
+CDC2 - Stand Alone
+BAC9 - Dump List
+B2CC - Data Sheet Check
+85D1 - Cassette Check*
+E2D4 - Cassette Check*
+</code></pre>
+
+<ul>
+  <li>When screen is loaded, enter patch code 00A5F380 to proceed to the next screen (won’t work if error “Cannot check this cassette” is displayed).”</li>
+</ul>
+
+<p><strong>Strings</strong></p>
+
+<p>Below are random strings I found looking through the ROMs.</p>
+
+<p><code>0x24200</code>: <code>NAK1989 S-CG-CADVer1.11 930511 F</code></p>
+
+<p><code>0x81010</code>: <code>DATA SHEET CHECK</code></p>
+
+<p><code>0x85580</code>: <code>CASSETTE CHECK</code></p>
+
+<p><code>0x810D6</code>: <code>DATA SHEET(S) ARE FIXED.</code></p>
+
+<p><code>0x8111A</code>: <code>DATA SHEET(S) ARE LOST.</code></p>
+
+<p><code>0x811BC</code>: Various</p>
+
+<pre><code>CAUTION
+CHECKER IS OUT OF CONTROL
+ERROR OCCURED IN CHECKER !!
+CANNOT CONTINUE...
+PLEASE POWER OFF AND TRY AGAIN
+   (NUS POWER-ON ERROR)
+   (START SIGNAL ERROR)
+   (AD CONVERTOR ERROR)
+    (END SIGNAL ERROR)
+  (STANDBY SIGNAL ERROR)
+ (INT CHECK SIGNAL ERROR)
+</code></pre>
+
+<p><code>0x81B76</code>: Various</p>
+
+<pre><code>NUMBER....
+CODE...
+CIC........
+MASKROM........ 
+MBIT
+EEPROM.................
+KBIT
+KBIT
+</code></pre>
+
+<p><code>0x821B2</code>: Various</p>
+
+<pre><code>MENU
+1.CASSETTE CHECK
+2.DATA SHEET SET
+3.DATA SHEET COPY
+4.DATA SHEET LIST
+5.EEPROM COPY
+
+6.DUMP LIST
+7.STAND ALONE
+</code></pre>
+
+<p><code>0x889DA</code>: Various</p>
+
+<pre><code>SELECT MODE.                   -------- -------- OK       
+NO DATA SHEET !!               -------- -------- -------- 
+CANNOT RECORD MORE !!          -------- -------- --------
+ INPUT DATA SHEET.              
+CLEAR    EXIT     RECORD   CLEAR ?                        
+-------- CANCEL   OK       RECORD ?                       
+-------- CANCEL   OK       OVERWRITE ?
+ -------- CANSEL   OK       EXECUTING.....                 
+-------- -------- -------- COMPLETE.
+ -------- -------- -------- CHECK SUM ERROR !!             
+-------- -------- -------- ILLEGAL DATA ERROR !!
+ -------- -------- -------- SELECT COPY DIRECTION.
+ -------- EXIT     EXECUTE  REALLY ?
+ -------- CANCEL   OK       CANNOT COPY !!
+ -------- -------- -------- VERIFY ERROR !!
+ -------- -------- -------- DATA SHEET VIEW.
+ -------- EXIT     -------- DELETE ?                       
+-------- CANCEL   OK       INPUT NUMBER.                  
+BY CODE  EXIT     OK       INPUT CODE.                    
+BY NO    EXIT     OK       NOT FOUND !!
+ -------- -------- -------- CHECK ?
+ -------- CANCEL   OK       CHECK DATA SHEET...            
+-------- -------- -------- ERROR OCCURRED !!
+ -------- EXIT     -------- FORMAT ?
+ -------- CANCEL   OK       SELECT COPY DIRECTION AND SIZE 
+-------- CANCEL   OK       NO CASSETTE !!
+ -------- -------- -------- DUMMYDUMMYDUMMYDUMMYDUMMYDUMMY 
+EDIT     EXIT     -------- DUMMYDUMMYDUMMYDUMMYDUMMYDUMMY 
+-------- EXIT     -------- DUMMYDUMMYDUMMYDUMMYDUMMYDUMMY 
+DUMP     EXIT     -------- SELECT MODE.
+ -------- CANCEL   OK       CANNOT CHECK THIS CASSETTE.    
+-------- CANCEL   -------- SELECT DATA SHEET.             
+INSERT CASSETTE.               ATTACH TEST-PIN.
+NOT START CHECK !!             OVER CURRENT !!
+PUSH START BUTTON.             CHECKING...
+ NOT FINISH CHECK !!            PULLOUT CASSETTE.              
+POWER......................... 
+12V POWER.....................
+ 3.3V VOLTAGE.................
+V 12V VOLTAGE..................
+V EUT RESET-.................... 
+</code></pre>
+
+<pre><code>STAND ALONE
+3.3V VOLTAGE:       (  )
+3.3V CURRENT:       (  )
+ 12V VOLTAGE:       (  )
+ 12V CURRENT:       (  )
+BAT. VOLTAGE:       (  )
+SRAM VOLTAGE:       (  )
+BAT. CURRENT:       (  )
+BAT. CURRENT:       (  )
+</code></pre>
+
+<p><strong>SRAM Strings</strong></p>
+
+<p>These abbreviation strings were located in the SRAM, and a wild guess here, refer to something, many match up with released game codes that I have added next to them:</p>
+
+<pre><code>TE16
+TE16
+NSWP  Star Wars: Shadows of the Empire Japan
+NSHJ  Saikyou Haniu Shogi
+NSMJ  ShinDou Super Mario 64
+NPWJ  Pilotwings 64 Japan
+NSME  makerom - NSME (Nintendo Super Mario English)
+NPWE  Pilotwings 64 USA
+NWRJ  Shindou Wave Race 64 Kawasaki Jet Ski Rumble Japan
+NMKE  Mortal Kombat Trilogy (USA)
+NWRE  Wave Race 64
+NWGE  Wayne Gretzky's 3D Hockey (USA)
+NKIE  Killer Instinct Gold
+NJ2J  Wonder Project J2 Japan
+NCUE  Cruis'N USA
+NSWE  Star Wars: Shadows of the Empire USA
+NSTJ  St Andrews Old Course Japan
+NJPJ  Japanese Jikkyou J League Perfect Striker
+NPKJ  King of Pro Baseball Yakyuu
+NMMJ  Mahjong Master
+NKTJ  Mario Kart 64 Japan
+NXGE  NBA Hang Time
+NPWP  Pilotwings 64 Europe
+NSMP  Super Mario 64 Europe
+NWGE  Wayne Gretzky's 3D Hockey (USA)
+NSWP  Star Wars: Shadows of the Empire Japan
+NTUD  Turok: Dinosaur Hunter Europe
+NJPP  International Superstar Soccer 64
+NTUP  Turok: Dinosaur Hunter Europe
+NKTP  Mario Kart 64 Europe
+NGEP  GoldenEye 007 Europe
+NWGP  Virtual Pro Wrestling 64
+NFXP  Star Fox 64 Europe
+NKIP  Killer Instinct Gold Europe
+NDMP  Doom 64 Europe
+NMRP  Multi Racing Championship Europe
+NBMP  Bomberman 64 Europe
+NTRP  Top Gear Rally UK
+NCFP  ClayFighter 63 1/3 Europe
+NQ8P  NFL Quarterback Club 98 Europe
+NTMP  Mischief Makers Europe
+NLCP  Automobili Lamborghini Scandinavia
+NHGP  F1 Pole Position 64 Europe
+NDYP  Diddy Kong Racing Europe
+
+N8IP  FIFA 98 UK
+NCUP  World Cup 98 USA
+NH5P  Winter Olympics '98
+NQKP  Quake Nintendo 64
+NMYP  Mortal Kombat Mythologies: Sub Zero France
+NDHP  Dual Heroes PAL
+N8WP  World Cup 98 Europe
+NTUD  Turok: Dinosaur Hunter Europe
+NFOD  Forsaken 64 (Germany)
+NGCP  GT 64: Championship Edition Europe
+NBKE  Top Gear Hyper-Bike USA
+
+NKAF  Fighters Destiny France
+NKAD  Fighters Destiny Europe
+NBKP  Banjo Kazooie Europe
+
+SRAM
+TE16
+</code></pre>
+
+<p>There are 3 ROMs provided, one I was sent with the cart from eBay and another when I attempted to dump it, and one patched. The one from the auction seems more correct based on corrupted strings in my own. Not provided with the auction was the SRAM, which has more strings in it.</p>
+
+<p><img src="/assets/NUS-64 - Cart Back-de9ceac6bda7ecef97d2e48f2afc5aca0d220a3f1345cd9db03a9a27504949f7980628203fa2f9f7e76d229baa7a605762461a09d9e7121a2e3c1b4749720fc2.jpg" alt="NUS-64 - Cart Back" title="NUS-64 - Cart Back" />
+<img src="/assets/NUS-64 - Cart Front-61382f55b45a793e69e5733b0be96db98f9e11940b5f37ac50f99d6a9e44185ba80d7db6b59abd3d6c1884dda39ffb7acfd27fe8606dc1302b4cf412c8a906b4.jpg" alt="NUS-64 - Cart Front" title="NUS-64 - Cart Front" />
+<img src="/assets/NUS-64 - PCB Back-29e3031dc31385afcd6aa063744716852f40f81358a12ce8abb3d7bd57849623fb45ddb0f5c89c2de6bf98c74bdefe0896e8df46fb584ab5bd486e23e71c6dcc.jpg" alt="NUS-64 - PCB Back" title="NUS-64 - PCB Back" />
+<img src="/assets/NUS-64 - PCB Front-d865edda62bc0e23559f1906267e3b6fa41c34d4617fca26731b2e2ce8c73923cb91175d245bd999f6da461820c65f118cd7fb34bb9c3055cc3d6f67daaa1ac3.jpg" alt="NUS-64 - PCB Front" title="NUS-64 - PCB Front" /></p>
+:ET

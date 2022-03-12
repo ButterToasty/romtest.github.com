@@ -17,7 +17,7 @@ This along with [Gokujou Parodius - Kako no Eikou o Motomete (Japan)](https://su
 
 In debug mode you can fly around, getting to any area quickly, but hitting the L trigger. You can also hit L trigger and max out your money. There's probably more to it, but it's hard to play without being able to read it.
 
-![Ganbare Goemon 3 - Shishi Juuroku Hyoue no Karakuri Manjigatame Debug]({% asset_path 'screenshots/goemon3/ganbare-goemon-3.debug.png' %} "Ganbare Goemon 3 - Shishi Juuroku Hyoue no Karakuri Manjigatame Debug")
+![Ganbare Goemon 3 - Shishi Juuroku Hyoue no Karakuri Manjigatame Debug]({% asset 'screenshots/goemon3/ganbare-goemon-3.float.png' @path %} "Ganbare Goemon 3 - Shishi Juuroku Hyoue no Karakuri Manjigatame Debug")
 
 {% include compare_local.html
     name_1='Ganbare Goemon 3 - Shishi Juuroku Hyoue no Karakuri Manjigatame'

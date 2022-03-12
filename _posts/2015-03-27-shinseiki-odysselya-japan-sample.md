@@ -13,13 +13,13 @@ download:
 
 __神聖紀オデッセリア__
 
-![Shinseiki Odysselya (Japan) (Sample)]({% asset_path 'screenshots/shinseiki-odysselya-japan-sample/shinseiki-odysselya-japan-sample.0.png' %})
-![Shinseiki Odysselya (Japan) (Sample)]({% asset_path 'screenshots/shinseiki-odysselya-japan-sample/shinseiki-odysselya-japan-sample.1.png' %})
+![Shinseiki Odysselya (Japan) (Sample)]({% asset 'screenshots/shinseiki-odysselya-japan-sample/shinseiki-odysselya-japan-sample.0.png' @path %})
+![Shinseiki Odysselya (Japan) (Sample)]({% asset 'screenshots/shinseiki-odysselya-japan-sample/shinseiki-odysselya-japan-sample.1.png' @path %})
 
-![Shinseiki Odysselya (Japan) (Sample)]({% asset_path 'screenshots/shinseiki-odysselya-japan-sample/shinseiki-odysselya-japan-sample.2.png' %})
-![Shinseiki Odysselya (Japan) (Sample)]({% asset_path 'screenshots/shinseiki-odysselya-japan-sample/shinseiki-odysselya-japan-sample.3.png' %})
+![Shinseiki Odysselya (Japan) (Sample)]({% asset 'screenshots/shinseiki-odysselya-japan-sample/shinseiki-odysselya-japan-sample.2.png' @path %})
+![Shinseiki Odysselya (Japan) (Sample)]({% asset 'screenshots/shinseiki-odysselya-japan-sample/shinseiki-odysselya-japan-sample.3.png' @path %})
 
-![Shinseiki Odysselya (Japan) (Sample)]({% asset_path 'screenshots/shinseiki-odysselya-japan-sample/shinseiki-odysselya-japan-sample.4.png' %})
-![Shinseiki Odysselya (Japan) (Sample)]({% asset_path 'screenshots/shinseiki-odysselya-japan-sample/shinseiki-odysselya-japan-sample.5.png' %})
+![Shinseiki Odysselya (Japan) (Sample)]({% asset 'screenshots/shinseiki-odysselya-japan-sample/shinseiki-odysselya-japan-sample.4.png' @path %})
+![Shinseiki Odysselya (Japan) (Sample)]({% asset 'screenshots/shinseiki-odysselya-japan-sample/shinseiki-odysselya-japan-sample.5.png' @path %})
 
 Write up at [SNESCentral](http://www.snescentral.com/review.php?id=0842&num=1&fancy=yes&article=proto).

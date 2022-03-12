@@ -24,7 +24,7 @@ Interleaved: None                        SRAM: 0 Kb
        Type: Normal                       ROM: 16 Mb
     Country: USA                        Video: NTSC
   ROM Speed: 120ns (FastROM)         Revision: 1.0
-   Checksum: Bad 0x260B != 0x2705   Game Code:     
+   Checksum: Bad 0x260B != 0x2705   Game Code:
 ---------------------------Hashes---------------------------
       CRC32: 178D0201
         MD5: 8D594E0DD7E6C90E062D3F961D14C89F
@@ -64,8 +64,8 @@ Noticeably different is the balloon setup, mountain and words.
 
 _Setup - Sample_
 
-![Setup 1 - Sample]({% asset_path 'screenshots/chibi-maruko-chan-mezase-minami-no-island-japan-sample/setup-1-sample.png' %} "Setup 1 - Sample")
-![Setup 2 - Sample]({% asset_path 'screenshots/chibi-maruko-chan-mezase-minami-no-island-japan-sample/setup-2-sample.png' %} "Setup 2 - Sample")
+![Setup 1 - Sample]({% asset 'screenshots/chibi-maruko-chan-mezase-minami-no-island-japan-sample/setup-1-sample.png' @path %} "Setup 1 - Sample")
+![Setup 2 - Sample]({% asset 'screenshots/chibi-maruko-chan-mezase-minami-no-island-japan-sample/setup-2-sample.png' @path %} "Setup 2 - Sample")
 
 _VS Screen - Final_  / _Sample_
 
@@ -78,7 +78,7 @@ _VS Screen - Final_  / _Sample_
 
 Missing from the final game, or maybe only this mode, is this level select screen.
 
-![Level Select - Sample]({% asset_path 'screenshots/chibi-maruko-chan-mezase-minami-no-island-japan-sample/level-select.png' %} "Level Select - Sample")
+![Level Select - Sample]({% asset 'screenshots/chibi-maruko-chan-mezase-minami-no-island-japan-sample/level-select.png' @path %} "Level Select - Sample")
 
 _In Game - Final_  / _Sample_
 

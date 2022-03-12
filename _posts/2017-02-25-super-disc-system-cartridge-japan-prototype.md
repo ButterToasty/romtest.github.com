@@ -14,13 +14,11 @@ This cartridge would have been used to play Sony SNES CD games. Contains a bunch
 
 A monitor debug menu can be accessed by pressing A + X at the main screen.
 
-
 These strings can be found inside the ROM:
 
 `Super Disc boot ROM ver.0.95 Jul. 14, 1992 by Tomomi Abe at SONY`
 
 `Super Disc BIOS program ver.0.93 by Tomomi Abe. May. 26 1992 at SONY.`
-
 
 [Download Super Disc System Cartridge (Japan) (Prototype)](https://bsxproj.superfamicom.org/snes/SDBR_v0.95.zip)
 
@@ -28,11 +26,11 @@ These strings can be found inside the ROM:
 
 _Screenshots_
 
-![Main Screen]({% asset_path 'screenshots/super-disc-system-cartridge-japan-prototype/SuperDisc-Title.png' %})
-![Monitor Menu]({% asset_path 'screenshots/super-disc-system-cartridge-japan-prototype/SuperDisc-MonitorMenu.png' %})
-![Self-Check 1]({% asset_path 'screenshots/super-disc-system-cartridge-japan-prototype/SuperDisc-SelfCheck1.png' %})
-![Self-Check 2]({% asset_path 'screenshots/super-disc-system-cartridge-japan-prototype/SuperDisc-SelfCheck2.png' %})
-![ADPCM]({% asset_path 'screenshots/super-disc-system-cartridge-japan-prototype/SuperDisc-ADPCM.png' %})
-![Communication]({% asset_path 'screenshots/super-disc-system-cartridge-japan-prototype/SuperDisc-Communication.png' %})
-![CXD-1800]({% asset_path 'screenshots/super-disc-system-cartridge-japan-prototype/SuperDisc-CXD1800.png' %})
-![BACKUP RAM]({% asset_path 'screenshots/super-disc-system-cartridge-japan-prototype/SuperDisc-BackupRAM.png' %})
+![Main Screen]({% asset 'screenshots/super-disc-system-cartridge-japan-prototype/SuperDisc-Title.png' @path %})
+![Monitor Menu]({% asset 'screenshots/super-disc-system-cartridge-japan-prototype/SuperDisc-MonitorMenu.png' @path %})
+![Self-Check 1]({% asset 'screenshots/super-disc-system-cartridge-japan-prototype/SuperDisc-SelfCheck1.png' @path %})
+![Self-Check 2]({% asset 'screenshots/super-disc-system-cartridge-japan-prototype/SuperDisc-SelfCheck2.png' @path %})
+![ADPCM]({% asset 'screenshots/super-disc-system-cartridge-japan-prototype/SuperDisc-ADPCM.png' @path %})
+![Communication]({% asset 'screenshots/super-disc-system-cartridge-japan-prototype/SuperDisc-Communication.png' @path %})
+![CXD-1800]({% asset 'screenshots/super-disc-system-cartridge-japan-prototype/SuperDisc-CXD1800.png' @path %})
+![BACKUP RAM]({% asset 'screenshots/super-disc-system-cartridge-japan-prototype/SuperDisc-BackupRAM.png' @path %})

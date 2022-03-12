@@ -17,12 +17,12 @@ It's a puzzle game where you race the clock and another farmer trying to get the
 
 The dump itself is very peculiar, only working on SNES9x, it's very over dumped but simple trimming prevents the game from even booting. It's quite weird, I couldn't find the header either, though I only looked for 15 seconds. The title screen is slightly different, with the two companies [Vic Tokai](https://superfamicom.org/search-maker-english/vic+tokai/ "Vic Tokai") and [Nitto](https://superfamicom.org/ "Nitto") switched in order, company politics no doubt. Inside the game, the placement of the player id, 1P, has moved to the right to align with the label. There is also a score counter that is completely missing from the final version of the game, not sure why. The seeds are all set and you can do as many as you want seeing as it's a tech demo. The palette in this game has been tweaked a bit too in the final version, being made slightly brighter. First are sample screens, then retail. Enjoi!
 
-![Oraga_Land_Shusai_-_Best_Farmer_Shuukaku-Sai (Japan) (Sample) 1]({% asset_path 'screenshots/oraga-land-shusai-best-farmer-shuukaku-sai-japan-sample.1.png' %})
-![Oraga_Land_Shusai_-_Best_Farmer_Shuukaku-Sai (Japan) (Sample) 2]({% asset_path 'screenshots/oraga-land-shusai-best-farmer-shuukaku-sai-japan-sample.2.png' %})
+![Oraga_Land_Shusai_-_Best_Farmer_Shuukaku-Sai (Japan) (Sample) 1]({% asset 'screenshots/oraga-land-shusai-best-farmer-shuukaku-sai-japan-sample.1.png' @path %})
+![Oraga_Land_Shusai_-_Best_Farmer_Shuukaku-Sai (Japan) (Sample) 2]({% asset 'screenshots/oraga-land-shusai-best-farmer-shuukaku-sai-japan-sample.2.png' @path %})
 
-![Oraga_Land_Shusai_-_Best_Farmer_Shuukaku-Sai (Japan) 1]({% asset_path 'screenshots/oraga-land-shusai-best-farmer-shuukaku-sai-japan.1.png' %})
-![Oraga_Land_Shusai_-_Best_Farmer_Shuukaku-Sai (Japan) 2]({% asset_path 'screenshots/oraga-land-shusai-best-farmer-shuukaku-sai-japan.2.png' %})
-![Oraga_Land_Shusai_-_Best_Farmer_Shuukaku-Sai (Japan) 3]({% asset_path 'screenshots/oraga-land-shusai-best-farmer-shuukaku-sai-japan.3.png' %})
-![Oraga_Land_Shusai_-_Best_Farmer_Shuukaku-Sai (Japan) 4]({% asset_path 'screenshots/oraga-land-shusai-best-farmer-shuukaku-sai-japan.4.png' %})
-![Oraga_Land_Shusai_-_Best_Farmer_Shuukaku-Sai_(Japan) 5]({% asset_path 'screenshots/oraga-land-shusai-best-farmer-shuukaku-sai-japan.5.png' %})
-![Oraga_Land_Shusai_-_Best_Farmer_Shuukaku-Sai_(Japan) 6]({% asset_path 'screenshots/oraga-land-shusai-best-farmer-shuukaku-sai-japan.6.png' %})
+![Oraga_Land_Shusai_-_Best_Farmer_Shuukaku-Sai (Japan) 1]({% asset 'screenshots/oraga-land-shusai-best-farmer-shuukaku-sai-japan.1.png' @path %})
+![Oraga_Land_Shusai_-_Best_Farmer_Shuukaku-Sai (Japan) 2]({% asset 'screenshots/oraga-land-shusai-best-farmer-shuukaku-sai-japan.2.png' @path %})
+![Oraga_Land_Shusai_-_Best_Farmer_Shuukaku-Sai (Japan) 3]({% asset 'screenshots/oraga-land-shusai-best-farmer-shuukaku-sai-japan.3.png' @path %})
+![Oraga_Land_Shusai_-_Best_Farmer_Shuukaku-Sai (Japan) 4]({% asset 'screenshots/oraga-land-shusai-best-farmer-shuukaku-sai-japan.4.png' @path %})
+![Oraga_Land_Shusai_-_Best_Farmer_Shuukaku-Sai_(Japan) 5]({% asset 'screenshots/oraga-land-shusai-best-farmer-shuukaku-sai-japan.5.png' @path %})
+![Oraga_Land_Shusai_-_Best_Farmer_Shuukaku-Sai_(Japan) 6]({% asset 'screenshots/oraga-land-shusai-best-farmer-shuukaku-sai-japan.6.png' @path %})

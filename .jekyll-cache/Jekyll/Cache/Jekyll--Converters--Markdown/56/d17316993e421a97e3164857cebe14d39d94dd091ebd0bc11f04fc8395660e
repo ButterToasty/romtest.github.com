@@ -1,0 +1,405 @@
+I""<p>Purchased from Yahoo! Japan Auctions and originally released to <a href="http://www.planetvb.com/modules/news/article.php?storyid=270">Planet Virtual Boy</a>, we have a set of 7 Virtual Boy development disks, all from floppies, containing development manual, software like the VUCC compiler and the official sample code version 1.0, 1.1, 1.1a, and 1.2.</p>
+
+<p><img src="/assets/vb-development-disks/C-compiler-VUCC-(95.3.28)-(Japan)-7a97cc7a8ecdacffe54a2a319810649ca07b1bd0c462d05f4085f9e1a756a7dcbed1b6156f3927ddb1afcffd5ed04569f28c6b5a8377f37d696d388a1c9c3e42.jpg" alt="C Compiler VUCC (95.3.28) / Cコンパイラ　VUCC (95.3.28)" />
+<img src="/assets/vb-development-disks/VU-Development-System-(95.3.27)-(Japan)-c30209191f87c65b183b5e11668bccac332508f376e33ffa69cc9bd501188ee070f707a6cdf16f3dae5c61f5515070ea2a537c27badcaba98c48116d4c3acc05.jpg" alt="VU Development System (95.3.27) / VU開発システム　システムディスク (95.3.27)" />
+<img src="/assets/vb-development-disks/VU-Development-System-Manual-(95.3.27)-(Japan)-9053329a3fae1fe7b48a8c3579e23318f0b727c30acd399da90a548ec3db6276061cf24e9927130111fb0a0f0645617c4d08034d7b1a838d56d69bd3e4a56207.jpg" alt="VU Development System Manual (95.3.27) / VUSYS ISW 1.01a/ISDW 1.11e (1995-03-27) / VU開発システム　マニュアルディスク (95.3.27)" />
+<img src="/assets/vb-development-disks/VUE-Sample-Program-Ver-1.2-(95-6-7)-(Japan)-5506b144ea0ff19a00d8e7dd9e75d516deda035e356252d9da13ef05835143b4a0be6b06b151e58208874bab01a92bac550ba3949f3ead03c720a853bc9f7a5e.jpg" alt="VUE Sample Program Ver 1.2 (95-6-7) (Japan) / VUE サンプルプログラム Ver 1.2 (95-6-7)" />
+<img src="/assets/vb-development-disks/VUE-Sample-Program-Ver.1.0-(95-1)-(Japan)-45cf9db2ccebba2b9e5ba55d6b737b0d878c1d6269cd77252100108ce6c61b38c20d84808f54f8512b72f1d60e9cfc909c9f4bd5fec735355777e6d29308ca5a.jpg" alt="VUE Sample Program Ver.1.1 (95-4) / VUE サンプルプログラム Ver.1.1 (95-4)" />
+<img src="/assets/vb-development-disks/VUE-Sample-Program-Ver.1.1-(95-4)-(Japan)-358191f7e1635bd2d0a89db22423bb5ff12983eecd933c4576d1749bd498cad14cc1993bd640e4c78efdae2e07ed718b0a1dc26662b19f1797a7ba7b1b62b7b2.jpg" alt="VUE Sample Program Ver.1.1(a) (95-4-28) / VUE サンプルプログラム Ver.1.1(a) (95-4-28)" />
+<img src="/assets/vb-development-disks/VUE-Sample-Program-Ver.1.1(a)-(95-4-28)-(Japan)-14f241546fdff45172fd7a2ce44e6cfa2400a8d04006f43d5f2def9c9f58e21399322dc288827866e8527b1deada720dddfc3a4f0a1df5dfc8327dcbb4cf4190.jpg" alt="VUE Sample Program Ver.1.0 (95-1) /  VUE サンプルプログラム Ver.1.0 (95-1)" /></p>
+
+<h3 id="c-compiler-vucc-95328--cコンパイラvucc-95328">C Compiler VUCC (95.3.28) / Cコンパイラ　VUCC (95.3.28)</h3>
+
+<p><strong>Disk Information:</strong></p>
+
+<pre><code>Disk Title:   Cコンパイラ　VUCC
+Translation:  C Compiler VUCC
+Disk Date:    March 28th, 1995
+</code></pre>
+
+<p><strong>Disk File Listing:</strong></p>
+
+<pre><code>CGRIND.CL
+CGRIND.EXE
+CPARSE.CL
+CPARSE.EXE
+GMAIN.CL
+JUNCPP.EXE
+LD-V810.CL
+MD-V810.CL
+MD-V810P.CL
+SAMPLE
+   _DATA.H
+   _DATA.S
+   _SUB.H
+   _SUB.S
+   _VECT.S
+   _VUCC.S
+   B27_OBJ.CGX
+   BORD27L.CGX
+   BORD27L.SCR
+   BORD27R.CGX
+   BORD27R.SCR
+   ISWASM.BAT
+   MAIN.C
+   MAIN.LNK
+   OMAKE
+      MAKEFILE.GNU
+      MKDEP.EXE
+      MKDEP.MAN
+   PDEF.H
+PMAIN.CL
+SAMPLE
+TREE-LIB.CL
+VUCC.EXE
+VUCC.VER
+</code></pre>
+
+<h3 id="vu-development-system-95327--vu開発システムシステムディスク-95327">VU Development System (95.3.27) / VU開発システム　システムディスク (95.3.27)</h3>
+
+<p><strong>Disk Information:</strong></p>
+
+<pre><code>Disk Title:   VU開発システム　システムディスク
+Translation:  Development System System Disk VU
+Disk Date:    March 27th, 1995
+</code></pre>
+
+<p><strong>Disk File Listing:</strong></p>
+
+<pre><code>DOS4GW.EXE
+ISAS.EXE
+ISAS4G.EXE
+ISDW.HLP
+ISLK.EXE
+ISLK4G.EXE
+ISSPCDRV.COM
+ISW.EXE
+ISWASM.BAT
+ISWEDIT.BAT
+ISWJ.HLP
+V810EXT.DOC
+VERSION.DOC
+</code></pre>
+
+<h3 id="vu-development-system-manual-95327--vu開発システムマニュアルディスク-95327">VU Development System Manual (95.3.27) / VU開発システム　マニュアルディスク (95.3.27)</h3>
+
+<p><strong>Disk Information:</strong></p>
+
+<pre><code>Disk Title:   VU開発システム　マニュアルディスク
+Translation:  VU Disk Development System Manual
+Disk Date:    March 27th, 1995
+</code></pre>
+
+<p><strong>Disk File Listing:</strong></p>
+
+<pre><code>ISAS
+  APPENDX1.TXT
+  APPENDX2.TXT
+  CHAPTER1.TXT
+  CHAPTER2.TXT
+  CHAPTER3.TXT
+  CHAPTER4.TXT
+  CHAPTER5.TXT
+  CHAPTER6.TXT
+  CHAPTER7.TXT
+  CHAPTER8.TXT
+  CONTENT.TXT
+  HEAD.TXT
+ISW
+  APPENDX1.TXT
+  APPENDX2.TXT
+  CHAPTER1.TXT
+  CHAPTER2.TXT
+  CHAPTER3.TXT
+  CHAPTER4.TXT
+  CHAPTER5.TXT
+  CHAPTER6.TXT
+  CONTENT.TXT
+  HEAD.TXT
+</code></pre>
+
+<h3 id="vue-sample-program-ver-12-95-6-7-japan--vue-サンプルプログラム-ver-12-95-6-7">VUE Sample Program Ver 1.2 (95-6-7) (Japan) / VUE サンプルプログラム Ver 1.2 (95-6-7)</h3>
+
+<p><strong>Disk Information:</strong></p>
+
+<pre><code>Disk Title:   VUE サンプルプログラム
+Translation:  VUE Sample Program
+Disk Date:    June 7th, 1995
+</code></pre>
+
+<p><strong>Disk File Listing:</strong></p>
+
+<pre><code>AT_LOAD.C
+AT_LOAD.O
+CC.BAT
+CGX2C.EXE
+CM.BAT
+DATA.S
+DEF.O
+DEF.S
+DF_LOAD.C
+DF_LOAD.O
+H_B_AFF.C
+H_B_AFF.O
+H_B_AFF.SCR
+HB_LOAD.C
+HB_LOAD.O
+HYOUSI.C
+HYOUSI.O
+HYOUSI.SCR
+ISWASM.BAT
+KYOTU.C
+KYOTU.CGX
+KYOTU.O
+KYOTU1.C
+KYOTU1.O
+KYOTU1.SCR
+KYOTU2L.C
+KYOTU2L.O
+KYOTU2L.SCR
+KYOTU2R.C
+KYOTU2R.O
+KYOTU2R.SCR
+KYOTU3.C
+KYOTU3.O
+KYOTU3.SCR
+KYOTU5L.C
+KYOTU5L.O
+KYOTU5L.SCR
+KYOTU5R.C
+KYOTU5R.O
+KYOTU5R.SCR
+LK.BAT
+MAIN.C
+MAIN.ISX
+MAIN.LNK
+MAIN.O
+MASK.C
+MASK.O
+MASK.SCR
+PDEF.H
+PDEF.S
+README.DOC
+ROM.ICE
+S.BAT
+SAMPLE.C
+SAMPLE.CGX
+SAMPLE.O
+SARU_BG.C
+SARU_BG.O
+SARU_BG.SCR
+SCR2C.EXE
+SIN&amp;COS.C
+SIN&amp;COS.O
+SYS_MAC.S
+</code></pre>
+
+<h3 id="vue-sample-program-ver11-95-4--vue-サンプルプログラム-ver11-95-4">VUE Sample Program Ver.1.1 (95-4) / VUE サンプルプログラム Ver.1.1 (95-4)</h3>
+
+<p><strong>Disk Information:</strong></p>
+
+<pre><code>Disk Title:   VUE サンプルプログラム
+Translation:  VUE Sample Program
+Disk Date:    April 1995
+</code></pre>
+
+<p><strong>Disk File Listing:</strong></p>
+
+<pre><code>AT_LOAD.C
+AT_LOAD.O
+CC.BAT
+CGX2C.EXE
+CM.BAT
+DATA.S
+DEF.O
+DEF.S
+DF_LOAD.C
+DF_LOAD.O
+H_B_AFF.C
+H_B_AFF.O
+H_B_AFF.SCR
+HB_LOAD.C
+HB_LOAD.O
+HYOUSI.C
+HYOUSI.O
+HYOUSI.SCR
+ISWASM.BAT
+KYOTU.C
+KYOTU.CGX
+KYOTU.O
+KYOTU1.C
+KYOTU1.O
+KYOTU1.SCR
+KYOTU2L.C
+KYOTU2L.O
+KYOTU2L.SCR
+KYOTU2R.C
+KYOTU2R.O
+KYOTU2R.SCR
+KYOTU3.C
+KYOTU3.O
+KYOTU3.SCR
+KYOTU5L.C
+KYOTU5L.O
+KYOTU5L.SCR
+KYOTU5R.C
+KYOTU5R.O
+KYOTU5R.SCR
+LK.BAT
+MAIN.C
+MAIN.ISX
+MAIN.LNK
+MAIN.O
+MASK.C
+MASK.O
+MASK.SCR
+PDEF.H
+PDEF.S
+README.DOC
+ROM.ICE
+S.BAT
+SAMPLE.C
+SAMPLE.CGX
+SAMPLE.O
+SARU_BG.C
+SARU_BG.O
+SARU_BG.SCR
+SCR2C.EXE
+SIN&amp;COS.C
+SIN&amp;COS.O
+SYS_MAC.S
+</code></pre>
+
+<h3 id="vue-sample-program-ver11a-95-4-28--vue-サンプルプログラム-ver11a-95-4-28">VUE Sample Program Ver.1.1(a) (95-4-28) / VUE サンプルプログラム Ver.1.1(a) (95-4-28)</h3>
+
+<p><strong>Disk Information:</strong></p>
+
+<pre><code>Disk Title:   VUE サンプルプログラム
+Translation:  VUE Sample Program
+Disk Date:    April 28th, 1995
+</code></pre>
+
+<p><strong>Disk File Listing:</strong></p>
+
+<pre><code>AT_LOAD.C
+AT_LOAD.O
+CC.BAT
+CGX2C.EXE
+CM.BAT
+DATA.S
+DEF.O
+DEF.S
+DF_LOAD.C
+DF_LOAD.O
+H_B_AFF.C
+H_B_AFF.O
+H_B_AFF.SCR
+HB_LOAD.C
+HB_LOAD.O
+HYOUSI.C
+HYOUSI.O
+HYOUSI.SCR
+ISWASM.BAT
+KYOTU.C
+KYOTU.CGX
+KYOTU.O
+KYOTU1.C
+KYOTU1.O
+KYOTU1.SCR
+KYOTU2L.C
+KYOTU2L.O
+KYOTU2L.SCR
+KYOTU2R.C
+KYOTU2R.O
+KYOTU2R.SCR
+KYOTU3.C
+KYOTU3.O
+KYOTU3.SCR
+KYOTU5L.C
+KYOTU5L.O
+KYOTU5L.SCR
+KYOTU5R.C
+KYOTU5R.O
+KYOTU5R.SCR
+LK.BAT
+MAIN.C
+MAIN.ISX
+MAIN.LNK
+MAIN.O
+MASK.C
+MASK.O
+MASK.SCR
+PDEF.H
+PDEF.S
+README.DOC
+ROM.ICE
+S.BAT
+SAMPLE.C
+SAMPLE.CGX
+SAMPLE.O
+SARU_BG.C
+SARU_BG.O
+SARU_BG.SCR
+SCR2C.EXE
+SIN&amp;COS.C
+SIN&amp;COS.O
+SYS_MAC.S
+</code></pre>
+
+<h3 id="vue-sample-program-ver10-95-1---vue-サンプルプログラム-ver10-95-1">VUE Sample Program Ver.1.0 (95-1) /  VUE サンプルプログラム Ver.1.0 (95-1)</h3>
+
+<p><strong>Disk Information:</strong></p>
+
+<pre><code>Disk Title:   VUE サンプルプログラム
+Translation:  VUE Sample Program
+Disk Date:    January 1995
+</code></pre>
+
+<p><strong>Disk File Listing:</strong></p>
+
+<pre><code>AT_LOAD.C
+AT_LOAD.O
+CC.BAT
+DATA.S
+DEF.O
+DEF.S
+DF_LOAD.C
+DF_LOAD.O
+GRAPHIC
+  CGX2C.EXE
+  SCR2C.EXE
+H_B_AFF.C
+H_B_AFF.O
+HB_LOAD.C
+HB_LOAD.O
+HYOUSI.C
+HYOUSI.O
+IPD_FOC.C
+IPD_FOC.O
+ISWASM.BAT
+MAIN.C
+MAIN.ISX
+MAIN.LNK
+MAIN.O
+MASK.C
+MASK.O
+PDEF.H
+PDEF.S
+README.DOC
+SAMPLE.BAT
+SAMPLE.C
+SAMPLE.O
+SARU_BG.C
+SARU_BG.O
+SCR&amp;CGX
+  H_B_AFF.SCR
+  HYOUSI.SCR
+  IPD_FOC.SCR
+  MASK.SCR
+  SAMPLE.CGX
+  SARU_BG.SCR
+SIN&amp;COS.C
+SIN&amp;COS.O
+SYS_MAC.S
+</code></pre>
+:ET

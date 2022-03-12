@@ -1,0 +1,972 @@
+I"b�<p><strong><a href="https://superfamicom.org/info/spark-world">Denz Traffic Panic (Japan) (Spark World Prototype)</a></strong></p>
+
+<p><strong><a href="https://superfamicom.org/info/spark-world">デンズ トラフィックパニック (スパーク・ワールド プロトタイプ)</a></strong></p>
+
+<p>This is an early version of <strong>Spark World</strong>, a fun <strong><a href="https://superfamicom.org/info/super-bomberman">Super Bomberman</a></strong> clone where the players are cars and everything is automotive themed.</p>
+
+<p>It’s close to being finished, I only noticed the lack of a difficulty selection and a few graphical changes in the story selection, the player and the player score area- outside of the title screen overhaul due to the name change.</p>
+
+<p><em>Titles - Prototype</em>  / <em>Final</em></p>
+
+<p>The title screens are similar but the logos are entirely different, the prototype logo looks more “fun” to me. The barrel obscured by the menu had changed to a battery, and <code>STORY GAME</code> replaces <code>NORMAL GAME</code> in the final.</p>
+
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="/assets/screenshots/denz-traffic-panic-japan-spark-world-prototype/tp-title-1fc247eb2521579ad7e655c1a895ce348b21fae386a396b7e10dd642b289570229ebe5c2c23e2644105d7993a5542edc12aee49d0616fac14faf31e7e94d9999.png" alt="Title - Prototype" title="Title - Prototype" />
+      </div>
+      <img src="/assets/screenshots/denz-traffic-panic-japan-spark-world-prototype/sw-title-2ffe53813daeee55be64b53d79e72f9544a59ecdee4e9950ee730bd7073c8872dbf45602cea8a6b4de682f8a7f76046884fefc3c604e8f6dba785be7a5fecb5a.png" alt="Title - Final" title="Title - Final" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<p><em>Story Stage Select - Prototype</em>  / <em>Final</em></p>
+
+<p>Some backgrounds have very slightly been adjusted, for the better. Here we see the repeated background changed from <code>TRAFFIC PANIC</code> to <code>SPARK WORLD</code>.</p>
+
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="/assets/screenshots/denz-traffic-panic-japan-spark-world-prototype/tp-story-stage-select-3b86a74ad011035603fe27bcfa754b7d2ce4a31ea1d03776e445d79911ca077c954048b16790f8f41bdbd6909a3f7c6efdb7c1e711cf586b5fde257e1cd67f1d.png" alt="Title - Prototype" title="Title - Prototype" />
+      </div>
+      <img src="/assets/screenshots/denz-traffic-panic-japan-spark-world-prototype/sw-story-stage-select-13227be13ca516864c0cbc044861edf0b452e04f301334aaee8baeb496b9dd855403890f8b8f2c5504e78b08ab930ed398d77990f3d826a306bddb3b739cccbc.png" alt="Title - Final" title="Title - Final" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<p><em>Story In Game</em></p>
+
+<p>Lots of changes in game, the car looks happy in the prototype, power up icons are slightly different, the border of the player box has changed, and in the prototype player 2 doesn’t look defeated.</p>
+
+<p><em>Story Stage City 1-1 - Prototype</em>  / <em>Final</em></p>
+
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="/assets/screenshots/denz-traffic-panic-japan-spark-world-prototype/tp-story-stage-city-1-1-play-1-7d21f58a7a07e62e66f458db7261fa23dc9d845bcea93c204115fde6f8647fdbe80e48ca71585bf5436976e883f891365412d864ec680f9255e8a0888d74deb0.png" alt="Prototype" title="Prototype" />
+      </div>
+      <img src="/assets/screenshots/denz-traffic-panic-japan-spark-world-prototype/sw-story-stage-city-1-1-play-1-8454c26c97e5bd97bf39a8067ef2854eb3dd3fba9dbfd1a4c23388740314511f96204bc9b7a333a5101ea10ce53e03c2354a9ec9eb7d649515fea7cd23663056.png" alt="Final" title="Final" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<p><em>Story Stage Desert 1-1 - Prototype</em>  / <em>Final</em></p>
+
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="/assets/screenshots/denz-traffic-panic-japan-spark-world-prototype/tp-story-stage-desert-1-1-play-1-c1f35a309a3c1e6a3c87107e71bd0bc89be7e160ee4bd2596209a5aa6b59ee1df03b56d83152c942596af821af1ebfc5a4686d11325d02cc6913e762f7e93853.png" alt="Prototype" title="Prototype" />
+      </div>
+      <img src="/assets/screenshots/denz-traffic-panic-japan-spark-world-prototype/sw-story-stage-desert-1-1-play-1-d4c9a27e1adb8deef7c025a551455e9f71d21fc341e6de91d26d98892a00b1ba01f66d2b40653e07b8c747dc433c3ed6fa57088b45ec64d7ca70d623b419c9c4.png" alt="Final" title="Final" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<p><em>Story Stage Desert 2-1 - Prototype</em>  / <em>Final</em></p>
+
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="/assets/screenshots/denz-traffic-panic-japan-spark-world-prototype/tp-story-stage-desert-2-1-play-1-3908f3e7281b47312313bbd7d85e65c546070fefa853658456d063eec0f50cda6e9f16515ff87388fda6e7beabfdd09018cc78c9645f965ad8ccc56269a92ebe.png" alt="Prototype" title="Prototype" />
+      </div>
+      <img src="/assets/screenshots/denz-traffic-panic-japan-spark-world-prototype/sw-story-stage-desert-2-1-play-1-f05d31c7f9c60be1ecd0fa8c6e5dc5245587c0d25c11e2b6181614bea81e55e7ae1fb044def68ccdcff27b8aaef9a8ab896a91dff2626bbff138138963f1df6d.png" alt="Final" title="Final" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<p><em>Story Stage Ice 1-1 - Prototype</em>  / <em>Final</em></p>
+
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="/assets/screenshots/denz-traffic-panic-japan-spark-world-prototype/tp-story-stage-ice-1-1-play-1-58966a00f95fecde1fea98d9b24ee62fc17f73dd8340a90e289cfd06859105c6547e45252135f0798ffd6f007ac891a68b7dc728e6d5cbba2def51ffbdae535b.png" alt="Prototype" title="Prototype" />
+      </div>
+      <img src="/assets/screenshots/denz-traffic-panic-japan-spark-world-prototype/sw-story-stage-ice-1-1-play-1-f1a9493e2f336031374180ae72cae93a4bf397ab76046d07b33e6ceb235f2cadaebd45a8d4b7e17431352bc8a875c36fa70766b5e6e32a05f286fb0ea577c21f.png" alt="Final" title="Final" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<p><em>Story Stage Ice 2-1 - Prototype</em>  / <em>Final</em></p>
+
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="/assets/screenshots/denz-traffic-panic-japan-spark-world-prototype/tp-story-stage-ice-2-1-play-1-9d8bea0e7d780752967c53c03307b40a4e498eaa18f5bf35e6a1c6af3a44452c7ee949224307134605c7e33515156d639eaa9d7646d9ebe215eb3f0d87d2478f.png" alt="Prototype" title="Prototype" />
+      </div>
+      <img src="/assets/screenshots/denz-traffic-panic-japan-spark-world-prototype/sw-story-stage-ice-2-1-play-1-577acac2c7789bd0f91b80250bb765c76713ab500484eeb5bd291aa4388814fdbd6608883b2e8c550e8e728be50b93017a27ab90f8d4946ad58165aa1f911d5f.png" alt="Final" title="Final" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<p><em>Story Stage Jungle 1-1 - Prototype</em>  / <em>Final</em></p>
+
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="/assets/screenshots/denz-traffic-panic-japan-spark-world-prototype/tp-story-stage-jungle-1-1-play-1-e785cfba3e1bb42d7f81751e43471ac802d6a1be3d822ed15cbfc5bc8f47c59f177195455ee1592a6447907facf385d1e2f70b94b84fcec9d4594d1c2ac506f3.png" alt="Prototype" title="Prototype" />
+      </div>
+      <img src="/assets/screenshots/denz-traffic-panic-japan-spark-world-prototype/sw-story-stage-jungle-1-1-play-1-e2fc3963da4502f6f695a24753994fddd1deac17f05abc534c57a3f2b33292efab38a700e425309505a8a811b05a6fd52fe0471ef5d26d927228e47c33c751ca.png" alt="Final" title="Final" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<p><em>Story Stage Jungle 2-1 - Prototype</em>  / <em>Final</em></p>
+
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="/assets/screenshots/denz-traffic-panic-japan-spark-world-prototype/tp-story-stage-jungle-2-1-play-1-f52bca571c8d977c7e9306efee3624f84340bbb63aca0fe2052cdd219c2bca7d32efad75f8cb0d24a24596482d4d4f0a3c28de502d49b39be335adaabcadfbb0.png" alt="Prototype" title="Prototype" />
+      </div>
+      <img src="/assets/screenshots/denz-traffic-panic-japan-spark-world-prototype/sw-story-stage-jungle-2-1-play-1-947bc76fd3e40d243f4db78787781b54d8928f7f2010ce6966c81a18cbed79e3cbfc2393072831d68353a2f4c9bdf2d15b3ff28025948529f6fc086a9ca4a5cf.png" alt="Final" title="Final" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<p><em>Story Stage River 1-1 - Prototype</em>  / <em>Final</em></p>
+
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="/assets/screenshots/denz-traffic-panic-japan-spark-world-prototype/tp-story-stage-river-1-1-play-1-81c39ddfc5574c37ea4305864e9b3d86270e4f0c07f36b7cb713db12e7a3404e9e1e619fe49a67812016d1a2e04cb38a374102d2f72784d303dde22e7e92b366.png" alt="Prototype" title="Prototype" />
+      </div>
+      <img src="/assets/screenshots/denz-traffic-panic-japan-spark-world-prototype/sw-story-stage-river-1-1-play-1-afa8ba8d8f47dc6ee78d151c9fed6d7e3333cb5e5d0a1f6f8ec804b84b95889a8a86fe6091ac43642fb7d85f48356b76f814e0e8cab4df354416f2c1471e92c1.png" alt="Final" title="Final" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<p><em>Story Stage River 2-1 - Prototype</em>  / <em>Final</em></p>
+
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="/assets/screenshots/denz-traffic-panic-japan-spark-world-prototype/tp-story-stage-river-2-1-play-1-46e30630b7e69fa6ad9fa34d2c7b19445e398bab36c78d2eb928b23c1795e8d2d1e1b4e2cf7b9b6288517434e69aad1ee3922ba055dd61fb412f0983c1cfeb89.png" alt="Prototype" title="Prototype" />
+      </div>
+      <img src="/assets/screenshots/denz-traffic-panic-japan-spark-world-prototype/sw-story-stage-river-2-1-play-1-3eceaa44ed9f6f129389762970a67a51f45cf3b1c1824a3d469e8e8bc341399c32f2ed02e6a09ee301d13f940dae97fd79637b971a86ddb2aedc5c592ecb356c.png" alt="Final" title="Final" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<p><em>Password - Prototype</em>  / <em>Final</em></p>
+
+<p>Another instance where the repeating title background has been updated.</p>
+
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="/assets/screenshots/denz-traffic-panic-japan-spark-world-prototype/tp-password-75691e24434ef683131b7b45237cfcd226137e456f28dc43ff9c01d41d45286381aa275b069f7d109bba31cce048a85718151aa29cf43af81c4a62a9e3b784e7.png" alt="Prototype" title="Prototype" />
+      </div>
+      <img src="/assets/screenshots/denz-traffic-panic-japan-spark-world-prototype/sw-password-f06806762e4fd655f381e4a2dca3a08012325c69e99cb9e8c6aa39a7e7a32423e4cc4625c1203df91ec97d4c23fe91007da645137df0fcf73418c7db6b92c1a2.png" alt="Final" title="Final" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<p><em>Battle Mode Player Count - Prototype</em>  / <em>Final</em></p>
+
+<p>Yet another.</p>
+
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="/assets/screenshots/denz-traffic-panic-japan-spark-world-prototype/tp-battle-player-count-c7d702520b199be63c1041a12fb0ccc30dfc257b1ad36260b9172a72f0f5916f0a5178dd8a3854e5a9347159e6dff66f52d83b8340ae198b53aae093f82c36c7.png" alt="Prototype" title="Prototype" />
+      </div>
+      <img src="/assets/screenshots/denz-traffic-panic-japan-spark-world-prototype/sw-battle-player-count-20969ba7da90a2b6ca21de35f09c9c1c85ff9221118d1d6fe60c8374da38502703f7ea2f89f96b624a19f69f8666346070fecc636b523e1919521f4da89db66d.png" alt="Final" title="Final" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<p><em>Battle Mode Stage Select - Prototype</em>  / <em>Final</em></p>
+
+<p>The last 4 stages have changed icons and some have changed titles.</p>
+
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="/assets/screenshots/denz-traffic-panic-japan-spark-world-prototype/tp-battle-stage-select-13a35e1b8664f5fc1632e6d7f9e1a890d49aae40c250d98ec708b912c2d5a048442c6e57d334153decef07e215594988969237ded6c9b58191ff6717320f69b4.png" alt="Prototype" title="Prototype" />
+      </div>
+      <img src="/assets/screenshots/denz-traffic-panic-japan-spark-world-prototype/sw-battle-stage-select-590196aef8ff1aa51f29cb31c44f2777a0eefee760294ccaf9016ecf628afb1b1d7860f0044c2451e6d7e73112b3ccdcdc81d21c204c2ba3ce2c0301557864ab.png" alt="Final" title="Final" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<p><em>Battle Mode Stage 1 - Prototype</em>  / <em>Final</em></p>
+
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="/assets/screenshots/denz-traffic-panic-japan-spark-world-prototype/tp-battle-stage-1-f51d9e31a9fdcd577b29ba25e1a63052d110247040bee50dd90dc4c90601785f573b5e95799dacbc03a35971d900cb2c362d6aab6e43192a0496da065ed1f4e1.png" alt="Prototype" title="Prototype" />
+      </div>
+      <img src="/assets/screenshots/denz-traffic-panic-japan-spark-world-prototype/sw-battle-stage-1-16b580cd6515859938c71670a980805d3b7f6d344eca8b55b3dbfd3df3cbd0b81876ea604fe7cc3e81884b5218b9883b79605f514611e17ee21fb89f25df7eef.png" alt="Final" title="Final" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<p><em>Battle Mode Stage 2 - Prototype</em>  / <em>Final</em></p>
+
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="/assets/screenshots/denz-traffic-panic-japan-spark-world-prototype/tp-battle-stage-2-be0718925eb814b03ccf3b562820b15236494c5dff0aac25324981cb3de5633d10985d9c33adf47eec2bbe5b7af22fa72fea0dd23941f4ec6a81f154c2768537.png" alt="Prototype" title="Prototype" />
+      </div>
+      <img src="/assets/screenshots/denz-traffic-panic-japan-spark-world-prototype/sw-battle-stage-2-4ae87986c0eb779bbd97f13945ccb08edc61eea26541e5fc1bce9a2801e2e19137252c07d2b54cb7419f408dd2ddfab7c38b13753fa895cc2cf8f65fd37af03f.png" alt="Final" title="Final" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<p><em>Battle Mode Stage 3 - Prototype</em>  / <em>Final</em></p>
+
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="/assets/screenshots/denz-traffic-panic-japan-spark-world-prototype/tp-battle-stage-3-6a23b7d8f19c89af62a0fa4211c0971a97279c6283fe1d2e80771efb73c0be302bde50e14707d5d92e0755c9f5569aae5eefdccce7159c83615ff41546ab80b6.png" alt="Prototype" title="Prototype" />
+      </div>
+      <img src="/assets/screenshots/denz-traffic-panic-japan-spark-world-prototype/sw-battle-stage-3-a64c351655f9563d7fc24e7dcbe49a9716020c807604f647b7c4c4653cb3be4048c492ab6e538bd07f4d1e387571a771410302e5cd50925aad94cd7804fe0eb1.png" alt="Final" title="Final" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<p><em>Battle Mode Stage 4 - Prototype</em>  / <em>Final</em></p>
+
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="/assets/screenshots/denz-traffic-panic-japan-spark-world-prototype/tp-battle-stage-4-cf87b18e087ecff1fbd068645afeb535fb6218e34fc5ca0530b2d93ab3a97f9de75479278035b626e25eb171600df5a71174f000521369f1738772f40c77d6ca.png" alt="Prototype" title="Prototype" />
+      </div>
+      <img src="/assets/screenshots/denz-traffic-panic-japan-spark-world-prototype/sw-battle-stage-4-cebe88885ed4ebe6866e66b4c2883836560800b63ff9eaf8a826bf4b0ff5e6578f138430f44145ce2400420524e156d2b9e9ee9597e0ea19c8528194bb3a26db.png" alt="Final" title="Final" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<p><em>Battle Mode Stage 5 - Prototype</em>  / <em>Final</em></p>
+
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="/assets/screenshots/denz-traffic-panic-japan-spark-world-prototype/tp-battle-stage-5-43b4fcebd67771873724a86271c2bc9978ef2f7b034dc91fb29c27cd3a13d5e241fdc004a4c2be696f4f4c61e5fe605c8da9ae6a65415373113662533dc7b841.png" alt="Prototype" title="Prototype" />
+      </div>
+      <img src="/assets/screenshots/denz-traffic-panic-japan-spark-world-prototype/sw-battle-stage-5-eacca653b5f4a0ae233b92df032e0e0954d88226e89cdde14559414c289fab544e0c1ed59c671563fe59618a6052665da61b86ec75374b2ca3e3d46c00f22993.png" alt="Final" title="Final" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<p><em>Battle Mode Stage 6 - Prototype</em>  / <em>Final</em></p>
+
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="/assets/screenshots/denz-traffic-panic-japan-spark-world-prototype/tp-battle-stage-6-ac7412d5fd0406f9e0412c9beebf356d6a9cc9dafbe874a1940ac85b1a5f9a769020832a7ef2a61d90e06b420e54c34ff5eb2d43e926a017176e75d81ac82d84.png" alt="Prototype" title="Prototype" />
+      </div>
+      <img src="/assets/screenshots/denz-traffic-panic-japan-spark-world-prototype/sw-battle-stage-6-2c7e2cbb65d3cb9335f247e47572e39504f3b69aa2104464a74c266ddec83f04789d79a3318c3dce1d22bd91d41f9927d2b4d5ddfd5ed1843e4cfae4624f6d21.png" alt="Final" title="Final" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<p><em>Battle Mode Stage 7 - Prototype</em>  / <em>Final</em></p>
+
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="/assets/screenshots/denz-traffic-panic-japan-spark-world-prototype/tp-battle-stage-7-39c9d2219ebd1ed7ef633fec34b3bf5fb2019fe9e504e67d9d463bd0178d382c9fb9112fe89533c34151162325ac9f72bef216c62ef91ed14ccc0ad9ebe2c8df.png" alt="Prototype" title="Prototype" />
+      </div>
+      <img src="/assets/screenshots/denz-traffic-panic-japan-spark-world-prototype/sw-battle-stage-7-ccaedb76c790681d1998fc5d14d3762a1a6e54fe336f597aabdb41e02289a97a764cbec06abdddc5366e02bf613ae787d21a6358acf58b5e49251feb4e03d29f.png" alt="Final" title="Final" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<p><em>Battle Mode Stage 8 - Prototype</em>  / <em>Final</em></p>
+
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="/assets/screenshots/denz-traffic-panic-japan-spark-world-prototype/tp-battle-stage-8-716ecce8875a582a3f3bd7afe0871617b92b58c48b57e63f3ca5d7e3f150a72a0d48b937a40e480fc44a0e1fb94e02c7a2f7ff9f728c9461f74ab34ce58cb660.png" alt="Prototype" title="Prototype" />
+      </div>
+      <img src="/assets/screenshots/denz-traffic-panic-japan-spark-world-prototype/sw-battle-stage-8-28f12e32ac030224fb33bf66fc44bdd7aadad9548d2bbc2e52274b541d11b2d84aff7e93e5d39f913e9c381e92259c63e51dc9febc2fdf376d76f0ea76e4d49a.png" alt="Final" title="Final" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<p><em>Battle Mode Stage 9 - Prototype</em>  / <em>Final</em></p>
+
+<p>The smashable walls have changed in this level.</p>
+
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="/assets/screenshots/denz-traffic-panic-japan-spark-world-prototype/tp-battle-stage-9-6b8df7b331d9b86a2449f5ab55df3cbd1dfa9d28b69530ccfd27d308a845da4cb3330db8c0c458cf7dd660970e0f37541e1dc29b763f5db7971381eff205e07d.png" alt="Prototype" title="Prototype" />
+      </div>
+      <img src="/assets/screenshots/denz-traffic-panic-japan-spark-world-prototype/sw-battle-stage-9-51d78bec636dcb9ef2511ba76268d6fd164e588c994be5093708214f0621b6044d93bec7b431954c1dc002ee44433ffef81bb8900ed2b97ec918635be61fff76.png" alt="Final" title="Final" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<p><em>Battle Mode Stage 10 - Prototype</em>  / <em>Final</em></p>
+
+<p>The smashable walls have changed in this level.</p>
+
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="/assets/screenshots/denz-traffic-panic-japan-spark-world-prototype/tp-battle-stage-10-2fd8c243b08201909792b418870da590b764eb469b84de0efc81dd857f4bf96a6aa197c62ff6bca093ed8df68dc2e066f1fcc414281aa0e5ef30dae3d9134d53.png" alt="Prototype" title="Prototype" />
+      </div>
+      <img src="/assets/screenshots/denz-traffic-panic-japan-spark-world-prototype/sw-battle-stage-10-2e33e7e69ebbbcfec7de74c5addb954a2cb44dcfac703bb90f34c174890f0e2f60afe54ec8d47d293f840b7a3584bf7ca8d9535fe0a3169d5db5944bad3e182c.png" alt="Final" title="Final" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<p><em>Battle Mode Stage 11 - Prototype</em>  / <em>Final</em></p>
+
+<p>The smashable walls have changed in this level.</p>
+
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="/assets/screenshots/denz-traffic-panic-japan-spark-world-prototype/tp-battle-stage-11-a8a31a1e9ac1afbb74dd4df4877873122d60cfb5a4ba60e43070f657fcb60d757c83c6da8ac24164dc2a2955dcfad226700805e7f54f11d1bc773353359ee8c1.png" alt="Prototype" title="Prototype" />
+      </div>
+      <img src="/assets/screenshots/denz-traffic-panic-japan-spark-world-prototype/sw-battle-stage-11-49020dc8a91de5bb6fa99c58ea83085682ff6e950b555307bdcfea173157507613a2f1c33bca0d2d8be243713d5f8d7faa1eff8c2eabacd483a3596a3a0fb081.png" alt="Final" title="Final" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<p><em>Battle Mode Stage 12 - Prototype</em>  / <em>Final</em></p>
+
+<p>The smashable walls have changed in this level.</p>
+
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="/assets/screenshots/denz-traffic-panic-japan-spark-world-prototype/tp-battle-stage-12-be946288611be7090921278b66cbeddb314bbe33474972f01e8d1312e5ea42fe34e39d057b2d38ff4a6d5b0e41fc2dda2ac9093fce1c6916aac44a5d4dfccdca.png" alt="Prototype" title="Prototype" />
+      </div>
+      <img src="/assets/screenshots/denz-traffic-panic-japan-spark-world-prototype/sw-battle-stage-12-ccfb3d17bc88ddf6d8fe15f8f14e31d2603ba8794b9348378c78e4b7e4f0f6dc4a44901910c3f8fc1c1a28a94a73a323ba6e38e5e5f434207103d9f53500e5b8.png" alt="Final" title="Final" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<p><em>Bonus Screenshots</em></p>
+
+<p><img src="/assets/screenshots/denz-traffic-panic-japan-spark-world-prototype/tp-denz-216e96622dac0cf01970a54b3721991e0145c30dedc23c9fcfbaa16d77c99d2b323e1e2dcaee31d17ff0dac17c3998b08516053926a95e357b692e84978fdff2.png" alt="Denz" />
+<img src="/assets/screenshots/denz-traffic-panic-japan-spark-world-prototype/tp-sound-87b141dd9f62f89418df4682f3baa01a9f75037c94fdbd645c498fa6f2d63204d989fb9feec673917dc98103e853e59ba74fcc4b23153ba86e71b0e77a03def9.png" alt="Sound" />
+<img src="/assets/screenshots/denz-traffic-panic-japan-spark-world-prototype/tp-battle-player-select-94eadc9cd1bf6a151f4a0cc351f3334c3fe2f2fe59d0e9c09fa9806d2aa014b20920d5fc7f3ff856891118978efed4e2b7b002c69b81806ea64174559e532002.png" alt="Battle Player Select" />
+<img src="/assets/screenshots/denz-traffic-panic-japan-spark-world-prototype/tp-demo-1-5d5584df6640671ad3b291f7d11181f591cdb5be4fff0aad3bfd96e43c0f72ab4dc9f7342daaca465bf8628568bc3e750d0b261f5d330b3a6c7072f5341ee2c1.png" alt="Demo" />
+<img src="/assets/screenshots/denz-traffic-panic-japan-spark-world-prototype/tp-story-stage-city-1-1-play-2-501fbf45edf1da725efac69dcddf9daa98e3c03230ae924bf75ded606ca942f6908a0be2a2ce3fd0c1d1a95f23095d21c15b13024519629e410231f30b6f80b2.png" alt="In Game Story City Level 1-1" />
+<img src="/assets/screenshots/denz-traffic-panic-japan-spark-world-prototype/tp-story-stage-desert-1-1-play-2-6e4e4db05f16d729532ad1100dc74104b1d754b9a7e07aa56dc2859e641c878655ff98a797ce5254da5e00c9d48078e707a971619463a9a7571ecd8b1b7ca85c.png" alt="In Game Story Desert Level 1-1" />
+<img src="/assets/screenshots/denz-traffic-panic-japan-spark-world-prototype/tp-story-stage-desert-2-1-play-2-537f224566b21a330ae870aa36c998c3389712a499c1890b2f1e5f05bd97c44d4f3252206401b84b41b8a59697b302c596a4e0de502ac9805a5bb9751caffbff.png" alt="In Game Story Desert Level 2-1" />
+<img src="/assets/screenshots/denz-traffic-panic-japan-spark-world-prototype/tp-story-stage-desert-2-1-play-3-c3ff37ca8e1496f9ba88d8aca1564e9dfc0f8af2b5ce07ff77c862bacbd4dcc467b0b741d173fcb5fed0aa573ff9feb4190fe63dd3c35bf3ddd4c18f17f16fee.png" alt="In Game Story Desert Level 2-1" />
+<img src="/assets/screenshots/denz-traffic-panic-japan-spark-world-prototype/tp-story-stage-desert-2-1-play-4-e7bb0727aebbee17ec3c3ba1333604ac7af934af731fdded60b9834bcf64794d9eb446c030ae0159df2a9abf5692a4bb213845d0742b7f815e8fac16f9dba69e.png" alt="In Game Story Desert Level 2-1" />
+<img src="/assets/screenshots/denz-traffic-panic-japan-spark-world-prototype/tp-story-stage-desert-1-1-play-2-6e4e4db05f16d729532ad1100dc74104b1d754b9a7e07aa56dc2859e641c878655ff98a797ce5254da5e00c9d48078e707a971619463a9a7571ecd8b1b7ca85c.png" alt="In Game Story Ice Level 1-1" />
+<img src="/assets/screenshots/denz-traffic-panic-japan-spark-world-prototype/tp-story-stage-desert-2-1-play-2-537f224566b21a330ae870aa36c998c3389712a499c1890b2f1e5f05bd97c44d4f3252206401b84b41b8a59697b302c596a4e0de502ac9805a5bb9751caffbff.png" alt="In Game Story Ice Level 2-1" />
+<img src="/assets/screenshots/denz-traffic-panic-japan-spark-world-prototype/tp-story-stage-jungle-1-1-play-2-ade3bc06fe7c6fc2c6ef0d0e6a7e680a9d1081cf13f0df83fedf73f1f1c9857d63dc86da821004f5094bf6f08675cd36dd6dd7b682272eeba9c05a0c904c1e75.png" alt="In Game Story Jungle Level 1-1" />
+<img src="/assets/screenshots/denz-traffic-panic-japan-spark-world-prototype/tp-story-stage-jungle-1-1-play-3-d546d48473f1e255c47c779b30e9a171343f06da0799a62d203e949e3ba36100708f6e326059e414d2d69fdfacd5d16e0714a7b8cad7996cba188f8db8bb2a6a.png" alt="In Game Story Jungle Level 1-1" />
+<img src="/assets/screenshots/denz-traffic-panic-japan-spark-world-prototype/tp-story-stage-jungle-1-1-play-4-8dcab8cd702168c9bb47919d6dec6421ba58d5429020be2ca03ab82938f94ec6a5446ba3a1a7ce69352bfb21dfe07f20f10d7df65a0f7076876eb7fa6beb0275.png" alt="In Game Story Jungle Level 1-1" />
+<img src="/assets/screenshots/denz-traffic-panic-japan-spark-world-prototype/tp-story-stage-jungle-2-1-play-2-47833a93b5c30cc9c15f190c06e787d1de3d5613cc7b4ed813d518e07babd7e3444fb3472bba11c7e9edbcc86cf7facdf5453027ef368edf72645b71798e896f.png" alt="In Game Story Jungle Level 2-1" />
+<img src="/assets/screenshots/denz-traffic-panic-japan-spark-world-prototype/tp-story-stage-jungle-2-1-play-3-508857790fc4dda8c59832a0004ed5f988a6a5a35182acb7a97a98c752ac7142ad03061de040291a9ae62ae91c15eab3d6a511dfc1940db2d7871d8a5727ddd0.png" alt="In Game Story Jungle Level 2-1" />
+<img src="/assets/screenshots/denz-traffic-panic-japan-spark-world-prototype/tp-story-stage-jungle-2-1-play-4-e5e725a04c164f7bba55bdabe1d60be74c2c56f8b719086389f88d834e3fbe4fa60c8325dc7e18b4ccec7830aea4886b7cf50f220488ca3198fdb0435288d12a.png" alt="In Game Story Jungle Level 2-1" />
+<img src="/assets/screenshots/denz-traffic-panic-japan-spark-world-prototype/tp-story-stage-river-1-1-play-2-2e1f7c6612ca7b049f022e7ca1694c3324bacf4ad7de65e43685beb2ca6706caefa3078bad1dcfb9ab7c55d537dab80fb7f69696d1daa61f928bcd30fd5a0dd5.png" alt="In Game Story River Level 2-1" />
+<img src="/assets/screenshots/denz-traffic-panic-japan-spark-world-prototype/tp-story-stage-river-2-1-play-2-ebec7d5b898efdd1cc9b5bdbe2e07b7d69776113a4de21c1a87b883ac615e119d2f4973d9f434e1dacd02b664c68b446df92eaee51d3fe4b24e8647c60b4ffdf.png" alt="In Game Story River Level 2-1" /></p>
+
+<p>The game is mentioned in EGM Issue 63, as noted by Quohog on <a href="http://forums.lostlevels.org/viewtopic.php?t=654&amp;sid=8d524ccc46c875545556e839dc2af6c8">lostlevels.org</a>.</p>
+
+<p>If you happen to know the game well and find more differences, or can translate any of the screen shots above- <a href="https://github.com/MatthewCallis/eludevisibility.org">please update this post on GitHub</a> or contact me!</p>
+
+<p>PCB Scan soon!</p>
+
+<p>Last but not least, an actual play through video by the wonderful <a href="https://www.youtube.com/channel/UCOXvfoAZZJhmDZw0boGkSYA">Kiddo Cabbusses サテラビュー好きの外人さん</a>:</p>
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/1BrsDvhS1A8" frameborder="0" allowfullscreen=""></iframe>
+:ET

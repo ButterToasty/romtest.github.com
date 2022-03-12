@@ -13,7 +13,7 @@ download:
 
 __[炎の闘球児 ドッジ弾平](https://superfamicom.org/info/honoo-no-doukyuuji-dodge-danpei)__
 
-![Honoo no Doukyuuji - Dodge Danpei - Title Screen]({% asset_path 'screenshots/honoo-no-doukyuuji-dodge-danpei-japan-sample/honoo-no-doukyuuji-dodge-danpei-japan-sample.0.png' %})
+![Honoo no Doukyuuji - Dodge Danpei - Title Screen]({% asset 'screenshots/honoo-no-doukyuuji-dodge-danpei-japan-sample/honoo-no-doukyuuji-dodge-danpei-japan-sample.0.png' @path %})
 
 On the surface, it seems very similar to the final (maybe a few rows of pixels literally shifted 1 or 2 up or down) but there are many binary differences, with the first apparent one being that when you start, you get the ball and you do not have to jump for it.
 

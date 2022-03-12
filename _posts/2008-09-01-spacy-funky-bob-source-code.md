@@ -22,6 +22,6 @@ If you would like to help, the best thing to do as of right now is to please lin
 
 _Screenshots_
 
-![Screenshot]({% asset_path 'screenshots/space-funky-bob-source-code/space-funky-bob.0.png' %})
-![Screenshot]({% asset_path 'screenshots/space-funky-bob-source-code/space-funky-bob.1.png' %})
-![Screenshot]({% asset_path 'screenshots/space-funky-bob-source-code/space-funky-bob.2.png' %})
+![Screenshot]({% asset 'screenshots/space-funky-bob-source-code/space-funky-bob.0.png' @path %})
+![Screenshot]({% asset 'screenshots/space-funky-bob-source-code/space-funky-bob.1.png' @path %})
+![Screenshot]({% asset 'screenshots/space-funky-bob-source-code/space-funky-bob.2.png' @path %})

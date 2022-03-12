@@ -1,0 +1,254 @@
+I"�<<p>Skipping around a bit in the order of things, we have <a href="https://superfamicom.org/info/tenchi-muyou-game-hen/" title="Tenchi Muyou! Game Hen (Japan) (Sample)">Tenchi Muyou! Game Hen</a> (Japan) (Sample). This is somewhere between the sample it labels itself and an early beta. The cartridge label as 40% complete, and it’s clearly that early.  The ROM itself has the internal title of <a href="https://superfamicom.org/info/mahoujin-guru-guru/" title="Mahoujin Guru Guru">MAHOUJIN GURUGURU</a>, so they didn’t start from scratch. I’ll let the screen shots speak for themselves.</p>
+
+<p>The title screens:</p>
+
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="/assets/screenshots/tenchi/tenchi-muyou-game-hen-sample.0-a55fde72d66bab1cce843c870bdab817c7fd57b56bd11763b1a0021be883a07bcef67591f82997e3f7c93792661a2456b1ef0440123271cfdf49ab527c28303c.png" alt="Tenchi Muyou! Game Hen (Japan) (Sample) Title Screen" title="Tenchi Muyou! Game Hen (Japan) (Sample) Title Screen" />
+      </div>
+      <img src="/assets/screenshots/tenchi/tenchi-muyou-game-hen.0-6b1324893021ed252fab7015bd8f8a412c91b6d4f4993534283690ec1884712dcaefdc6ed13dbe43fd7c9c1401b41ed1901ef511893a232847da5800dd63e776.png" alt="Tenchi Muyou! Game Hen (Japan) Title Screen" title="Tenchi Muyou! Game Hen (Japan) Title Screen" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<p>Opening screen: Notice the door bezel, the table, the couches the line up…</p>
+
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="/assets/screenshots/tenchi/tenchi-muyou-game-hen-sample.1-216f412d9452992f6143b5edd8e3a65fbadc880c2aea0c2a946950b510e2963b7bb6a309be699f9f272d3039c621fd626cc94604880c7f485e0bd18cccb3b961.png" alt="Tenchi Muyou! Game Hen (Japan) (Sample) Opening Room" title="Tenchi Muyou! Game Hen (Japan) (Sample) Opening Room" />
+      </div>
+      <img src="/assets/screenshots/tenchi/tenchi-muyou-game-hen.1-8f3eba073fdffeea28c784428d51f94f1d0502cd3903fe509f929b16ea12a9b1408e3a5fbce2771d19b280c808371e88aba547aa7afecd7cf9df25cbcb260cee.png" alt="Tenchi Muyou! Game Hen (Japan) Opening Room" title="Tenchi Muyou! Game Hen (Japan) Opening Room" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<p>Character Selection: Notice the text, and the selection border.</p>
+
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="/assets/screenshots/tenchi/tenchi-muyou-game-hen-sample.2-61b13f629c644d42abe9c10b8ad0efed071a5c09aa6672e80a9e92a9d03c79d1a3a26ad0fd16160a217911c0af3a291d3d0369c0d0388be44cc4063442168a26.png" alt="Tenchi Muyou! Game Hen (Japan) (Sample) Character Selection" title="Tenchi Muyou! Game Hen (Japan) (Sample) Character Selection" />
+      </div>
+      <img src="/assets/screenshots/tenchi/tenchi-muyou-game-hen.2-a4b3ca9c78db94ca30cbf832bd451ada32e126dc963fa554172b066648137f026a7a59572b806e45515f63cd47beff9afb7b24b26c1b1c08bd6db5341900f4bd.png" alt="Tenchi Muyou! Game Hen (Japan) Character Selection" title="Tenchi Muyou! Game Hen (Japan) Character Selection" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<p>Battle:</p>
+
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="/assets/screenshots/tenchi/tenchi-muyou-game-hen-sample.3-5e94a2720b9b8ecc575a9c42849bddcbe516b85844ff64085ee8ffc912299abd695ca55cc07ec41ad4eb7893ee5cd0942c019da61ca6b173fa0cea1d252da75a.png" alt="Tenchi Muyou! Game Hen (Japan) (Sample) Battle" title="Tenchi Muyou! Game Hen (Japan) (Sample) Battle" />
+      </div>
+      <img src="/assets/screenshots/tenchi/tenchi-muyou-game-hen.3-fd089b9650bf12d224f0dafaf8220a7072c43e93762f4c4411523eb77aad34229050dd970f830c8456539dcfef5bcbe5b115171ec20ce6f2c377111e1635f2bf.png" alt="Tenchi Muyou! Game Hen (Japan) Battle" title="Tenchi Muyou! Game Hen (Japan) Battle" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<p>Battle Menu:</p>
+
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="/assets/screenshots/tenchi/tenchi-muyou-game-hen-sample.4-b31f52df7a9614284386881abf8cb050da316d295b3591bdd3cc3544432544e922a73e3652ff5e48eda05f348195c2a230b9d6124eed666a40b79f753f435ffb.png" alt="Tenchi Muyou! Game Hen (Japan) (Sample) Battle Menu" title="Tenchi Muyou! Game Hen (Japan) (Sample) Battle Menu" />
+      </div>
+      <img src="/assets/screenshots/tenchi/tenchi-muyou-game-hen.4-e462440a7e822be7ea3369ff8477caf8aa117038b78d357eaf30217f7372560c5533e64339b72c33ae9710ae570c3ac9472e4fc7ca39df6d73a1e84506e6e463.png" alt="Tenchi Muyou! Game Hen (Japan) Battle Menu" title="Tenchi Muyou! Game Hen (Japan) Battle Menu" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<p>Map:</p>
+
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="/assets/screenshots/tenchi/tenchi-muyou-game-hen-sample.5-9bb07845a1631a6b5091a6eece62cdd376c828935050f56ec4cfd3f150dfad8fa8641c76c183cc68e57367bc321e4e8bf6c83c2a4e4650fa8f9c3b9ed4dbc1d0.png" alt="Tenchi Muyou! Game Hen (Japan) (Sample) Map" title="Tenchi Muyou! Game Hen (Japan) (Sample) Map" />
+      </div>
+      <img src="/assets/screenshots/tenchi/tenchi-muyou-game-hen.5-6bab7f4fbc6fb7eb5343b77b596e3d7b85bb407b10c9ec0b34e1dc6bdad5f561cce7c73108cb4cf0752aa04bb8767bf732a4b55cefc0c99080b8aaf29fbd34a3.png" alt="Tenchi Muyou! Game Hen (Japan) Map" title="Tenchi Muyou! Game Hen (Japan) Map" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<p>Carrots:</p>
+
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="/assets/screenshots/tenchi/tenchi-muyou-game-hen-sample.6-f8be8a68261e8e623cd6ad9dc95dde68c559f0e57c7ec13ca9bf2d95efe162c0eee2321d3211ee961507716a2a22833f0fc601b8793e9e17f3bd5ab8c954925d.png" alt="Tenchi Muyou! Game Hen (Japan) (Sample) Carrots" title="Tenchi Muyou! Game Hen (Japan) (Sample) Carrots" />
+      </div>
+      <img src="/assets/screenshots/tenchi/tenchi-muyou-game-hen.6-79366f575d010446ae3ca78296f37dd39b4e08e1b5cd3f7f886e99b908e380726bf7f59560d5051f34e375c4aa240c88029b415f0e4533ea8578f6a068ac1115.png" alt="Tenchi Muyou! Game Hen (Japan) Carrots" title="Tenchi Muyou! Game Hen (Japan) Carrots" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<p><img src="/assets/screenshots/tenchi/tenchi-muyou-game-hen.7-3d20380e32c04964483f968d43e337604fc7a2837924a86fe33a261bf81d5f2d4754192909bfd51acf69ed42eff7ac2334e4db3144e487346ace7e74d312822d.png" alt="Tenchi Muyou! Game Hen (Japan) Carrots 2" title="Tenchi Muyou! Game Hen (Japan) Carrots 2" /></p>
+
+<p>If anyone can play through more and find any significant changes, please let me know!</p>
+
+<p>A gameplay video play through played by <a href="https://www.youtube.com/channel/UCOXvfoAZZJhmDZw0boGkSYA">Kiddo Cabbusses | サテラビュー好きの外人さん</a>:</p>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/6ZplJFY3fT0" frameborder="0" allowfullscreen=""></iframe>
+:ET

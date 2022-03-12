@@ -78,5 +78,5 @@ Interleaved: None                        SRAM: 0 Kb
 
 If you happen to know the game well and know the differences between these two, [please update this post on GitHub](https://github.com/MatthewCallis/eludevisibility.org) or contact me!
 
-![3 Jigen Kakutou Ballz (Japan) (Sample) - PCB Front]({% asset_path '3 Jigen Kakutou Ballz (Japan) (Sample) - PCB Front.jpg' %} "3 Jigen Kakutou Ballz (Japan) (Sample) - PCB Front")
-![3 Jigen Kakutou Ballz (Japan) (Sample) - PCB Back]({% asset_path '3 Jigen Kakutou Ballz (Japan) (Sample) - PCB Back.jpg' %} "3 Jigen Kakutou Ballz (Japan) (Sample) - PCB Back")
+![3 Jigen Kakutou Ballz (Japan) (Sample) - PCB Front]({% asset '3 Jigen Kakutou Ballz (Japan) (Sample) - PCB Front.jpg' @path %} "3 Jigen Kakutou Ballz (Japan) (Sample) - PCB Front")
+![3 Jigen Kakutou Ballz (Japan) (Sample) - PCB Back]({% asset '3 Jigen Kakutou Ballz (Japan) (Sample) - PCB Back.jpg' @path %} "3 Jigen Kakutou Ballz (Japan) (Sample) - PCB Back")

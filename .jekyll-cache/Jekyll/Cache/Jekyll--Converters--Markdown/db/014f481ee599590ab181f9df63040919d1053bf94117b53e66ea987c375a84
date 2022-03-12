@@ -1,0 +1,75 @@
+I"X<p><strong><a href="https://superfamicom.org/info/daffy-duck-the-marvin-missions">Daffy Duck - The Marvin Missions</a></strong></p>
+
+<p>An NTSC Sample version of Daffy Duck, but I couldn’t find any differences other than offset byte comparing the ROM and many sections being different. The internal title has a underscore in it rather than a space. See also: <a href="http://www.snescentral.com/article.php?id=0300">SNESCentral Entry</a>.</p>
+
+<p><em>Screenshots</em></p>
+
+<p><img src="/assets/screenshots/daffy-duck-the-marvin-missions-usa-sample/daffy-duck-the-marvin-missions-usa-sample-1-618287b2ad0abf5c86978696507c0875b7d45e63b77ba85d0fccd04ca9230dfb316c37d61488492a39f586254363e75641836509126e61ea7495eaae1ae42cf6.png" alt="Sunsoft Logo" />
+<img src="/assets/screenshots/daffy-duck-the-marvin-missions-usa-sample/daffy-duck-the-marvin-missions-usa-sample-2-cc7563084874a26f4a285d0d41cf8044b33189edede48333a44fedd0a8d6b292faaeec81e4a4f65a53a663bf10c5d07ff5ecf453f8294323a13ca455e45d9099.png" alt="License Text" />
+<img src="/assets/screenshots/daffy-duck-the-marvin-missions-usa-sample/daffy-duck-the-marvin-missions-usa-sample-3-f897681ea95a0677ab4a62d888ba579fa4e871f034f91a48b0af741e31315cc326b0469273fc9d090c2819bd60bca7e2756cf528d7a1c7b1be13b9d18a2e46c2.png" alt="Daffy Duck Face" />
+<img src="/assets/screenshots/daffy-duck-the-marvin-missions-usa-sample/daffy-duck-the-marvin-missions-usa-sample-5-64fb5f32a2ec230fbf120f7d548509e5531914a9b446004569b2da6e0ff05a9c25597caa60e757173b157bcc72f2ea43449d99b9955a1239fe26d5c9d46e1b41.png" alt="Where There's Duck There's Fire" />
+<img src="/assets/screenshots/daffy-duck-the-marvin-missions-usa-sample/daffy-duck-the-marvin-missions-usa-sample-6-f041976271f50f13a4b23bf927b0f8bc6a37565b6080f610972ade1e21bd21157d8fae9eaad0a77f6eed87b5a23064fcacecb963cbed51aa4096f1b550ef1e95.png" alt="Planet Magma Bio" />
+<img src="/assets/screenshots/daffy-duck-the-marvin-missions-usa-sample/daffy-duck-the-marvin-missions-usa-sample-7-f28f6c8bb5da5bd211a6940cdda95e3d9242d188f3774b3833240ce84ff2c47ea2d77c05ab58d9a77af046610089b7f0550036c40b5c09de46efc3d938ce81f3.png" alt="Planet Mamgma Mission" />
+<img src="/assets/screenshots/daffy-duck-the-marvin-missions-usa-sample/daffy-duck-the-marvin-missions-usa-sample-8-ebb0aee2593f4daabee4ef3460178d5862d079d790b423ee151f44dad50c626ab7d8ebc35bc8e94d4f01c8f37c5e63a29bb1d682b5f00a8724105cb27585da19.png" alt="Acme Weapon Shop" />
+<img src="/assets/screenshots/daffy-duck-the-marvin-missions-usa-sample/daffy-duck-the-marvin-missions-usa-sample-9-85d018293ae67e562540a5247422562905aa292cd54489483bff2c1e19d0c8c1e7fcd4da665abcc5e35edd7903e3eb2d47379c76b0ad55b88aea9812e5cfb5cc.png" alt="Level 1" />
+<img src="/assets/screenshots/daffy-duck-the-marvin-missions-usa-sample/daffy-duck-the-marvin-missions-usa-sample-10-c807b084a748f3571ad5fc1621c4140e8e88c582a5286b44fbefb35fab713e4f9f9028423b2ec83656a41c3a5b4e83102840c68704780c3446e88ba2d4e1dc5b.png" alt="Level 1 Paused Map" /></p>
+
+<p><em>ROM Info</em></p>
+
+<pre><code>---------------------Internal ROM Info----------------------
+       File: Daffy Duck - The Marvin Missions (Europe).sfc
+       Name: DAFFY DUCK: MARV MISS    Company: Sunsoft
+     Header: None                        Bank: LoROM
+Interleaved: None                        SRAM: 0 Kb
+       Type: Normal                       ROM: 8 Mb
+    Country: Euro/Asia/Oceania          Video: PAL
+  ROM Speed: 120ns (FastROM)         Revision: 1.0
+   Checksum: Good 0x0087            Game Code:
+---------------------------Hashes---------------------------
+      CRC32: F8DEE029
+        MD5: 9E69C8EA3D82C7120099F5252CCC72CA
+      SHA-1: 2A946E8CE8FA20CD54FEA874110C39F30671F7A9
+--------------------------Database--------------------------
+       Name: Daffy Duck - The Marvin Missions
+    Country: Europe                  Revision: 1.0
+     Port 1: Gamepad                   Port 2: Gamepad
+    Genre 1: Shooter                  Genre 2: Platform
+
+---------------------Internal ROM Info----------------------
+       File: Daffy Duck - The Marvin Missions (USA) (Sample).sfc
+       Name: DAFFY DUCK: MARV_MISS    Company: Sunsoft
+     Header: None                        Bank: HiROM
+Interleaved: None                        SRAM: 0 Kb
+       Type: Normal                       ROM: 8 Mb
+    Country: USA                        Video: NTSC
+  ROM Speed: 120ns (FastROM)         Revision: 1.0
+   Checksum: Bad 0x6244 != 0x6253   Game Code:
+---------------------------Hashes---------------------------
+      CRC32: 03B99D17
+        MD5: 5B070A6189F3370C38187942530802C9
+      SHA-1: 2413025FE195BB1F3DE51C62A8A9B04E49865BCE
+--------------------------Database--------------------------
+    ROM wasn't found in the database (possible bad dump).
+
+---------------------Internal ROM Info----------------------
+       File: Daffy Duck - The Marvin Missions (USA).sfc
+       Name: DAFFY DUCK: MARV MISS    Company: Sunsoft
+     Header: None                        Bank: LoROM
+Interleaved: None                        SRAM: 0 Kb
+       Type: Normal                       ROM: 8 Mb
+    Country: USA                        Video: NTSC
+  ROM Speed: 120ns (FastROM)         Revision: 1.0
+   Checksum: Good 0xD059            Game Code:
+---------------------------Hashes---------------------------
+      CRC32: 5F02A044
+        MD5: B4939C92787EFEFD6B48AEDE08973D84
+      SHA-1: EE4C327F98E50EA7FBF94C79C8844909AE088289
+--------------------------Database--------------------------
+       Name: Daffy Duck - The Marvin Missions
+    Country: USA                     Revision: 1.0
+     Port 1: Gamepad                   Port 2: Gamepad
+    Genre 1: Shooter                  Genre 2: Platform
+</code></pre>
+
+<p>PCB &amp; Cart Scan coming soon!</p>
+:ET

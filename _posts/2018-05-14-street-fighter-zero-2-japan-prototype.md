@@ -15,6 +15,7 @@ download:
 This is an early [Street Fighter Alpha 2](https://superfamicom.org/info/street-fighter-zero-2) / [Street Fighter Zero 2 (ストリートファイターZERO 2)](https://superfamicom.org/info/street-fighter-zero-2) prototype, notable due to the fact is does not yet use the special chip and is very early in development. There were several auctions sold by [safestuff1](http://www.ebay.com/usr/safestuff1) and I bought 2 copies and decided not to buy any more after they were identical and board images were not posted and showed more final character select screens. The date on the first auction has the EEPROMs labeled with the date `6/11`, while the date from the other board is `9/15`.
 
 __HELP WANTED:__ There are several items I know I will never get to, if you can help with this game or any other with any of the following items, [please contribute on [GitHub](https://github.com/MatthewCallis/eludevisibility.org)! Think of this as more of a living wiki (without spam) and contribute in any way that you can. Feel free to reach out to me on [Twitter](https://twitter.com/superfamicom) if you need help or want to contribute but aren't sure where to start.
+
 * Check music against the retail version
 * Check sprites against the retail version
 * Check character move set against retail version
@@ -31,29 +32,29 @@ Starting with the title screen, it actually looks better in the prototype and no
     image_2='screenshots/street-fighter-2-zero-japan-prototype/title-final.png'
 %}
 
-![Screenshot]({% asset_path 'screenshots/street-fighter-2-zero-japan-prototype/sf2z.1.png' %})
-![Screenshot]({% asset_path 'screenshots/street-fighter-2-zero-japan-prototype/sf2z.2.png' %})
-![Screenshot]({% asset_path 'screenshots/street-fighter-2-zero-japan-prototype/sf2z.3.png' %})
-![Screenshot]({% asset_path 'screenshots/street-fighter-2-zero-japan-prototype/sf2z.4.png' %})
-![Screenshot]({% asset_path 'screenshots/street-fighter-2-zero-japan-prototype/sf2z.5.png' %})
-![Screenshot]({% asset_path 'screenshots/street-fighter-2-zero-japan-prototype/sf2z.6.png' %})
-![Screenshot]({% asset_path 'screenshots/street-fighter-2-zero-japan-prototype/sf2z.7.png' %})
-![Screenshot]({% asset_path 'screenshots/street-fighter-2-zero-japan-prototype/sf2z.8.png' %})
-![Screenshot]({% asset_path 'screenshots/street-fighter-2-zero-japan-prototype/sf2z.9.png' %})
-![Screenshot]({% asset_path 'screenshots/street-fighter-2-zero-japan-prototype/sf2z.10.png' %})
-![Screenshot]({% asset_path 'screenshots/street-fighter-2-zero-japan-prototype/sf2z.11.png' %})
-![Screenshot]({% asset_path 'screenshots/street-fighter-2-zero-japan-prototype/sf2z.12.png' %})
-![Screenshot]({% asset_path 'screenshots/street-fighter-2-zero-japan-prototype/sf2z.13.png' %})
-![Screenshot]({% asset_path 'screenshots/street-fighter-2-zero-japan-prototype/sf2z.14.png' %})
-![Screenshot]({% asset_path 'screenshots/street-fighter-2-zero-japan-prototype/sf2z.15.png' %})
-![Screenshot]({% asset_path 'screenshots/street-fighter-2-zero-japan-prototype/sf2z.16.png' %})
-![Screenshot]({% asset_path 'screenshots/street-fighter-2-zero-japan-prototype/sf2z.17.png' %})
+![Screenshot]({% asset 'screenshots/street-fighter-2-zero-japan-prototype/sf2z.1.png' @path %})
+![Screenshot]({% asset 'screenshots/street-fighter-2-zero-japan-prototype/sf2z.2.png' @path %})
+![Screenshot]({% asset 'screenshots/street-fighter-2-zero-japan-prototype/sf2z.3.png' @path %})
+![Screenshot]({% asset 'screenshots/street-fighter-2-zero-japan-prototype/sf2z.4.png' @path %})
+![Screenshot]({% asset 'screenshots/street-fighter-2-zero-japan-prototype/sf2z.5.png' @path %})
+![Screenshot]({% asset 'screenshots/street-fighter-2-zero-japan-prototype/sf2z.6.png' @path %})
+![Screenshot]({% asset 'screenshots/street-fighter-2-zero-japan-prototype/sf2z.7.png' @path %})
+![Screenshot]({% asset 'screenshots/street-fighter-2-zero-japan-prototype/sf2z.8.png' @path %})
+![Screenshot]({% asset 'screenshots/street-fighter-2-zero-japan-prototype/sf2z.9.png' @path %})
+![Screenshot]({% asset 'screenshots/street-fighter-2-zero-japan-prototype/sf2z.10.png' @path %})
+![Screenshot]({% asset 'screenshots/street-fighter-2-zero-japan-prototype/sf2z.11.png' @path %})
+![Screenshot]({% asset 'screenshots/street-fighter-2-zero-japan-prototype/sf2z.12.png' @path %})
+![Screenshot]({% asset 'screenshots/street-fighter-2-zero-japan-prototype/sf2z.13.png' @path %})
+![Screenshot]({% asset 'screenshots/street-fighter-2-zero-japan-prototype/sf2z.14.png' @path %})
+![Screenshot]({% asset 'screenshots/street-fighter-2-zero-japan-prototype/sf2z.15.png' @path %})
+![Screenshot]({% asset 'screenshots/street-fighter-2-zero-japan-prototype/sf2z.16.png' @path %})
+![Screenshot]({% asset 'screenshots/street-fighter-2-zero-japan-prototype/sf2z.17.png' @path %})
 
 _Characters & Sprites_
 
 This section is thanks to [Kiddo Cabbusses / サテラビュー好きの外人さん](https://twitter.com/kiddocabbusses). I don't know if I got this well in this image (below) but the short of it is; Zangief's stance has more frames of animation in the prototype compared to the final, and by golly it looks a LOT better for it. The final game looks jank in comparison. His stance is the only thing in the prototype, he's otherwise nothing - not even able to attack or get hurt like Ken who is also buggy.
 
-![Screenshot]({% asset_path 'screenshots/street-fighter-2-zero-japan-prototype/giefstance.png' %})
+![Screenshot]({% asset 'screenshots/street-fighter-2-zero-japan-prototype/giefstance.png' @path %})
 
 Chun-Li and Dhalsim are actually SURPRISINGLY close to completion. They have some missing graphical effects (Chun-Li's Kikoushou, Dhalsim's Yoga Fire/Flame/Breath/Inferno) and sometimes crash the game. But every now and then you can play through a whole match with them. They may had been intended to be playable by the time this was put out, but the few missing things got in the way. Ken is buggy. Rolento has a stance like Zangief and otherwise does nothing. The buggy Nash-Akuma is crash-prone.
 
@@ -292,9 +293,9 @@ _Board / Cartridge Images_
 
 Images from the auction itself until I have time to update them.
 
-![Auction 1 Cart]({% asset_path 'street-fighter-2-zero-japan-prototype-auction-1-cart.jpg' %})
-![Auction 2 Cart Back]({% asset_path 'street-fighter-2-zero-japan-prototype-auction-2-cart-back.jpg' %})
-![Auction 2 Cart Front]({% asset_path 'street-fighter-2-zero-japan-prototype-auction-2-cart-front.jpg' %})
+![Auction 1 Cart]({% asset 'street-fighter-2-zero-japan-prototype-auction-1-cart.jpg' @path %})
+![Auction 2 Cart Back]({% asset 'street-fighter-2-zero-japan-prototype-auction-2-cart-back.jpg' @path %})
+![Auction 2 Cart Front]({% asset 'street-fighter-2-zero-japan-prototype-auction-2-cart-front.jpg' @path %})
 
 _Playthrough Video_
 

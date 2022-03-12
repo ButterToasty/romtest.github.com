@@ -17,10 +17,10 @@ FMC Card Checker was provided by Nintendo to game shops that used the Nintendo D
 
 I've also seen the ROM named `FMC Disk Card Checker Ver 1.3 (Japan) (v1.2) (Developer Card)`.
 
-![FMC Disk Card Checker Ver 1.3 (Japan)]({% asset_path 'screenshots/fmc-disk-card-checker-v1.3-japan/fmc-disk-card-checker-v1.3-japan.0.png' %})
-![FMC Disk Card Checker Ver 1.3 (Japan)]({% asset_path 'screenshots/fmc-disk-card-checker-v1.3-japan/fmc-disk-card-checker-v1.3-japan.1.png' %})
-![FMC Disk Card Checker Ver 1.3 (Japan)]({% asset_path 'screenshots/fmc-disk-card-checker-v1.3-japan/fmc-disk-card-checker-v1.3-japan.2.png' %})
-![FMC Disk Card Checker Ver 1.3 (Japan)]({% asset_path 'screenshots/fmc-disk-card-checker-v1.3-japan/fmc-disk-card-checker-v1.3-japan.3.png' %})
-![FMC Disk Card Checker Ver 1.3 (Japan)]({% asset_path 'screenshots/fmc-disk-card-checker-v1.3-japan/fmc-disk-card-checker-v1.3-japan.4.png' %})
+![FMC Disk Card Checker Ver 1.3 (Japan)]({% asset 'screenshots/fmc-disk-card-checker-v1.3-japan/fmc-disk-card-checker-v1.3-japan.0.png' @path %})
+![FMC Disk Card Checker Ver 1.3 (Japan)]({% asset 'screenshots/fmc-disk-card-checker-v1.3-japan/fmc-disk-card-checker-v1.3-japan.1.png' @path %})
+![FMC Disk Card Checker Ver 1.3 (Japan)]({% asset 'screenshots/fmc-disk-card-checker-v1.3-japan/fmc-disk-card-checker-v1.3-japan.2.png' @path %})
+![FMC Disk Card Checker Ver 1.3 (Japan)]({% asset 'screenshots/fmc-disk-card-checker-v1.3-japan/fmc-disk-card-checker-v1.3-japan.3.png' @path %})
+![FMC Disk Card Checker Ver 1.3 (Japan)]({% asset 'screenshots/fmc-disk-card-checker-v1.3-japan/fmc-disk-card-checker-v1.3-japan.4.png' @path %})
 
-![FMC Disk Card Checker Disk]({% asset_path 'FMC-Disk-Checker.jpg' %})
+![FMC Disk Card Checker Disk]({% asset 'FMC-Disk-Checker.jpg' @path %})

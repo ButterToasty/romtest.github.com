@@ -94,4 +94,4 @@ The first level is very different. The dialog and the layout has changed.
 
 If you happen to know the game well and find more differences, [please update this post on GitHub](https://github.com/MatthewCallis/eludevisibility.org)!
 
-![Hyper Iria (Japan) (Sample) - Cart Front]({% asset_path 'Hyper Iria (Japan) (Sample) - Cart Front.jpg' %} "Hyper Iria (Japan) (Sample) - Cart Front")
+![Hyper Iria (Japan) (Sample) - Cart Front]({% asset 'Hyper Iria (Japan) (Sample) - Cart Front.jpg' @path %} "Hyper Iria (Japan) (Sample) - Cart Front")

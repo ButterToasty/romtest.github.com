@@ -1,0 +1,27 @@
+I"�<p>The SNES CD BIOS ROM dump of the cartridge that came with the Super Famicom Play Station unit found by Terry and Dan Diebold. The ROM was dumped using a Game Doctor and released in 2016/03/01. Also officially named “Super Disc System Cartridge”.</p>
+
+<p>This cartridge would have been used to play Sony SNES CD games. Contains a bunch of BIOS functions in the ROM, alongside 256KB of WRAM (S-WRAM chips) and 8KB of battery backed RAM for saves.</p>
+
+<p>A monitor debug menu can be accessed by pressing A + X at the main screen.</p>
+
+<p>These strings can be found inside the ROM:</p>
+
+<p><code>Super Disc boot ROM ver.0.95 Jul. 14, 1992 by Tomomi Abe at SONY</code></p>
+
+<p><code>Super Disc BIOS program ver.0.93 by Tomomi Abe. May. 26 1992 at SONY.</code></p>
+
+<p><a href="https://bsxproj.superfamicom.org/snes/SDBR_v0.95.zip">Download Super Disc System Cartridge (Japan) (Prototype)</a></p>
+
+<p><a href="https://tcrf.net/Super_Disc_Boot_ROM">The Cutting Room Floor’s page</a> (contains more information and translations)</p>
+
+<p><em>Screenshots</em></p>
+
+<p><img src="/assets/screenshots/super-disc-system-cartridge-japan-prototype/SuperDisc-Title-343746e1a623437398e6d956f46c118abde803d2c4d52f0131d369525292c5a5eae5f2e23ed1748152a49c6d839b68745143feab69597c0a5eaec0e40053d75a.png" alt="Main Screen" />
+<img src="/assets/screenshots/super-disc-system-cartridge-japan-prototype/SuperDisc-MonitorMenu-45448569f089c84c6ecf55da6b2d2a1880c8ef33a881493d72a00b59b3bd36f17856eb079de6b8130abe7850f18d3af4816b649c50eab17b70b0b20cab7316f9.png" alt="Monitor Menu" />
+<img src="/assets/screenshots/super-disc-system-cartridge-japan-prototype/SuperDisc-SelfCheck1-b3bdc6f326049ab6e0a9ec87a01c29b727a730744ae410246838eb8497ee674fb61df0dfd4897e013a904bdd464431e74eb5708299083e96950bd6dc1c36e436.png" alt="Self-Check 1" />
+<img src="/assets/screenshots/super-disc-system-cartridge-japan-prototype/SuperDisc-SelfCheck2-f3061ed22e1f8049f2a11ca20e1ba8252c3f0ea567ea0fabf42df09798a98cd6ea70d2ffa64adbfd8a7fbf15ccb364a2d4527cc6f7e02e2423ad58981675563d.png" alt="Self-Check 2" />
+<img src="/assets/screenshots/super-disc-system-cartridge-japan-prototype/SuperDisc-ADPCM-be4de95397a46decb229e4da1f8846461bfde9ad6fe68843e245700ea5bdc6c8840d8fb13dce1159f8351f83a4815eeee4bf34d79c3842495db3430de52db358.png" alt="ADPCM" />
+<img src="/assets/screenshots/super-disc-system-cartridge-japan-prototype/SuperDisc-Communication-7e774444fbd9eb2ef76d8e60e1003c34b972754282b4577cc947692bd96e61430ec5dfdc2127d5862df025e448e7d341bd00eea22d4c8c4d995ab08667b2a65a.png" alt="Communication" />
+<img src="/assets/screenshots/super-disc-system-cartridge-japan-prototype/SuperDisc-CXD1800-0fa5216659f5901858e2615936709483c05d5c37341196d07791b6c3c86c6f8b062d0422e1048b058bec6894eb66a48ad6fbe0a8c3dc02ced3b5475236efe31a.png" alt="CXD-1800" />
+<img src="/assets/screenshots/super-disc-system-cartridge-japan-prototype/SuperDisc-BackupRAM-7b366002daea1fe79f1d2b0e56c17a599d3f91a83d2ea769267b204e83e50d571c760a5fd385c2b0f63290470bfe166a0fb0ce79bf62e51f5843d3c5ac691089.png" alt="BACKUP RAM" /></p>
+:ET

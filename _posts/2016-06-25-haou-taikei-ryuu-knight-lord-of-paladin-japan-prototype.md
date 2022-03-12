@@ -15,14 +15,14 @@ __[覇王大系リューナイト ロードオブパラディン](https://superf
 
 The ROM is different but the differences are not immediately apparent.
 
-![Title]({% asset_path 'screenshots/haou-taikei-ryuu-knight-lord-of-paladin-japan-prototype/title.png' %} "Title")
-![Intro]({% asset_path 'screenshots/haou-taikei-ryuu-knight-lord-of-paladin-japan-prototype/intro.png' %} "Intro")
-![Dialog 1]({% asset_path 'screenshots/haou-taikei-ryuu-knight-lord-of-paladin-japan-prototype/dialog-1.png' %} "Dialog 1")
-![Dialog 2]({% asset_path 'screenshots/haou-taikei-ryuu-knight-lord-of-paladin-japan-prototype/dialog-2.png' %} "Dialog 2")
-![Map]({% asset_path 'screenshots/haou-taikei-ryuu-knight-lord-of-paladin-japan-prototype/map.png' %} "Map")
-![Menu]({% asset_path 'screenshots/haou-taikei-ryuu-knight-lord-of-paladin-japan-prototype/menu.png' %} "Menu")
-![Stats 1]({% asset_path 'screenshots/haou-taikei-ryuu-knight-lord-of-paladin-japan-prototype/stats-1.png' %} "Stats 1")
-![Stats 2]({% asset_path 'screenshots/haou-taikei-ryuu-knight-lord-of-paladin-japan-prototype/stats-2.png' %} "Stats 2")
+![Title]({% asset 'screenshots/haou-taikei-ryuu-knight-lord-of-paladin-japan-prototype/title.png' @path %} "Title")
+![Intro]({% asset 'screenshots/haou-taikei-ryuu-knight-lord-of-paladin-japan-prototype/intro.png' @path %} "Intro")
+![Dialog 1]({% asset 'screenshots/haou-taikei-ryuu-knight-lord-of-paladin-japan-prototype/dialog-1.png' @path %} "Dialog 1")
+![Dialog 2]({% asset 'screenshots/haou-taikei-ryuu-knight-lord-of-paladin-japan-prototype/dialog-2.png' @path %} "Dialog 2")
+![Map]({% asset 'screenshots/haou-taikei-ryuu-knight-lord-of-paladin-japan-prototype/map.png' @path %} "Map")
+![Menu]({% asset 'screenshots/haou-taikei-ryuu-knight-lord-of-paladin-japan-prototype/menu.png' @path %} "Menu")
+![Stats 1]({% asset 'screenshots/haou-taikei-ryuu-knight-lord-of-paladin-japan-prototype/stats-1.png' @path %} "Stats 1")
+![Stats 2]({% asset 'screenshots/haou-taikei-ryuu-knight-lord-of-paladin-japan-prototype/stats-2.png' @path %} "Stats 2")
 
 _SRAM Strings_
 

@@ -32,11 +32,11 @@ _Sample_
 
 These appear to be the same as final, here for show.
 
-![Dialog 1]({% asset_path 'screenshots/shounen-ninja-sasuke-japan-sample/dialog-1-sample.png' %})
-![Dialog 2]({% asset_path 'screenshots/shounen-ninja-sasuke-japan-sample/dialog-2-sample.png' %})
-![Dialog 3]({% asset_path 'screenshots/shounen-ninja-sasuke-japan-sample/dialog-3-sample.png' %})
-![Dialog 4]({% asset_path 'screenshots/shounen-ninja-sasuke-japan-sample/dialog-4-sample.png' %})
-![2 Player Screen]({% asset_path 'screenshots/shounen-ninja-sasuke-japan-sample/2-player-sample.png' %})
+![Dialog 1]({% asset 'screenshots/shounen-ninja-sasuke-japan-sample/dialog-1-sample.png' @path %})
+![Dialog 2]({% asset 'screenshots/shounen-ninja-sasuke-japan-sample/dialog-2-sample.png' @path %})
+![Dialog 3]({% asset 'screenshots/shounen-ninja-sasuke-japan-sample/dialog-3-sample.png' @path %})
+![Dialog 4]({% asset 'screenshots/shounen-ninja-sasuke-japan-sample/dialog-4-sample.png' @path %})
+![2 Player Screen]({% asset 'screenshots/shounen-ninja-sasuke-japan-sample/2-player-sample.png' @path %})
 
 ```
 1: Replace 4 bytes at offset 0x7fb0 with 4 bytes
@@ -56,7 +56,7 @@ Interleaved: None                        SRAM: 64 Kb
        Type: Normal + Batt                ROM: 12 Mb
     Country: Japan                      Video: NTSC
   ROM Speed: 120ns (FastROM)         Revision: 1.0
-   Checksum: Bad 0x36BD != 0x7A04   Game Code:     
+   Checksum: Bad 0x36BD != 0x7A04   Game Code:
 ---------------------------Hashes---------------------------
       CRC32: 316419D3
         MD5: 8CCA90891728B558962D2E012D859097
@@ -72,7 +72,7 @@ Interleaved: None                        SRAM: 64 Kb
        Type: Normal + Batt                ROM: 12 Mb
     Country: Japan                      Video: NTSC
   ROM Speed: 120ns (FastROM)         Revision: 1.0
-   Checksum: Bad 0x3930 != 0x7A01   Game Code: EO  
+   Checksum: Bad 0x3930 != 0x7A01   Game Code: EO
 ---------------------------Hashes---------------------------
       CRC32: B8A87C29
         MD5: 64B27EC10F5FD59D7A4E546EF951BCB3
@@ -88,7 +88,7 @@ Interleaved: None                        SRAM: 64 Kb
        Type: Normal + Batt                ROM: 12 Mb
     Country: Japan                      Video: NTSC
   ROM Speed: 120ns (FastROM)         Revision: 1.0
-   Checksum: Good 0xEEFA            Game Code: EO  
+   Checksum: Good 0xEEFA            Game Code: EO
 ---------------------------Hashes---------------------------
       CRC32: C2D10E95
         MD5: 8FE73BB73145A217BE9E610020B5FE35
@@ -102,5 +102,5 @@ Interleaved: None                        SRAM: 64 Kb
 
 If you happen to know the game well and find more differences, or can translate any of the screen shots above- [please update this post on GitHub](https://github.com/MatthewCallis/eludevisibility.org) or contact me!
 
-![Shounen Ninja Sasuke (Japan) (Sample) - PCB Front]({% asset_path 'Shounen Ninja Sasuke (Japan) (Sample) - PCB Front.jpg' %} "Shounen Ninja Sasuke (Japan) (Sample) - PCB Front")
-![Shounen Ninja Sasuke (Japan) (Sample) - PCB Back]({% asset_path 'Shounen Ninja Sasuke (Japan) (Sample) - PCB Back.jpg' %} "Shounen Ninja Sasuke (Japan) (Sample) - PCB Back")
+![Shounen Ninja Sasuke (Japan) (Sample) - PCB Front]({% asset 'Shounen Ninja Sasuke (Japan) (Sample) - PCB Front.jpg' @path %} "Shounen Ninja Sasuke (Japan) (Sample) - PCB Front")
+![Shounen Ninja Sasuke (Japan) (Sample) - PCB Back]({% asset 'Shounen Ninja Sasuke (Japan) (Sample) - PCB Back.jpg' @path %} "Shounen Ninja Sasuke (Japan) (Sample) - PCB Back")

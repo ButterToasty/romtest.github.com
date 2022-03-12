@@ -1,0 +1,209 @@
+I"1<p><strong><a href="https://superfamicom.org/info/chibi-maruko-chan-mezase-minami-no-island">ちびまる子ちゃん めざせ！南のアイランド！！</a></strong></p>
+
+<p>Another Konami sample. Interestingly the title from the label matches the title on the final game, <code>RS051 CHIBIMARUKOCHAN</code>, but in the sample it is simply <code>title</code>.</p>
+
+<pre><code>---------------------Internal ROM Info----------------------
+       File: game.sfc
+       Name: title                    Company: Konami
+     Header: None                        Bank: LoROM
+Interleaved: None                        SRAM: 0 Kb
+       Type: Normal                       ROM: 16 Mb
+    Country: USA                        Video: NTSC
+  ROM Speed: 120ns (FastROM)         Revision: 1.0
+   Checksum: Bad 0x260B != 0x2705   Game Code:
+---------------------------Hashes---------------------------
+      CRC32: 178D0201
+        MD5: 8D594E0DD7E6C90E062D3F961D14C89F
+      SHA-1: 77617120D5A3C4ED2DFE6427A4C98A3AA172FEEA
+--------------------------Database--------------------------
+</code></pre>
+
+<p><em>Title - Final</em>  / <em>Sample</em></p>
+
+<p>The opening scene is not animated like it is in the final, and beginning a game didn’t show the opening dialog sequence present in the final.</p>
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="/assets/screenshots/chibi-maruko-chan-mezase-minami-no-island-japan-sample/title-54adcf50dd980b175b85ef4281528d82829b162c26e5eb76c864dbd33e01e97733a1664031867cada19de4942f620129f892c61ddde5f27e4dfbab6570a3e6f2.png" alt="Title - Final" title="Title - Final" />
+      </div>
+      <img src="/assets/screenshots/chibi-maruko-chan-mezase-minami-no-island-japan-sample/title-sample-abd45f4856ae170e1a6e1c5d4bf62e09f6d755d4c179bbc67ee83f639fa3c128107227f4775e31d5640c6a01d2e87958eb9f8341f0bd1492ee3f50bad1d81255.png" alt="Title - Sample" title="Title - Sample" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<p><em>Balloon Select - Final</em>  / <em>Sample</em></p>
+
+<p>Noticeably different is the balloon baskets, banner and the lower cloud is gone.</p>
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="/assets/screenshots/chibi-maruko-chan-mezase-minami-no-island-japan-sample/balloon-select-f30fd6da9bdcd5e18f626af5c0564ee2466d6b1c85b8a820f1dc417bffd81f5a5936599dabe543d2e2e6e8854d8b2b59311c537ab21394313bc1dffe31d7753f.png" alt="Balloon Select - Final" title="Balloon Select - Final" />
+      </div>
+      <img src="/assets/screenshots/chibi-maruko-chan-mezase-minami-no-island-japan-sample/balloon-select-sample-ec9daa4fde0ef87901db256fb0430af1c141393d5673ffc20fca296b319ee0ffac7858b1ff16d5c9d072bdf1d9c831ca6c50916a204a878b44b930abe5cd8c57.png" alt="Balloon Select - Sample" title="Balloon Select - Sample" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<p><em>Mountain - Final</em>  / <em>Sample</em></p>
+
+<p>Noticeably different is the balloon setup, mountain and words.</p>
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="/assets/screenshots/chibi-maruko-chan-mezase-minami-no-island-japan-sample/mountain-54bce02843d4673fcd0bad44482d63f4492bc4dd33ac05b9b0ec0d6bb6509c46cdd8e1f268a6ef80db008fb73c554bf2dabf71a10be90554c42356987277a450.png" alt="Mountain - Final" title="Mountain - Final" />
+      </div>
+      <img src="/assets/screenshots/chibi-maruko-chan-mezase-minami-no-island-japan-sample/mountain-sample-77f4a53653e7e6cc619e9212bd92f8fa99b08c60ce16a0f53aa7fa807d85a8c881353415dbc01af7b0283f50de3da7a3965385b913d5ec543d1c9a92d27d67a9.png" alt="Mountain - Sample" title="Mountain - Sample" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<p><em>Setup - Sample</em></p>
+
+<p><img src="/assets/screenshots/chibi-maruko-chan-mezase-minami-no-island-japan-sample/setup-1-sample-2a5b85710dd310792d16791212dc2d77eb8f809235235139ccde0af4e7bf3f9c3f534a88ced024815cccf65fc758b9028d2c2e3536d2cba6a6640f9719a7467d.png" alt="Setup 1 - Sample" title="Setup 1 - Sample" />
+<img src="/assets/screenshots/chibi-maruko-chan-mezase-minami-no-island-japan-sample/setup-2-sample-eb7527056fc4510e2e352403742de79f1847621944932588432acce7e3ee6c8faf615c47c9d1f4982a3a78212125f5c73b6a8872031daacb33ce653d674b1a90.png" alt="Setup 2 - Sample" title="Setup 2 - Sample" /></p>
+
+<p><em>VS Screen - Final</em>  / <em>Sample</em></p>
+
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="/assets/screenshots/chibi-maruko-chan-mezase-minami-no-island-japan-sample/vs-70e5ce1e98c46a674c723af54ab1aea818edba288af6e533606e505b3e38f9a3637cfdbef0a3b171957692ea8df4d44ca44129609dae6896b9d767c94b282531.png" alt="VS Screen - Final" title="VS Screen - Final" />
+      </div>
+      <img src="/assets/screenshots/chibi-maruko-chan-mezase-minami-no-island-japan-sample/vs-sample-e288a3c331dd1d16298c4cc090ecce572c67e361b6d32f2ac0fecb15057bb509a20c3d3ff3f802a840d1aa85e4e9ff341970e524d5f80529e4174ab9b4d27d20.png" alt="VS Screen - Sample" title="VS Screen - Sample" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<p>Missing from the final game, or maybe only this mode, is this level select screen.</p>
+
+<p><img src="/assets/screenshots/chibi-maruko-chan-mezase-minami-no-island-japan-sample/level-select-87d0c0b3b34656a7ab3056ec02f8a1aa5e4f3ed5d0f641aae043043fd7da322e7bdaab2766593d816cc88882050ef61207a16a6f9186124d3b960662cb8f7937.png" alt="Level Select - Sample" title="Level Select - Sample" /></p>
+
+<p><em>In Game - Final</em>  / <em>Sample</em></p>
+
+<p>The main path of just confirming every dialog has changed, final appears to be a story mode and the sample is a multiplayer mode.</p>
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="/assets/screenshots/chibi-maruko-chan-mezase-minami-no-island-japan-sample/in-game-85e26df2097c113ff3d1d54bf9c17838f2895fc53d594e1e920fab4ee2fad3acfd72d996eb215fd525ee70b28d9191afd762856df2d1359eaddbf53daf7e4fbd.png" alt="In Game - Final" title="In Game - Final" />
+      </div>
+      <img src="/assets/screenshots/chibi-maruko-chan-mezase-minami-no-island-japan-sample/in-game-sample-7176e105c540b6ea81bf4733c95df4dc375de92cbe64b33acf1fb19d966517b680a1474c1d0d4047fe3c8e380430b2d8ae6719886fc836fd598013b276f944e3.png" alt="In Game - Sample" title="In Game - Sample" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+:ET

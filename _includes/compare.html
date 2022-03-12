@@ -4,7 +4,7 @@
       <div class="divisor inline">
         <img src="{{include.image_1}}" alt="{{include.name_1}}" title="{{include.name_1}}"/>
       </div>
-      <img src="{% asset_path '{{include.image_2}}' %}" alt="{{include.name_2}}" title="{{include.name_2}}"/>
+      <img src="{% asset '{{include.image_2}}' @path %}" alt="{{include.name_2}}" title="{{include.name_2}}"/>
     </div>
     <input type="range" min="0" max="100" value="50" class="slider"/>
     <select name="blend-mode" class="blend-mode">

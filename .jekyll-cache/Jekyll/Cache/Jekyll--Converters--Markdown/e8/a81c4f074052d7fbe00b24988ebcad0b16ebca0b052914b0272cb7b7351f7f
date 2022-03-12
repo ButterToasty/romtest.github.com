@@ -1,0 +1,688 @@
+I"�<p>This is an early <a href="https://superfamicom.org/info/street-fighter-zero-2">Street Fighter Alpha 2</a> / <a href="https://superfamicom.org/info/street-fighter-zero-2">Street Fighter Zero 2 (ストリートファイターZERO 2)</a> prototype, notable due to the fact is does not yet use the special chip and is very early in development. There were several auctions sold by <a href="http://www.ebay.com/usr/safestuff1">safestuff1</a> and I bought 2 copies and decided not to buy any more after they were identical and board images were not posted and showed more final character select screens. The date on the first auction has the EEPROMs labeled with the date <code>6/11</code>, while the date from the other board is <code>9/15</code>.</p>
+
+<p><strong>HELP WANTED:</strong> There are several items I know I will never get to, if you can help with this game or any other with any of the following items, [please contribute on <a href="https://github.com/MatthewCallis/eludevisibility.org">GitHub</a>! Think of this as more of a living wiki (without spam) and contribute in any way that you can. Feel free to reach out to me on <a href="https://twitter.com/superfamicom">Twitter</a> if you need help or want to contribute but aren’t sure where to start.</p>
+
+<ul>
+  <li>Check music against the retail version</li>
+  <li>Check sprites against the retail version</li>
+  <li>Check character move set against retail version</li>
+  <li>Animated GIF to compare</li>
+</ul>
+
+<p><em>Screenshots</em></p>
+
+<p>Starting with the title screen, it actually looks better in the prototype and now squished like in the final, a larger and nice typeface for <em>Push Start Button!!</em> and slightly different, less detailed background:</p>
+
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="/assets/screenshots/street-fighter-2-zero-japan-prototype/title-d0ab90af5b707b3e8afa5ec8e69ec84c0de5c70979c5fc45aae73febae8583a6e3704feb1b7ec62ad48c267aae383c61b68f024631120b59fdafd6eae0248221.png" alt="Title - Prototype" title="Title - Prototype" />
+      </div>
+      <img src="/assets/screenshots/street-fighter-2-zero-japan-prototype/title-final-86909317467ab613ea1df515fdb980fc4af645462f53bab8aba1f9e9fbbd5410e700a7db961b61607c461eb7b518f84df3a13167f68b51e7a9c384c4c17afedc.png" alt="Title - Final" title="Title - Final" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<p><img src="/assets/screenshots/street-fighter-2-zero-japan-prototype/sf2z.1-5c21a5f8b1c8f5e40e9d87f058b04c0d496019bf10d91db8e184bbee2466f511c8d149406c16fa3b850b2508ff304f508765a2c143ba5da5a33b996b5b91674b.png" alt="Screenshot" />
+<img src="/assets/screenshots/street-fighter-2-zero-japan-prototype/sf2z.2-1f0d4a0c86f7edea9b49ac5d97be9eb32a83d288e8f613af538f3753e1e161cb75462f44cbbd01150edc317b08571c699617b8bb5053901a40121c43325a7526.png" alt="Screenshot" />
+<img src="/assets/screenshots/street-fighter-2-zero-japan-prototype/sf2z.3-23dea97e1d1960ab924fb4ec8bda7b260151444a7a37c36683967172ae36586990ebb627938de7d3876a037f222e216fe4bacc1b679b08e2b692c5675f9cccb4.png" alt="Screenshot" />
+<img src="/assets/screenshots/street-fighter-2-zero-japan-prototype/sf2z.4-5aa50bca4cd3c3ce522684895a1da829e37cf4011e3fd6b611ba7f75ec7c3b6ca31dbdb660d98ce33728df52b8ed1e954fdf41804fa40b709dd7730b16a849bc.png" alt="Screenshot" />
+<img src="/assets/screenshots/street-fighter-2-zero-japan-prototype/sf2z.5-9ffd0b815d791e2f683ae7edbd6bfeb4e8f13b5af398fbe5dc9f135c1b53755093cd5fd6278aa01eddae6870f7064e4e61ce0ec2065628c0cfc003a34aa01996.png" alt="Screenshot" />
+<img src="/assets/screenshots/street-fighter-2-zero-japan-prototype/sf2z.6-e3f733633c49a53a60689e3d80c1befb6ba291616eb182fa6066258a5c575376ab02ca8980aedd84693bc66d2d74164c9e6e20e383f68c366fbc10dfe0ce5f08.png" alt="Screenshot" />
+<img src="/assets/screenshots/street-fighter-2-zero-japan-prototype/sf2z.7-e89ee2d29a06a188df59f02cd7272058b1801d8ea8940a721c7276d0e7a8d6a5aa35a224f65670bc6810deb21a8c9715d89b24b06a03ee9264048b4586ec5b85.png" alt="Screenshot" />
+<img src="/assets/screenshots/street-fighter-2-zero-japan-prototype/sf2z.8-724e626d15cc70c841c7c9ae1df34998a4f825ad20261845dd5e14ce793ee0c2f5b9a584681001f86110d529d59a163bab257f8d1046947cd7278fd38750f0c9.png" alt="Screenshot" />
+<img src="/assets/screenshots/street-fighter-2-zero-japan-prototype/sf2z.9-bbea5c4a656da0de5c0ed3eaf9cde7cc4bb297cda35257be04ec26ff65713e6861f38a9d8b9d3738a28c0f9b96981638969c1f1355adb7d6a1b57a51ed472964.png" alt="Screenshot" />
+<img src="/assets/screenshots/street-fighter-2-zero-japan-prototype/sf2z.10-7b7ae774dda5c57d9edc6f3f42758c1ff45fbffbb993475e1bf1722feb310574cf8320b8d36b14f32e5c61220b39027a25f264405d2175746d02372dc0fca1d7.png" alt="Screenshot" />
+<img src="/assets/screenshots/street-fighter-2-zero-japan-prototype/sf2z.11-e189b04b6e60aae8ee0fe6e4aad917f3bd398ad37316d0cbc90af34d097b8fac6315c1056741e66748dfe960e41643426328b5bd4713f31f01b29fe30ee20fa7.png" alt="Screenshot" />
+<img src="/assets/screenshots/street-fighter-2-zero-japan-prototype/sf2z.12-c0c88a415a89ed9f7ee1ad13d930e974dc9bfc08436c65d90dca51e3b77c04e93f59cacbbb1125a1f071fc65bdd1e902562d71b4532117fa5c88d14eeab9d63a.png" alt="Screenshot" />
+<img src="/assets/screenshots/street-fighter-2-zero-japan-prototype/sf2z.13-84a51b680cbe52514a7f5d984daadf16f6e3177d8a6fd888fd5dc8090d5f39dda6e48b6e30aaa6582b3083cd8351da824403c05ebef51754604cf5a0dc237077.png" alt="Screenshot" />
+<img src="/assets/screenshots/street-fighter-2-zero-japan-prototype/sf2z.14-6cf21619aac081da92c5a0a140db03e9a14c940255bd0ca8decc7a3ba61cec97dfe171b156364e598b8d7b3d747a1c0a39e88b14ba049ba09d367b8ba602b0a9.png" alt="Screenshot" />
+<img src="/assets/screenshots/street-fighter-2-zero-japan-prototype/sf2z.15-1035415fec2f903ec2b45527202094608f6c709027105598d394ce42cd2f26c79b0a2f9224d98972641dadae4c31ee7bdc37aa399fe58bdf271221c6f333bff0.png" alt="Screenshot" />
+<img src="/assets/screenshots/street-fighter-2-zero-japan-prototype/sf2z.16-dd3c0f10e3a8f336a5da2329f5293cc2942704bfdabf443c14043c2cfd20cdba18a38f8e3de7dfb6bd5d8dc1c84d8b3e7d69f3d0f8bdc9b28d8cd2a36b0a6f04.png" alt="Screenshot" />
+<img src="/assets/screenshots/street-fighter-2-zero-japan-prototype/sf2z.17-84d2390d692f07e9e634a3fbadca30b03489c63afb41d33f6a62bcef924d25b636b34778cb2f228eb8157f2dad59103c94977e0de6253d7c7200835ce984b12f.png" alt="Screenshot" /></p>
+
+<p><em>Characters &amp; Sprites</em></p>
+
+<p>This section is thanks to <a href="https://twitter.com/kiddocabbusses">Kiddo Cabbusses / サテラビュー好きの外人さん</a>. I don’t know if I got this well in this image (below) but the short of it is; Zangief’s stance has more frames of animation in the prototype compared to the final, and by golly it looks a LOT better for it. The final game looks jank in comparison. His stance is the only thing in the prototype, he’s otherwise nothing - not even able to attack or get hurt like Ken who is also buggy.</p>
+
+<p><img src="/assets/screenshots/street-fighter-2-zero-japan-prototype/giefstance-dd0324e9ff7606f89f76b669d56a6fae968ddeecd20b97464e9cbacfb5798a3ff2a083514e87f6e7eba97080290d65630dc0dac6dee909b786a5c92dd4003ec1.png" alt="Screenshot" /></p>
+
+<p>Chun-Li and Dhalsim are actually SURPRISINGLY close to completion. They have some missing graphical effects (Chun-Li’s Kikoushou, Dhalsim’s Yoga Fire/Flame/Breath/Inferno) and sometimes crash the game. But every now and then you can play through a whole match with them. They may had been intended to be playable by the time this was put out, but the few missing things got in the way. Ken is buggy. Rolento has a stance like Zangief and otherwise does nothing. The buggy Nash-Akuma is crash-prone.</p>
+
+<p>On that note, trivial commentary on the development from what I can perceive: From the characters ready to demo and the ones close to being ready to being demoed, we have 4 SF2 vets, an Alpha 1 character (Charlie) that’s basically a reskin of a SF2 vet, and the only “new” character introduced in Alpha 2. Likewise, of the incomplete characters, the ones furthest in are SF2 vets and a character whose first SF appearance is Alpha 2. This gives me an impression that characters were intentionally prioritized - I’m assuming likely in case space issues required them to outright cut someone.</p>
+
+<p>If you win a round with Ken in the SFZ2 proto it will crash. Also it looks like for some reason Ken has programming that’s meant to be for Akuma’s Teleport move. If you do quarter-circle back + punch he’ll move towards the other player at the same speed as the teleport, but he can’ phase through and there’s no graphical effects.</p>
+
+<p>As reported by <a href="https://twitter.com/TweetDreamsXOXO/status/996929952690851840">Josh Smith</a>, Sakura has all three of her jump kick animations from the arcade version in this prototype. The release version removes the animation from the medium kick and replaces it with the weak kick animation.</p>
+
+<p><em>Stages</em></p>
+
+<p>The stage layouts are different than the final version, some drastically different.</p>
+
+<div class="comparison-container">
+  <div class="comparison full-size">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="/assets/screenshots/street-fighter-2-zero-japan-prototype/stages/adon-prototype-a5d30ba303adf8665a0f48a4b610a7ce5ab04098a35346aeb41f87bf3238f0cd20e4d2bb46bdd673e32283a52d08132cb808e820d5b9dfa8283b7212b6f49b90.png" alt="Adon Stage - Prototype" title="Adon Stage - Prototype" />
+      </div>
+      <img src="/assets/screenshots/street-fighter-2-zero-japan-prototype/stages/adon-retail-689f132401848e4ae506396e297307f517e4df7593b0f55935cee2de0195b86004e6d96bc3460ec7873117ef1e1ccb37fb70626014422248409e677240ab2749.png" alt="Adon Stage - Final" title="Adon Stage - Final" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<div class="comparison-container">
+  <div class="comparison full-size">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="/assets/screenshots/street-fighter-2-zero-japan-prototype/stages/dan-prototype-89c0ebc85a191ed4ee2d9f8affb25fbd479913c2960f38844715fe254d8231d253a21880e2b5c3acd7c8141bcf07ed53f93903beb11b2d0a70f6d7256e3b50ae.png" alt="Dan Stage - Prototype" title="Dan Stage - Prototype" />
+      </div>
+      <img src="/assets/screenshots/street-fighter-2-zero-japan-prototype/stages/dan-retail-bf27bce2bf5e63906968df9abcf7db1890bb323b9e6a59595cf8832f82b6459ab12c6112c2b2807ea328724743804ac04217b2bfec9101903c998f6dc23c0f39.png" alt="Dan Stage - Final" title="Dan Stage - Final" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<div class="comparison-container">
+  <div class="comparison full-size">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="/assets/screenshots/street-fighter-2-zero-japan-prototype/stages/gouki-akuma-prototype-67f58cca82bd10b91240c979e4b5de1c6202e47cecdc4aca5798799a700b9f51eafdc4a9b868aaff74ebeb758636cafe4418523cde6a3bee6531eed5553f6cd9.png" alt="Gouki / Akuma Stage - Prototype" title="Gouki / Akuma Stage - Prototype" />
+      </div>
+      <img src="/assets/screenshots/street-fighter-2-zero-japan-prototype/stages/gouki-akuma-retail-39d3e747e95e54cc09b81818e1885ae8f16f007008ae05fed876d1417b73299efaa725ad2d64f9d492d802a12b80397dfd81d8f8c2651bb2afeee19fa47cae59.png" alt="Gouki / Akuma Stage - Final" title="Gouki / Akuma Stage - Final" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<div class="comparison-container">
+  <div class="comparison full-size">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="/assets/screenshots/street-fighter-2-zero-japan-prototype/stages/ryu-prototype-29f10a10874290ba56c790dfde84e3e63b01f2f74349cd525bf4f3a2fdc3057c8fd922c58b8d327ae76a291ac4735db96ebab93eb7b24d3ae65bee5bd7d8fc37.png" alt="Ryu Stage - Prototype" title="Ryu Stage - Prototype" />
+      </div>
+      <img src="/assets/screenshots/street-fighter-2-zero-japan-prototype/stages/ryu-retail-1f72465ac9c5d9d2f5b3f3d52807c762611656b95da9abdf71d9506b92b4f9ca0a77f04a0c9ce4d80ee7cfc2231cdc4725fd5a468f1c26bd4ba74211090367f6.png" alt="Ryu Stage - Final" title="Ryu Stage - Final" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<div class="comparison-container">
+  <div class="comparison full-size">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="/assets/screenshots/street-fighter-2-zero-japan-prototype/stages/vega-bison-prototype-948a08a4ffc801641e6d677fd5320dec54180a062d4f4ca87200ac4afec84288254b4985461f5f389b559d134cdf00ab2ce33b31010c23d2273c3ef3da4ebed1.png" alt="Vega / Bison Stage - Prototype" title="Vega / Bison Stage - Prototype" />
+      </div>
+      <img src="/assets/screenshots/street-fighter-2-zero-japan-prototype/stages/vega-bison-retail-172610a83fd9f3da58cdd43e1b40ef4819da424c55ec204a4cb01db504620f2796923e9e07699a84958ccecc83bdcc5d0092ac5c26ac3ad63044a8b797f08e80.png" alt="Vega / Bison Stage - Final" title="Vega / Bison Stage - Final" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<div class="comparison-container">
+  <div class="comparison full-size">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="/assets/screenshots/street-fighter-2-zero-japan-prototype/stages/zangeif-prototype-41fd0bf7111fcdd0d28d42e128e238e5053dfb10ed6ba4ecfc2c7c781a97d8cbe18f06671a4573a2f66da9f1770ca6f8036714170f3d3d45689e4ed04859b893.png" alt="Zangeif Stage - Prototype" title="Zangeif Stage - Prototype" />
+      </div>
+      <img src="/assets/screenshots/street-fighter-2-zero-japan-prototype/stages/zangeif-retail-4f6d8c9f465bd7e3ea3e0e74837b737b4314126d284049bb0c0cd75c99c26ec19f83980ed369ba2e8b7256cd183e13b65ce170e04c9d1ed169b328e016667fb7.png" alt="Zangeif Stage - Final" title="Zangeif Stage - Final" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<p><em>Player Portraits</em></p>
+
+<p>Portraits have small to noticeable alterations, and there are more complete portraits than stages. Ryu, Chun Li and Sakura have the most changes.</p>
+
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="/assets/screenshots/street-fighter-2-zero-japan-prototype/portraits/Bison - Prototype-10238524b8a3b532eefa2789ec6a307887d4cd2ef311d0c52b7973edadada26baeaaeea95e8667283f642f146b2a520b46bff155e67e8135a2c1a009fd757502.png" alt="Vega / Bison Portraits - Prototype" title="Vega / Bison Portraits - Prototype" style="max-height: 128px; max-width: 100px;" />
+      </div>
+      <img src="/assets/screenshots/street-fighter-2-zero-japan-prototype/portraits/Bison - Retail-4a3dcd677be5cbde327c99ae35d6b759c1e317392e6558ed8645f5409b80162c57c8b2b0ffd36e9cb5bc3fe5414286237b704fa23e49d99a4fd78470ca326ea1.png" alt="Vega / Bison Portraits - Final" title="Vega / Bison Portraits - Final" style="max-height: 128px; max-width: 100px;" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="/assets/screenshots/street-fighter-2-zero-japan-prototype/portraits/Charlie - Prototype-8f39fb4fc40b412f1403119e1aa94267ba3c2574a54329a88822da065ea0c9ad806a0fc69647851d239fd711ab3d945e9f7d10b3786cc5bda012275ac53ca142.png" alt="Charlie Portraits - Prototype" title="Charlie Portraits - Prototype" style="max-height: 128px; max-width: 100px;" />
+      </div>
+      <img src="/assets/screenshots/street-fighter-2-zero-japan-prototype/portraits/Charlie - Retail-42c500afd52c3cc8843de2f08fd05781b5ebef088b9648b4ab8782eff6c5facbde36914235bd584a3b12b61815655efcbb440e0dd93d5b8be585b322699c7d5f.png" alt="Charlie Portraits - Final" title="Charlie Portraits - Final" style="max-height: 128px; max-width: 100px;" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="/assets/screenshots/street-fighter-2-zero-japan-prototype/portraits/Chun Li - Prototype-dc699e5c4a546086fb6839fd62a1dbdb6250aa7e7ade79aad3f9b99d577eb8c02058a6c03b7434886a327ed967add5cd0019ed4c437666fce01ea18b977cf772.png" alt="Chun Li Portraits - Prototype" title="Chun Li Portraits - Prototype" style="max-height: 128px; max-width: 100px;" />
+      </div>
+      <img src="/assets/screenshots/street-fighter-2-zero-japan-prototype/portraits/Chun Li - Retail-ca87dce328060993a726458a6433752e448161585b0943f2fd01b9f999d282567c6ce69c8a58a060a6d3c6f87839ce8e51bc820e860627d64e85736ed18c3d93.png" alt="Chun Li Portraits - Final" title="Chun Li Portraits - Final" style="max-height: 128px; max-width: 100px;" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="/assets/screenshots/street-fighter-2-zero-japan-prototype/portraits/Dhalsim - Prototype-5c6a08209b6d71ee53c2875bc059e314296144688da41656a5344c5f57775d83ff64e74c6d2d9a52dc3d172ac9a25b870d58b5a7fc691f62435f9435ce55c7a2.png" alt="Dhalsim Portraits - Prototype" title="Dhalsim Portraits - Prototype" style="max-height: 128px; max-width: 100px;" />
+      </div>
+      <img src="/assets/screenshots/street-fighter-2-zero-japan-prototype/portraits/Dhalsim - Retail-234a82f47a797435872b318d97020f9b4c687c4af4849d7415010cea4a341608acf02a54a3e7035209afa54f244a8472d8b58fd0f4eed91cf281e98c8e510a1f.png" alt="Dhalsim Portraits - Final" title="Dhalsim Portraits - Final" style="max-height: 128px; max-width: 100px;" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="/assets/screenshots/street-fighter-2-zero-japan-prototype/portraits/Ken - Prototype-7d1075eef9d3509489271603ada9ce89ea74700c3f080ee3edad697629a0755e6a9c4bf2b27ba2d5805a13eb0e044d12176d39fe6f7c03b9cc32e0a048c51d0c.png" alt="Ken Portraits - Prototype" title="Ken Portraits - Prototype" style="max-height: 128px; max-width: 100px;" />
+      </div>
+      <img src="/assets/screenshots/street-fighter-2-zero-japan-prototype/portraits/Ken - Retail-06431e0a97960786f377795498c3eeaa55be10e6c9596ecb5adfb4e3ea282cbea8a971e6991db57d6a64ef3d714ed566b1e6403fdfcb1feb669a310e6ff0baca.png" alt="Ken Portraits - Final" title="Ken Portraits - Final" style="max-height: 128px; max-width: 100px;" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="/assets/screenshots/street-fighter-2-zero-japan-prototype/portraits/Rolento - Prototype-780499ea486c82c1976c1aa2e4122ca017422facb3c1bb918d4538481d33fecd728eb799a142646ec9fceff86d345eeedc8c3d972f6f91fc88197c8ec69b80c3.png" alt="Rolento Portraits - Prototype" title="Rolento Portraits - Prototype" style="max-height: 128px; max-width: 100px;" />
+      </div>
+      <img src="/assets/screenshots/street-fighter-2-zero-japan-prototype/portraits/Rolento - Retail-b0a267e985e9220ee4e0c39600000fd82b1ceb5c283afb55c0829eba320370f12638cc27c74b5d65d86f69ffd7a9ae410f2dbd6521d7f8ffd449bb06f5353f07.png" alt="Rolento Portraits - Final" title="Rolento Portraits - Final" style="max-height: 128px; max-width: 100px;" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="/assets/screenshots/street-fighter-2-zero-japan-prototype/portraits/Ryu - Prototype-8d3c2e084456d0d6af8a47525d61c1061c4a007995c7a21e339e1068a7bdd889c80f9c730687907f2bdfcfde7e6166bf68096a432435082dacedd82f3cf9c38b.png" alt="Ryu Portraits - Prototype" title="Ryu Portraits - Prototype" style="max-height: 128px; max-width: 100px;" />
+      </div>
+      <img src="/assets/screenshots/street-fighter-2-zero-japan-prototype/portraits/Ryu - Retail-e5c99b7187b0e22740e5eafc0dff2d4211f086cf571047fc03297df8793cf84af99515ac4bbd875df25a394162df4e13d6c18aa0b1af543b86391cae76ff3672.png" alt="Ryu Portraits - Final" title="Ryu Portraits - Final" style="max-height: 128px; max-width: 100px;" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="/assets/screenshots/street-fighter-2-zero-japan-prototype/portraits/Sakura - Prototype-cf3c9423f91aec05ce61b4921795d112e044f72d7c22e80054d835a4faf8e7a5ff6f8c73fa703e15b98da45c6e003ee49763098150406d23366d46df1e006d60.png" alt="Sakura Portraits - Prototype" title="Sakura Portraits - Prototype" style="max-height: 128px; max-width: 100px;" />
+      </div>
+      <img src="/assets/screenshots/street-fighter-2-zero-japan-prototype/portraits/Sakura - Retail-18e507529a7dd709ea127e1dd572eb665b64dca774661ef74f5f50f172163b5c323bff88f3693e68ade9adfb1f329d30c3b49935f402a0b58696cfc2d76d932a.png" alt="Sakura Portraits - Final" title="Sakura Portraits - Final" style="max-height: 128px; max-width: 100px;" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="/assets/screenshots/street-fighter-2-zero-japan-prototype/portraits/Zangeif - Prototype-f89bfe54c04f9120933415d26ff996c705d4a04abd95a4ffcbd9dd7a919e174dd4f8a6842d610f2cf70737d125b5121aba6cede9f9066f992a58fd4e3d099d94.png" alt="Zangeif Portraits - Prototype" title="Zangeif Portraits - Prototype" style="max-height: 128px; max-width: 100px;" />
+      </div>
+      <img src="/assets/screenshots/street-fighter-2-zero-japan-prototype/portraits/Zangeif - Retail-274d2a2bb36dda8e1c6579cf2527d84d02652f967430f1123a5515513aa363b4831e9a20dd53f2eb6146a3af75d1f2450cd3599753b312c1b4fabb9feb24cbf6.png" alt="Zangeif Portraits - Final" title="Zangeif Portraits - Final" style="max-height: 128px; max-width: 100px;" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<p><em>Hacking &amp; How-To Explore</em></p>
+
+<p>All of this is with the most amazing thanks to <a href="https://twitter.com/notrevenant">Revenant</a> for literally making all this extraction possible. Below you will find notes on how to explore the various functions in the game and possibly find more! These codes are included in the download below as a <code>CHT</code> file.</p>
+
+<pre><code>
+Notes: Each character slot on the select screen has 4 bytes that determine which slot to move to when pressing a direction on the D-pad, and some of the unfinished characters are "still there", sort of, in that they will skip over other adjacent characters if you are actually able to select them- if that makes any sense. So it seems like more characters may have been planned to/close to actually being included on the select screen.
+
+Sprite Debug Controls:
+  Controller 1:
+    Y: Step Pose Frame
+    X: Animate Pose Infinite
+    B: Reset Pose
+    A: Animate Pose to End
+    Start: Change Table
+  Controller 2:
+    L: Previous Palette
+    R: Next Palette
+    X: Previous Pose
+    Y: Hold to orient sprite / hitbox
+    B: Next Pose
+    A: Hold to orient sprite / hitbox
+    Start: Toggle Hit Boxes
+
+There is a dummied 6th option on the stage select to play on Zangief's stage, but it doesn't have background animation. All characters' theme music seems to be intact.
+
+Pro Action Replay Codes:
+  9FA6C1xx - char select music modifier
+
+  C0367005 + C0368C06 = add zangief stage to menu
+  (invisible + displays glitched banner but otherwise works)
+
+  DFA7EFxx - ryu stage modifier
+      00 = ryu
+      02 = akuma
+      05 = adon
+      0a = bison
+      0c = dan
+      10 = zangief
+      other stages up through 10 have music but no background
+
+  C031A4xx - replace ryu with character on menu
+      00 - ryu
+      01 - ken
+      03 - charlie
+      04 - chun li
+      0a - bison
+      0d - sakura
+      0e - rolento
+      0f - dhalsim
+      10 - zangief
+      (values are actually the same as stage values above, but usable ones differ)
+
+      other characters use wrong sprites/portrait, but possibly correct palette?
+      (i.e. 02 is akuma, and appears to still use his palette)
+      not sure how any of the missing characters actually behave if selected
+
+  7E0492 - p1 char ingame
+  7E0712 - p2 char ingame
+  7E00C7 = 08 -&gt; character debug
+
+  C0201608 - enable during match (uses current p1 character)
+
+  7E00C4 = 04 -&gt; stage debug
+
+  C01DF504 - enable on boot
+      for some reason, loads stage number from address normally used for p1 input
+      so holding down R button (value $10) goes to zangief stage.
+      only values of $10, $20, $30 etc. can be entered this way, so most stages can't be
+      but if button X ($40) is held down it will specifically load $05 (adon stage) instead
+
+  C03B5800 + C03B5Axx - debug stage modifier (see above for values)
+</code></pre>
+
+<p><em>ROM Information</em></p>
+
+<p>The ROM information (below) also has a different internal title, the retail title is <code>STREET FIGHTER ALPHA2</code>:</p>
+
+<pre><code>---------------------Internal ROM Info----------------------
+       File: sf2z.sfc
+       Name: Super Street Fighter2    Company: Capcom
+     Header: None                        Bank: HiROM
+Interleaved: None                        SRAM: 0 Kb
+       Type: Normal                       ROM: 32 Mb
+    Country: Japan                      Video: NTSC
+  ROM Speed: 120ns (FastROM)         Revision: 1.0
+   Checksum: Bad 0xE210 != 0x0000   Game Code:
+---------------------------Hashes---------------------------
+      CRC32: 349D8084
+        MD5: 1BDF3D1524794B36745FDE718E2BA646
+      SHA-1: CC4CC2F858D25280FD984F5A9F8164DC120860EB
+</code></pre>
+
+<p><em>Board / Cartridge Images</em></p>
+
+<p>Images from the auction itself until I have time to update them.</p>
+
+<p><img src="/assets/street-fighter-2-zero-japan-prototype-auction-1-cart-abaef4d0f106fd3500d2990846efda079a9dc73d34aef69a0e8c78ca755fafe74dd3d39e504cfe166dba3d2a93aa53590624a201d244d0e88ce5208e7891ff4d.jpg" alt="Auction 1 Cart" />
+<img src="/assets/street-fighter-2-zero-japan-prototype-auction-2-cart-back-2d8d8bdb5385d006beae1d4a53ae650d5bd7bc049a429d0b32c435c4f387edbce30d4a39d56064f5a7d5ade5b62fd4ae97d94244011234a3689a840aa7f585a1.jpg" alt="Auction 2 Cart Back" />
+<img src="/assets/street-fighter-2-zero-japan-prototype-auction-2-cart-front-f9ab73ca7da0baf85f0519594677d14ac774f971e821e2e41c044a7cb0d30c8f5124065644f7b1e833c34bc2de55ad9d846a85325f673e2280117c259876efa7.jpg" alt="Auction 2 Cart Front" /></p>
+
+<p><em>Playthrough Video</em></p>
+
+<p>A gameplay video play through played by <a href="https://www.youtube.com/channel/UCOXvfoAZZJhmDZw0boGkSYA">Kiddo Cabbusses | サテラビュー好きの外人さん</a>:</p>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/GKTkMbHYnUE?showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
+:ET

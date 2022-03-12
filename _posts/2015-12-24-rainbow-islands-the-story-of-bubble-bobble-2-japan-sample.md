@@ -13,6 +13,6 @@ download:
 
 __レインボーアイランド__
 
-![Rainbow Islands - The Story of Bubble Bobble 2 (Japan) (Sample)]({% asset_path 'screenshots/rainbow-islands-the-story-of-bubble-bobble-2-japan-sample/rainbow-islands-the-story-of-bubble-bobble-2-japan-sample.0.png' %})
+![Rainbow Islands - The Story of Bubble Bobble 2 (Japan) (Sample)]({% asset 'screenshots/rainbow-islands-the-story-of-bubble-bobble-2-japan-sample/rainbow-islands-the-story-of-bubble-bobble-2-japan-sample.0.png' @path %})
 
 The first obvious difference is the `SAMPLE VERSION` label on the title screen. More importantly discovered by __XKeeper__ the game has a demo that neither the Japanese nor the US versions have.

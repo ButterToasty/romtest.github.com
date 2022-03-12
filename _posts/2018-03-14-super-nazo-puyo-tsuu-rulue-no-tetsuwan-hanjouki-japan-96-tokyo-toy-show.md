@@ -24,18 +24,18 @@ On a more personal level, I lost a copy of this at auction many years ago, and f
 
 _Screenshots_
 
-![Town Scene 1]({% asset_path 'screenshots/super-nazo-puyo-tsuu-rulue-no-tetsuwan-hanjouki-japan-96-tokyo-toy-show/scene-1.png' %})
-![Town Scene 2]({% asset_path 'screenshots/super-nazo-puyo-tsuu-rulue-no-tetsuwan-hanjouki-japan-96-tokyo-toy-show/scene-2.png' %})
-![Title Screen]({% asset_path 'screenshots/super-nazo-puyo-tsuu-rulue-no-tetsuwan-hanjouki-japan-96-tokyo-toy-show/title.png' %})
-![for '96東京おもちゃショー]({% asset_path 'screenshots/super-nazo-puyo-tsuu-rulue-no-tetsuwan-hanjouki-japan-96-tokyo-toy-show/for-96-toy-show.png' %})
-![Game Info]({% asset_path 'screenshots/super-nazo-puyo-tsuu-rulue-no-tetsuwan-hanjouki-japan-96-tokyo-toy-show/game-info.png' %})
-![Contact Screen]({% asset_path 'screenshots/super-nazo-puyo-tsuu-rulue-no-tetsuwan-hanjouki-japan-96-tokyo-toy-show/contact-screen.png' %})
-![Story]({% asset_path 'screenshots/super-nazo-puyo-tsuu-rulue-no-tetsuwan-hanjouki-japan-96-tokyo-toy-show/story-1.png' %})
-![Act Against AIDS]({% asset_path 'screenshots/super-nazo-puyo-tsuu-rulue-no-tetsuwan-hanjouki-japan-96-tokyo-toy-show/aids.png' %})
+![Town Scene 1]({% asset 'screenshots/super-nazo-puyo-tsuu-rulue-no-tetsuwan-hanjouki-japan-96-tokyo-toy-show/scene-1.png' @path %})
+![Town Scene 2]({% asset 'screenshots/super-nazo-puyo-tsuu-rulue-no-tetsuwan-hanjouki-japan-96-tokyo-toy-show/scene-2.png' @path %})
+![Title Screen]({% asset 'screenshots/super-nazo-puyo-tsuu-rulue-no-tetsuwan-hanjouki-japan-96-tokyo-toy-show/title.png' @path %})
+![for '96東京おもちゃショー]({% asset 'screenshots/super-nazo-puyo-tsuu-rulue-no-tetsuwan-hanjouki-japan-96-tokyo-toy-show/for-96-toy-show.png' @path %})
+![Game Info]({% asset 'screenshots/super-nazo-puyo-tsuu-rulue-no-tetsuwan-hanjouki-japan-96-tokyo-toy-show/game-info.png' @path %})
+![Contact Screen]({% asset 'screenshots/super-nazo-puyo-tsuu-rulue-no-tetsuwan-hanjouki-japan-96-tokyo-toy-show/contact-screen.png' @path %})
+![Story]({% asset 'screenshots/super-nazo-puyo-tsuu-rulue-no-tetsuwan-hanjouki-japan-96-tokyo-toy-show/story-1.png' @path %})
+![Act Against AIDS]({% asset 'screenshots/super-nazo-puyo-tsuu-rulue-no-tetsuwan-hanjouki-japan-96-tokyo-toy-show/aids.png' @path %})
 
 _Transcriptions & Translations_
 
-![Game Info]({% asset_path 'screenshots/super-nazo-puyo-tsuu-rulue-no-tetsuwan-hanjouki-japan-96-tokyo-toy-show/game-info.png' %})
+![Game Info]({% asset 'screenshots/super-nazo-puyo-tsuu-rulue-no-tetsuwan-hanjouki-japan-96-tokyo-toy-show/game-info.png' @path %})
 
 ジャンル … パズル
 対応機種 … スーパーファミコン
@@ -51,7 +51,7 @@ Price … 6800
 
 ---
 
-![Contact Screen]({% asset_path 'screenshots/super-nazo-puyo-tsuu-rulue-no-tetsuwan-hanjouki-japan-96-tokyo-toy-show/contact-screen.png' %})
+![Contact Screen]({% asset 'screenshots/super-nazo-puyo-tsuu-rulue-no-tetsuwan-hanjouki-japan-96-tokyo-toy-show/contact-screen.png' @path %})
 
 ?? Promotion
 期間：1996年6月28 ~ 12月28
@@ -68,8 +68,6 @@ Period: 1996-06-28 - 12-28
 Lottery: 3000 People
 ★ Original Phone Card ★
 Present!!
-
-
 
 For details,
 [game]

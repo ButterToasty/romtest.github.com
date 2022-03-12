@@ -13,13 +13,13 @@ download:
 
 Purchased from Yahoo! Japan Auctions and originally released to [Planet Virtual Boy](http://www.planetvb.com/modules/news/article.php?storyid=270), we have a set of 7 Virtual Boy development disks, all from floppies, containing development manual, software like the VUCC compiler and the official sample code version 1.0, 1.1, 1.1a, and 1.2.
 
-![C Compiler VUCC (95.3.28) / Cコンパイラ　VUCC (95.3.28)]({% asset_path 'vb-development-disks/C-compiler-VUCC-(95.3.28)-(Japan).jpg' %})
-![VU Development System (95.3.27) / VU開発システム　システムディスク (95.3.27)]({% asset_path 'vb-development-disks/VU-Development-System-(95.3.27)-(Japan).jpg' %})
-![VU Development System Manual (95.3.27) / VUSYS ISW 1.01a/ISDW 1.11e (1995-03-27) / VU開発システム　マニュアルディスク (95.3.27)]({% asset_path 'vb-development-disks/VU-Development-System-Manual-(95.3.27)-(Japan).jpg' %})
-![VUE Sample Program Ver 1.2 (95-6-7) (Japan) / VUE サンプルプログラム Ver 1.2 (95-6-7)]({% asset_path 'vb-development-disks/VUE-Sample-Program-Ver-1.2-(95-6-7)-(Japan).jpg' %})
-![VUE Sample Program Ver.1.1 (95-4) / VUE サンプルプログラム Ver.1.1 (95-4)]({% asset_path 'vb-development-disks/VUE-Sample-Program-Ver.1.0-(95-1)-(Japan).jpg' %})
-![VUE Sample Program Ver.1.1(a) (95-4-28) / VUE サンプルプログラム Ver.1.1(a) (95-4-28)]({% asset_path 'vb-development-disks/VUE-Sample-Program-Ver.1.1-(95-4)-(Japan).jpg' %})
-![VUE Sample Program Ver.1.0 (95-1) /  VUE サンプルプログラム Ver.1.0 (95-1)]({% asset_path 'vb-development-disks/VUE-Sample-Program-Ver.1.1(a)-(95-4-28)-(Japan).jpg' %})
+![C Compiler VUCC (95.3.28) / Cコンパイラ　VUCC (95.3.28)]({% asset 'vb-development-disks/C-compiler-VUCC-(95.3.28)-(Japan).jpg' @path %})
+![VU Development System (95.3.27) / VU開発システム　システムディスク (95.3.27)]({% asset 'vb-development-disks/VU-Development-System-(95.3.27)-(Japan).jpg' @path %})
+![VU Development System Manual (95.3.27) / VUSYS ISW 1.01a/ISDW 1.11e (1995-03-27) / VU開発システム　マニュアルディスク (95.3.27)]({% asset 'vb-development-disks/VU-Development-System-Manual-(95.3.27)-(Japan).jpg' @path %})
+![VUE Sample Program Ver 1.2 (95-6-7) (Japan) / VUE サンプルプログラム Ver 1.2 (95-6-7)]({% asset 'vb-development-disks/VUE-Sample-Program-Ver-1.2-(95-6-7)-(Japan).jpg' @path %})
+![VUE Sample Program Ver.1.1 (95-4) / VUE サンプルプログラム Ver.1.1 (95-4)]({% asset 'vb-development-disks/VUE-Sample-Program-Ver.1.0-(95-1)-(Japan).jpg' @path %})
+![VUE Sample Program Ver.1.1(a) (95-4-28) / VUE サンプルプログラム Ver.1.1(a) (95-4-28)]({% asset 'vb-development-disks/VUE-Sample-Program-Ver.1.1-(95-4)-(Japan).jpg' @path %})
+![VUE Sample Program Ver.1.0 (95-1) /  VUE サンプルプログラム Ver.1.0 (95-1)]({% asset 'vb-development-disks/VUE-Sample-Program-Ver.1.1(a)-(95-4-28)-(Japan).jpg' @path %})
 
 ### C Compiler VUCC (95.3.28) / Cコンパイラ　VUCC (95.3.28)
 

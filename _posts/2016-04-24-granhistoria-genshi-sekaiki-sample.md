@@ -210,26 +210,26 @@ _Debug Mode_
 
 Hitting the `Y Button` cycles through maps, mostly breaking the actual game play but sometimes you can walk around and interact which is neat considering the game is hard to play without knowing Japanese.
 
-![Debug Mode]({% asset_path 'screenshots/granhistoria-genshi-sekaiki-sample/debug-00.png' %} "Debug Mode")
-![Debug Mode]({% asset_path 'screenshots/granhistoria-genshi-sekaiki-sample/debug-01.png' %} "Debug Mode")
-![Debug Mode]({% asset_path 'screenshots/granhistoria-genshi-sekaiki-sample/debug-03.png' %} "Debug Mode")
+![Debug Mode]({% asset 'screenshots/granhistoria-genshi-sekaiki-sample/debug-00.png' @path %} "Debug Mode")
+![Debug Mode]({% asset 'screenshots/granhistoria-genshi-sekaiki-sample/debug-01.png' @path %} "Debug Mode")
+![Debug Mode]({% asset 'screenshots/granhistoria-genshi-sekaiki-sample/debug-03.png' @path %} "Debug Mode")
 
-![Debug Mode]({% asset_path 'screenshots/granhistoria-genshi-sekaiki-sample/debug-04.png' %} "Debug Mode")
-![Debug Mode]({% asset_path 'screenshots/granhistoria-genshi-sekaiki-sample/debug-06.png' %} "Debug Mode")
-![Debug Mode]({% asset_path 'screenshots/granhistoria-genshi-sekaiki-sample/debug-07.png' %} "Debug Mode")
+![Debug Mode]({% asset 'screenshots/granhistoria-genshi-sekaiki-sample/debug-04.png' @path %} "Debug Mode")
+![Debug Mode]({% asset 'screenshots/granhistoria-genshi-sekaiki-sample/debug-06.png' @path %} "Debug Mode")
+![Debug Mode]({% asset 'screenshots/granhistoria-genshi-sekaiki-sample/debug-07.png' @path %} "Debug Mode")
 
-![Debug Mode]({% asset_path 'screenshots/granhistoria-genshi-sekaiki-sample/debug-08.png' %} "Debug Mode")
-![Debug Mode]({% asset_path 'screenshots/granhistoria-genshi-sekaiki-sample/debug-09.png' %} "Debug Mode")
-![Debug Mode]({% asset_path 'screenshots/granhistoria-genshi-sekaiki-sample/debug-10.png' %} "Debug Mode")
+![Debug Mode]({% asset 'screenshots/granhistoria-genshi-sekaiki-sample/debug-08.png' @path %} "Debug Mode")
+![Debug Mode]({% asset 'screenshots/granhistoria-genshi-sekaiki-sample/debug-09.png' @path %} "Debug Mode")
+![Debug Mode]({% asset 'screenshots/granhistoria-genshi-sekaiki-sample/debug-10.png' @path %} "Debug Mode")
 
-![Debug Mode]({% asset_path 'screenshots/granhistoria-genshi-sekaiki-sample/debug-11.png' %} "Debug Mode")
-![Debug Mode]({% asset_path 'screenshots/granhistoria-genshi-sekaiki-sample/debug-12.png' %} "Debug Mode")
-![Debug Mode]({% asset_path 'screenshots/granhistoria-genshi-sekaiki-sample/debug-13.png' %} "Debug Mode")
+![Debug Mode]({% asset 'screenshots/granhistoria-genshi-sekaiki-sample/debug-11.png' @path %} "Debug Mode")
+![Debug Mode]({% asset 'screenshots/granhistoria-genshi-sekaiki-sample/debug-12.png' @path %} "Debug Mode")
+![Debug Mode]({% asset 'screenshots/granhistoria-genshi-sekaiki-sample/debug-13.png' @path %} "Debug Mode")
 
-![Debug Mode]({% asset_path 'screenshots/granhistoria-genshi-sekaiki-sample/debug-14.png' %} "Debug Mode")
-![Debug Mode]({% asset_path 'screenshots/granhistoria-genshi-sekaiki-sample/debug-15.png' %} "Debug Mode")
-![Debug Mode]({% asset_path 'screenshots/granhistoria-genshi-sekaiki-sample/debug-16.png' %} "Debug Mode")
+![Debug Mode]({% asset 'screenshots/granhistoria-genshi-sekaiki-sample/debug-14.png' @path %} "Debug Mode")
+![Debug Mode]({% asset 'screenshots/granhistoria-genshi-sekaiki-sample/debug-15.png' @path %} "Debug Mode")
+![Debug Mode]({% asset 'screenshots/granhistoria-genshi-sekaiki-sample/debug-16.png' @path %} "Debug Mode")
 
 If you happen to know the game well and find more differences, or can translate any of the screen shots above- [please update this post on GitHub](https://github.com/MatthewCallis/eludevisibility.org) or contact me!
 
-![Granhistoria (Japan) (Sample) - Cart Front]({% asset_path 'Granhistoria (Japan) (Sample) - Cart Front.jpg' %} "Granhistoria (Japan) (Sample) - Cart Front")
+![Granhistoria (Japan) (Sample) - Cart Front]({% asset 'Granhistoria (Japan) (Sample) - Cart Front.jpg' @path %} "Granhistoria (Japan) (Sample) - Cart Front")

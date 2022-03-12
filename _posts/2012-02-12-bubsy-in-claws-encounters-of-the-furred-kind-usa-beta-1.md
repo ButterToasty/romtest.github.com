@@ -13,6 +13,6 @@ download:
 
 __やまねこBUBSYの大冒険__
 
-![Bubsy in Claws Encounters of the Furred Kind (USA) (Beta 1)]({% asset_path 'screenshots/bubsy-in-claws-encounters-of-the-furred-kind-usa-beta-1/bubsy-in-claws-encounters-of-the-furred-kind-usa-beta-1.0.png' %})
+![Bubsy in Claws Encounters of the Furred Kind (USA) (Beta 1)]({% asset 'screenshots/bubsy-in-claws-encounters-of-the-furred-kind-usa-beta-1/bubsy-in-claws-encounters-of-the-furred-kind-usa-beta-1.0.png' @path %})
 
 The version with CRC `49DA572F`. Lots of binary changes, but none seem to be visual, write up at [SNESCentral](http://www.snescentral.com/article.php?id=1033).

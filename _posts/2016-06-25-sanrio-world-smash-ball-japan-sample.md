@@ -15,13 +15,13 @@ __[サンリオワールド スマッシュボール](https://superfamicom.org/i
 
 Unfortunately same as final but on a development board. Read more about the game on [superfamicom.org](https://superfamicom.org/info/sanrio-world-smash-ball) and [SNESCentral](http://www.snescentral.com/article.php?id=0904).
 
-![Title]({% asset_path 'screenshots/sanrio-world-smash-ball-japan-sample/title-1.png' %} "Title")
-![Title]({% asset_path 'screenshots/sanrio-world-smash-ball-japan-sample/title-2.png' %} "Title")
-![Title]({% asset_path 'screenshots/sanrio-world-smash-ball-japan-sample/title-3.png' %} "Title")
+![Title]({% asset 'screenshots/sanrio-world-smash-ball-japan-sample/title-1.png' @path %} "Title")
+![Title]({% asset 'screenshots/sanrio-world-smash-ball-japan-sample/title-2.png' @path %} "Title")
+![Title]({% asset 'screenshots/sanrio-world-smash-ball-japan-sample/title-3.png' @path %} "Title")
 
-![In Game]({% asset_path 'screenshots/sanrio-world-smash-ball-japan-sample/in-game-1.png' %} "In Game")
-![In Game]({% asset_path 'screenshots/sanrio-world-smash-ball-japan-sample/in-game-2.png' %} "In Game")
-![In Game]({% asset_path 'screenshots/sanrio-world-smash-ball-japan-sample/in-game-3.png' %} "In Game")
+![In Game]({% asset 'screenshots/sanrio-world-smash-ball-japan-sample/in-game-1.png' @path %} "In Game")
+![In Game]({% asset 'screenshots/sanrio-world-smash-ball-japan-sample/in-game-2.png' @path %} "In Game")
+![In Game]({% asset 'screenshots/sanrio-world-smash-ball-japan-sample/in-game-3.png' @path %} "In Game")
 
 _ROM Info_
 

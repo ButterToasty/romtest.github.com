@@ -25,19 +25,19 @@ Pix Quartet has a few bugs with a few insects not playing notes when crawling ov
 
 _Cartridge Pictures_
 
-![Cartridge (Front)]({% asset_path 'screenshots/sound-factory-japan-prototype/sound-factory-cart-front.jpg' %})
+![Cartridge (Front)]({% asset 'screenshots/sound-factory-japan-prototype/sound-factory-cart-front.jpg' @path %})
 
 Says "Sound Factory - Nintendo R&D1"
 
-![Cartridge (Back)]({% asset_path 'screenshots/sound-factory-japan-prototype/sound-factory-cart-back.jpg' %})
+![Cartridge (Back)]({% asset 'screenshots/sound-factory-japan-prototype/sound-factory-cart-back.jpg' @path %})
 
-![Cartridge (PCB)]({% asset_path 'screenshots/sound-factory-japan-prototype/sound-factory-cart-pcb.jpg' %})
+![Cartridge (PCB)]({% asset 'screenshots/sound-factory-japan-prototype/sound-factory-cart-pcb.jpg' @path %})
 
 _Screenshots_
 
-![Title Screen]({% asset_path 'screenshots/sound-factory-japan-prototype/sound-factory-japan-prototype.0.png' %})
-![Menu]({% asset_path 'screenshots/sound-factory-japan-prototype/sound-factory-japan-prototype.1.png' %})
-![Select an Insect]({% asset_path 'screenshots/sound-factory-japan-prototype/sound-factory-japan-prototype.2.png' %})
-![Pix Quartet]({% asset_path 'screenshots/sound-factory-japan-prototype/sound-factory-japan-prototype.3.png' %})
-![Beat Hopper]({% asset_path 'screenshots/sound-factory-japan-prototype/sound-factory-japan-prototype.4.png' %})
-![Star Fly]({% asset_path 'screenshots/sound-factory-japan-prototype/sound-factory-japan-prototype.5.png' %})
+![Title Screen]({% asset 'screenshots/sound-factory-japan-prototype/sound-factory-japan-prototype.0.png' @path %})
+![Menu]({% asset 'screenshots/sound-factory-japan-prototype/sound-factory-japan-prototype.1.png' @path %})
+![Select an Insect]({% asset 'screenshots/sound-factory-japan-prototype/sound-factory-japan-prototype.2.png' @path %})
+![Pix Quartet]({% asset 'screenshots/sound-factory-japan-prototype/sound-factory-japan-prototype.3.png' @path %})
+![Beat Hopper]({% asset 'screenshots/sound-factory-japan-prototype/sound-factory-japan-prototype.4.png' @path %})
+![Star Fly]({% asset 'screenshots/sound-factory-japan-prototype/sound-factory-japan-prototype.5.png' @path %})

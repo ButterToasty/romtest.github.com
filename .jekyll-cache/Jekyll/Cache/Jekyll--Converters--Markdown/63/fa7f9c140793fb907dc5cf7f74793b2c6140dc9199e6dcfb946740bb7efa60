@@ -1,0 +1,43 @@
+I" <p>An interesting RPG for the <a href="https://superfamicom.org/" title="Super Famicom">Super Famicom</a>, <a href="https://superfamicom.org/info/aretha-2-ariel-no-fushigi-na-bouken/" title="Aretha II - Ariel no Fushigi na Tabi">Aretha II - Ariel no Fushigi na Tabi</a> (Japan) (Early Beta). This is an earlier beta than what was already released out there.</p>
+
+<p>Compared to the later beta and final, it is pretty much ported straight from the first game, as it still has the original title screen. Other things are left unchanged or unfinished, such as the enemy names and the backgrounds to the fight scenes. The font was also slightly tweaked by a few pixels here and there. Other things are slightly different but youâ€™ll have to find them.</p>
+
+<p><em>RAM Strings</em></p>
+
+<pre><code>0x000000: ARETHA2 VER 0.05
+</code></pre>
+
+<p>Below are comparison screenshots from the first 2 betas, then retail. Enjoy!</p>
+
+<p><img src="/assets/screenshots/aretha2/000_Aretha II - Ariel no Fushigi na Tabi (Beta 1)-2c67280e8e121c30cc1682fab536183632920882ff605f19c8d41e85e5cb1951602a27bf105145f856f92c2ccc927e771c3a4b31578c3d01eb1ab157638c668b.png" alt="Aretha II - Ariel no Fushigi na Tabi (Beta 1)" />
+<img src="/assets/screenshots/aretha2/000_Aretha II - Ariel no Fushigi na Tabi (Beta 2)-7621d2e6e63062b3cad914503bd0f104693d42b17affc7f25578126f069c7a06732d9fbe54ec793978c2c2d07d77f03fd693066da3960dc27759768f39e97751.png" alt="Aretha II - Ariel no Fushigi na Tabi (Beta 2)" />
+<img src="/assets/screenshots/aretha2/000_Aretha II - Ariel no Fushigi na Tabi (Japan)-f4960e57d585a9fed92423aa7eb24a20d02cfa3f2696b0d91d043650a0b355336f88bce3ad44c06759e629ef4cefb36e1b59d4dc908f8197e1da0eb585324071.png" alt="Aretha II - Ariel no Fushigi na Tabi (Japan)" /></p>
+
+<p><img src="/assets/screenshots/aretha2/001_Aretha II - Ariel no Fushigi na Tabi (Beta 1)-b694e00b23997272be28b9143632d4e3695e59213c24d5f58de37fe28146b9038f54cfd96fccbb13fffa33612b5b6bc318405498e51eacbc8564bd5daf98ca97.png" alt="Aretha II - Ariel no Fushigi na Tabi (Beta 1)" />
+<img src="/assets/screenshots/aretha2/001_Aretha II - Ariel no Fushigi na Tabi (Beta 2)-d9c152190c57c541464d1be08f5229345623d35b41505b4369d12c3f0df55c8d3566cb4b6fa9c0a5c1844f9a6e9be24bf36cb391f3826915efe21aa74a3dc631.png" alt="Aretha II - Ariel no Fushigi na Tabi (Beta 2)" />
+<img src="/assets/screenshots/aretha2/001_Aretha II - Ariel no Fushigi na Tabi (Japan)-6241163909111164cc2d51e61a832f3cb7843ad609d767ec9a0ecd2d4b49d41087a5f62017b94d72585805b89ea809a6fb8c3b24682fd14a6c86a241aff086ed.png" alt="Aretha II - Ariel no Fushigi na Tabi (Japan)" /></p>
+
+<p><img src="/assets/screenshots/aretha2/002_Aretha II - Ariel no Fushigi na Tabi (Beta 1)-e714ec5f47a6daee17e47433d15c873ef9275b99dbf3934ec1f5f60dbdee73de2b7cd3751b1c59deecf87e99d5ee96daf7c321232ac299218d19385df3580d71.png" alt="Aretha II - Ariel no Fushigi na Tabi (Beta 1)" />
+<img src="/assets/screenshots/aretha2/002_Aretha II - Ariel no Fushigi na Tabi (Beta 2)-d5844f9b75ef3636da21a79febb4cec99580812a313610b9c5ff0eb0ad1fb0b569b47b78ee7c945226f2c18fb60c229baee6159f5bc8847245a485f29f756585.png" alt="Aretha II - Ariel no Fushigi na Tabi (Beta 2)" />
+<img src="/assets/screenshots/aretha2/002_Aretha II - Ariel no Fushigi na Tabi (Japan)-e6731e61b2e3d42f6c405c548e382e5e5afe25531cdfae32292523663fa36b7b5b862915777ac42058a4645ca4be821c5cf46296bcb189267df4a01e64d725b3.png" alt="Aretha II - Ariel no Fushigi na Tabi (Japan)" /></p>
+
+<p><img src="/assets/screenshots/aretha2/004_Aretha II - Ariel no Fushigi na Tabi (Beta 1)-93c3c15373b5cff80c4011a2d0a789db08db43d99d656224a585403d43c9d7e08a11eace8a4fd759f3465459a9a73374f87a65160a8a47a43112309f71129875.png" alt="Aretha II - Ariel no Fushigi na Tabi (Beta 1)" />
+<img src="/assets/screenshots/aretha2/004_Aretha II - Ariel no Fushigi na Tabi (Beta 2)-93c3c15373b5cff80c4011a2d0a789db08db43d99d656224a585403d43c9d7e08a11eace8a4fd759f3465459a9a73374f87a65160a8a47a43112309f71129875.png" alt="Aretha II - Ariel no Fushigi na Tabi (Beta 2)" />
+<img src="/assets/screenshots/aretha2/004_Aretha II - Ariel no Fushigi na Tabi (Japan)-4d42d2307eaf863ffdf36bed8a1200041949deab416d58f322b266ed3ec26a7072ee1b3eee7f163defe23957648f0178a57e84cc8d4fe08b926c59f28a363b39.png" alt="Aretha II - Ariel no Fushigi na Tabi (Japan)" /></p>
+
+<p><img src="/assets/screenshots/aretha2/005_Aretha II - Ariel no Fushigi na Tabi (Beta 1)-38cc5cdafd9ac7d0f97b34d5a647f98ae0b5079083ff3de233783c58ae88cd5b7dc86b7177b6ec79e132548a6d8efd2065f2bca89b20ca7b9ef08ae10c454533.png" alt="Aretha II - Ariel no Fushigi na Tabi (Beta 1)" />
+<img src="/assets/screenshots/aretha2/005_Aretha II - Ariel no Fushigi na Tabi (Beta 2)-83e9fd62ae70ad268b4771915f41509566395a91212e7c2c5ccd0733f13f35ebed88767fd36d810bc681e98d4f134b66e415ada26bbb37722beb645d64354f44.png" alt="Aretha II - Ariel no Fushigi na Tabi (Beta 2)" />
+<img src="/assets/screenshots/aretha2/005_Aretha II - Ariel no Fushigi na Tabi (Japan)-83e9fd62ae70ad268b4771915f41509566395a91212e7c2c5ccd0733f13f35ebed88767fd36d810bc681e98d4f134b66e415ada26bbb37722beb645d64354f44.png" alt="Aretha II - Ariel no Fushigi na Tabi (Japan)" /></p>
+
+<p><img src="/assets/screenshots/aretha2/006_Aretha II - Ariel no Fushigi na Tabi (Beta 1)-962f5ebe80adf052e719f9513a9e6daf5694fd773eaf0ac8d2cd262e5bf50a6d6f148d17e52fb2b1aa645ff6d3d3ca0a4f564c44e86936623a6ce7603620eb26.png" alt="Aretha II - Ariel no Fushigi na Tabi (Beta 1)" />
+<img src="/assets/screenshots/aretha2/006_Aretha II - Ariel no Fushigi na Tabi (Beta 2)-a75d70eb5e25b74766db48adff4e8c2de695ddba53910105c8ef4a98bdd781c41a9f0eede6926910f14a7dffc7fa086a82efd1d346a7d07a81c9076034e27d32.png" alt="Aretha II - Ariel no Fushigi na Tabi (Beta 2)" />
+<img src="/assets/screenshots/aretha2/006_Aretha II - Ariel no Fushigi na Tabi (Japan)-487a5db8eebd057f55d298f0d5dd1f8a9beadf4d052bcb0794265d196a18ab38d4a720b4da97e68d0aaefa52c1b96066f5e24e84482ba658d06824ded9751b69.png" alt="Aretha II - Ariel no Fushigi na Tabi (Japan)" /></p>
+
+<p><img src="img src=&quot;/assets/screenshots/aretha2/007_Aretha%20II%20-%20Ariel%20no%20Fushigi%20na%20Tabi%20(Beta%201)-4d3057a5957e89d2e0ede56a8648ac772453b54a923e304c5483442554e8f9fb4b7f180373bbeffcae4cb27428ea73728738c5ae20512893cd245937e5566688.png&quot;" alt="Aretha II - Ariel no Fushigi na Tabi (Beta 1)" />
+<img src="img src=&quot;/assets/screenshots/aretha2/007_Aretha%20II%20-%20Ariel%20no%20Fushigi%20na%20Tabi%20(Beta%202)-85ccd6451c593c4252c8c8b9db9b74fcd9c42fc7e23569bc0fbf3a84328d8f4edd6bbc85e0315ef8a5c474e9a2d42bf25c875984397b373dc43d8acc80bd7657.png&quot;" alt="Aretha II - Ariel no Fushigi na Tabi (Beta 2)" />
+<img src="img src=&quot;/assets/screenshots/aretha2/007_Aretha%20II%20-%20Ariel%20no%20Fushigi%20na%20Tabi%20(Japan)-674583e677397fb1f6affee715ffa4c918b4c4621c09ec9e15937a904162e50a013d3f535fdaa52460fcd30f40641844f57eacbd4e6211ce5665dcf1494c52ab.png&quot;" alt="Aretha II - Ariel no Fushigi na Tabi (Japan)" /></p>
+
+<p><img src="img src=&quot;/assets/screenshots/aretha2/008_Aretha%20II%20-%20Ariel%20no%20Fushigi%20na%20Tabi%20(Beta%201)-caa3b150e6d7ae2013f57f173dad264dc1336d35abc08c95c4b38cf21028663e2055737c1eac0544c2cd250c7bba8bb65f25baf62a069b33e5adc80f2b99c9b3.png&quot;" alt="Aretha II - Ariel no Fushigi na Tabi (Beta 1)" />
+<img src="img src=&quot;/assets/screenshots/aretha2/008_Aretha%20II%20-%20Ariel%20no%20Fushigi%20na%20Tabi%20(Beta%202)-1949b931c42a424973c3b53da5180052a956dc20b28121513b07c22918c8a2e42c8ae112da530fd7231000974fafe89fdda8fbd735d3aff0bdc175882c8302cf.png&quot;" alt="Aretha II - Ariel no Fushigi na Tabi (Beta 2)" />
+<img src="img src=&quot;/assets/screenshots/aretha2/008_Aretha%20II%20-%20Ariel%20no%20Fushigi%20na%20Tabi%20(Japan)-894e2f36336702aa37dad43bd8d26e472efdc7d8f201ddb22d5cc868830d97a9ec162fa01302318851cba4cda09604b9a4bdd23a8daa2e5081faec9acc75f842.png&quot;" alt="Aretha II - Ariel no Fushigi na Tabi (Japan)" /></p>
+:ET

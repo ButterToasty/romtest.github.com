@@ -40,7 +40,7 @@ A few typos have been fixed, track times made real, and colors slightly changed 
 
 The bike config is missing the automatic / manual transmission option.
 
-![Debug - Auto / Manual]({% asset_path 'screenshots/touge-densetsu-saisoku-battle-japan-prototype/sample-17.png' %} "Debug - Auto / Manual")
+![Debug - Auto / Manual]({% asset 'screenshots/touge-densetsu-saisoku-battle-japan-prototype/sample-17.png' @path %} "Debug - Auto / Manual")
 
 {% include compare_local.html name_1='Final' image_1='screenshots/touge-densetsu-saisoku-battle-japan-prototype/final-17.png' name_2='Sample' image_2='screenshots/touge-densetsu-saisoku-battle-japan-prototype/sample-18.png' %}
 
@@ -67,7 +67,7 @@ Interleaved: None                        SRAM: 16 Kb
        Type: Normal + Batt                ROM: 24 Mb
     Country: Japan                      Video: NTSC
   ROM Speed: 120ns (FastROM)         Revision: 1.0
-   Checksum: Corrupt, Bad 0xEB16    Game Code: IO  
+   Checksum: Corrupt, Bad 0xEB16    Game Code: IO
 ---------------------------Hashes---------------------------
       CRC32: CBA34E28
         MD5: 8C7F8DE639D0B3C3B98509BE154FB5E9

@@ -23,34 +23,34 @@ _RAM Strings_
 
 Below are comparison screenshots from the first 2 betas, then retail. Enjoy!
 
-![Aretha II - Ariel no Fushigi na Tabi (Beta 1)]({% asset_path 'screenshots/aretha2/000_Aretha II - Ariel no Fushigi na Tabi (Beta 1).png' %})
-![Aretha II - Ariel no Fushigi na Tabi (Beta 2)]({% asset_path 'screenshots/aretha2/000_Aretha II - Ariel no Fushigi na Tabi (Beta 2).png' %})
-![Aretha II - Ariel no Fushigi na Tabi (Japan)]({% asset_path 'screenshots/aretha2/000_Aretha II - Ariel no Fushigi na Tabi (Japan).png' %})
+![Aretha II - Ariel no Fushigi na Tabi (Beta 1)]({% asset 'screenshots/aretha2/000_Aretha II - Ariel no Fushigi na Tabi (Beta 1).png' @path %})
+![Aretha II - Ariel no Fushigi na Tabi (Beta 2)]({% asset 'screenshots/aretha2/000_Aretha II - Ariel no Fushigi na Tabi (Beta 2).png' @path %})
+![Aretha II - Ariel no Fushigi na Tabi (Japan)]({% asset 'screenshots/aretha2/000_Aretha II - Ariel no Fushigi na Tabi (Japan).png' @path %})
 
-![Aretha II - Ariel no Fushigi na Tabi (Beta 1)]({% asset_path 'screenshots/aretha2/001_Aretha II - Ariel no Fushigi na Tabi (Beta 1).png' %})
-![Aretha II - Ariel no Fushigi na Tabi (Beta 2)]({% asset_path 'screenshots/aretha2/001_Aretha II - Ariel no Fushigi na Tabi (Beta 2).png' %})
-![Aretha II - Ariel no Fushigi na Tabi (Japan)]({% asset_path 'screenshots/aretha2/001_Aretha II - Ariel no Fushigi na Tabi (Japan).png' %})
+![Aretha II - Ariel no Fushigi na Tabi (Beta 1)]({% asset 'screenshots/aretha2/001_Aretha II - Ariel no Fushigi na Tabi (Beta 1).png' @path %})
+![Aretha II - Ariel no Fushigi na Tabi (Beta 2)]({% asset 'screenshots/aretha2/001_Aretha II - Ariel no Fushigi na Tabi (Beta 2).png' @path %})
+![Aretha II - Ariel no Fushigi na Tabi (Japan)]({% asset 'screenshots/aretha2/001_Aretha II - Ariel no Fushigi na Tabi (Japan).png' @path %})
 
-![Aretha II - Ariel no Fushigi na Tabi (Beta 1)]({% asset_path 'screenshots/aretha2/002_Aretha II - Ariel no Fushigi na Tabi (Beta 1).png' %})
-![Aretha II - Ariel no Fushigi na Tabi (Beta 2)]({% asset_path 'screenshots/aretha2/002_Aretha II - Ariel no Fushigi na Tabi (Beta 2).png' %})
-![Aretha II - Ariel no Fushigi na Tabi (Japan)]({% asset_path 'screenshots/aretha2/002_Aretha II - Ariel no Fushigi na Tabi (Japan).png' %})
+![Aretha II - Ariel no Fushigi na Tabi (Beta 1)]({% asset 'screenshots/aretha2/002_Aretha II - Ariel no Fushigi na Tabi (Beta 1).png' @path %})
+![Aretha II - Ariel no Fushigi na Tabi (Beta 2)]({% asset 'screenshots/aretha2/002_Aretha II - Ariel no Fushigi na Tabi (Beta 2).png' @path %})
+![Aretha II - Ariel no Fushigi na Tabi (Japan)]({% asset 'screenshots/aretha2/002_Aretha II - Ariel no Fushigi na Tabi (Japan).png' @path %})
 
-![Aretha II - Ariel no Fushigi na Tabi (Beta 1)]({% asset_path 'screenshots/aretha2/004_Aretha II - Ariel no Fushigi na Tabi (Beta 1).png' %})
-![Aretha II - Ariel no Fushigi na Tabi (Beta 2)]({% asset_path 'screenshots/aretha2/004_Aretha II - Ariel no Fushigi na Tabi (Beta 2).png' %})
-![Aretha II - Ariel no Fushigi na Tabi (Japan)]({% asset_path 'screenshots/aretha2/004_Aretha II - Ariel no Fushigi na Tabi (Japan).png' %})
+![Aretha II - Ariel no Fushigi na Tabi (Beta 1)]({% asset 'screenshots/aretha2/004_Aretha II - Ariel no Fushigi na Tabi (Beta 1).png' @path %})
+![Aretha II - Ariel no Fushigi na Tabi (Beta 2)]({% asset 'screenshots/aretha2/004_Aretha II - Ariel no Fushigi na Tabi (Beta 2).png' @path %})
+![Aretha II - Ariel no Fushigi na Tabi (Japan)]({% asset 'screenshots/aretha2/004_Aretha II - Ariel no Fushigi na Tabi (Japan).png' @path %})
 
-![Aretha II - Ariel no Fushigi na Tabi (Beta 1)]({% asset_path 'screenshots/aretha2/005_Aretha II - Ariel no Fushigi na Tabi (Beta 1).png' %})
-![Aretha II - Ariel no Fushigi na Tabi (Beta 2)]({% asset_path 'screenshots/aretha2/005_Aretha II - Ariel no Fushigi na Tabi (Beta 2).png' %})
-![Aretha II - Ariel no Fushigi na Tabi (Japan)]({% asset_path 'screenshots/aretha2/005_Aretha II - Ariel no Fushigi na Tabi (Japan).png' %})
+![Aretha II - Ariel no Fushigi na Tabi (Beta 1)]({% asset 'screenshots/aretha2/005_Aretha II - Ariel no Fushigi na Tabi (Beta 1).png' @path %})
+![Aretha II - Ariel no Fushigi na Tabi (Beta 2)]({% asset 'screenshots/aretha2/005_Aretha II - Ariel no Fushigi na Tabi (Beta 2).png' @path %})
+![Aretha II - Ariel no Fushigi na Tabi (Japan)]({% asset 'screenshots/aretha2/005_Aretha II - Ariel no Fushigi na Tabi (Japan).png' @path %})
 
-![Aretha II - Ariel no Fushigi na Tabi (Beta 1)]({% asset_path 'screenshots/aretha2/006_Aretha II - Ariel no Fushigi na Tabi (Beta 1).png' %})
-![Aretha II - Ariel no Fushigi na Tabi (Beta 2)]({% asset_path 'screenshots/aretha2/006_Aretha II - Ariel no Fushigi na Tabi (Beta 2).png' %})
-![Aretha II - Ariel no Fushigi na Tabi (Japan)]({% asset_path 'screenshots/aretha2/006_Aretha II - Ariel no Fushigi na Tabi (Japan).png' %})
+![Aretha II - Ariel no Fushigi na Tabi (Beta 1)]({% asset 'screenshots/aretha2/006_Aretha II - Ariel no Fushigi na Tabi (Beta 1).png' @path %})
+![Aretha II - Ariel no Fushigi na Tabi (Beta 2)]({% asset 'screenshots/aretha2/006_Aretha II - Ariel no Fushigi na Tabi (Beta 2).png' @path %})
+![Aretha II - Ariel no Fushigi na Tabi (Japan)]({% asset 'screenshots/aretha2/006_Aretha II - Ariel no Fushigi na Tabi (Japan).png' @path %})
 
-![Aretha II - Ariel no Fushigi na Tabi (Beta 1)]({% asset_path 'screenshots/aretha2/007_Aretha II - Ariel no Fushigi na Tabi (Beta 1).png' %})
-![Aretha II - Ariel no Fushigi na Tabi (Beta 2)]({% asset_path 'screenshots/aretha2/007_Aretha II - Ariel no Fushigi na Tabi (Beta 2).png' %})
-![Aretha II - Ariel no Fushigi na Tabi (Japan)]({% asset_path 'screenshots/aretha2/007_Aretha II - Ariel no Fushigi na Tabi (Japan).png' %})
+![Aretha II - Ariel no Fushigi na Tabi (Beta 1)]({% asset 'screenshots/aretha2/007_Aretha II - Ariel no Fushigi na Tabi (Beta 1).png' %})
+![Aretha II - Ariel no Fushigi na Tabi (Beta 2)]({% asset 'screenshots/aretha2/007_Aretha II - Ariel no Fushigi na Tabi (Beta 2).png' %})
+![Aretha II - Ariel no Fushigi na Tabi (Japan)]({% asset 'screenshots/aretha2/007_Aretha II - Ariel no Fushigi na Tabi (Japan).png' %})
 
-![Aretha II - Ariel no Fushigi na Tabi (Beta 1)]({% asset_path 'screenshots/aretha2/008_Aretha II - Ariel no Fushigi na Tabi (Beta 1).png' %})
-![Aretha II - Ariel no Fushigi na Tabi (Beta 2)]({% asset_path 'screenshots/aretha2/008_Aretha II - Ariel no Fushigi na Tabi (Beta 2).png' %})
-![Aretha II - Ariel no Fushigi na Tabi (Japan)]({% asset_path 'screenshots/aretha2/008_Aretha II - Ariel no Fushigi na Tabi (Japan).png' %})
+![Aretha II - Ariel no Fushigi na Tabi (Beta 1)]({% asset 'screenshots/aretha2/008_Aretha II - Ariel no Fushigi na Tabi (Beta 1).png' %})
+![Aretha II - Ariel no Fushigi na Tabi (Beta 2)]({% asset 'screenshots/aretha2/008_Aretha II - Ariel no Fushigi na Tabi (Beta 2).png' %})
+![Aretha II - Ariel no Fushigi na Tabi (Japan)]({% asset 'screenshots/aretha2/008_Aretha II - Ariel no Fushigi na Tabi (Japan).png' %})

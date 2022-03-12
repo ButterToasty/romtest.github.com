@@ -1,0 +1,510 @@
+I"wq<p><strong><a href="https://superfamicom.org/info/gokujou-parodius">極上パロディウス 過去の栄光を求めて</a></strong></p>
+
+<p>A very clear sample, very unfinished. The title screen has 2 slide out screens with more information that aren’t in the final. Plus all of the character screens are not complete. The options has a music test not present in the final. The internal title is <code>GOKU PARODIUS SAMPLE</code> and no game code is not listed:</p>
+
+<pre><code>---------------------Internal ROM Info----------------------
+       File: GOKU PARODIUS SAMPLE.sfc
+       Name: GOKU PARODIUS SAMPLE     Company: Konami
+     Header: None                        Bank: LoROM
+Interleaved: None                        SRAM: 0 Kb
+       Type: Normal                       ROM: 16 Mb
+    Country: Japan                      Video: NTSC
+  ROM Speed: 120ns (FastROM)         Revision: 1.0
+   Checksum: Bad 0x6248 != 0x0000   Game Code:
+---------------------------Hashes---------------------------
+      CRC32: E425BCD7
+        MD5: BC45E72D89B54342426030DCE73CC963
+      SHA-1: 0F38E5960F44BC06D4DAA6B41977DC935226E9F7
+</code></pre>
+
+<p>Whatever is listed as a Beta that is floating around now doesn’t seem very different, and at least much later than this cart.</p>
+
+<p><em>Title - Final</em>  / <em>Sample</em></p>
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="https://snes.in/screenshots/gokujou-parodius/gokujou-parodius.0.png" alt="Title - Final" title="Title - Final" />
+      </div>
+      <img src="/assets/screenshots/gokujou-parodius-japan-sample/gokujou-parodius-japan-sample-title-e09d50c2195d8eb59430314fa3cb90168e1caccd050ca7f8aef4cad8710422e2fddcf9bcaa86c50f3d5997ca055292b512f59a42fa9a4b681d9350a11d03d476.png" alt="Title - Sample" title="Title - Sample" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<p><em>Title Sign 1 &amp; 2 - Sample</em></p>
+
+<p>“The best Parodius, 極パロ end of year scheduled release (年末発売予定) buy! かってかって　but…. なんだけど。” - <a href="https://twitter.com/Gaijillionaire/status/720822237817769984">Gaijillionaire</a></p>
+
+<p><img src="/assets/screenshots/gokujou-parodius-japan-sample/gokujou-parodius-japan-sample-title-sign-1-59ebe2f19f1ecf900b95162f9671c850194d1c2b924373bf3875d0009255beff9180a6810c35fd1b2e670710ec1d0ae8d6710e0e8099061c3246abf50fbb5574.png" alt="Title - Sign 1" />
+<img src="/assets/screenshots/gokujou-parodius-japan-sample/gokujou-parodius-japan-sample-title-sign-2-7aeea63ed3d5bc1a3fb16b8ebb3f03b827d665097e099d27ab70b74782eff22faacce2d50898f83f19dfd23e6105d8585ff328ec85075c0ce7b0034edeeb3a2b.png" alt="Title - Sign 2" /></p>
+
+<p><em>Options - Final</em>  / <em>Sample</em></p>
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="https://snes.in/screenshots/gokujou-parodius/gokujou-parodius.1.png" alt="Final" title="Final" />
+      </div>
+      <img src="/assets/screenshots/gokujou-parodius-japan-sample/gokujou-parodius-japan-sample-options-7d409ef3c4dcccf1fd86aeb2f8dbfc701d10544e258f1b6032291e4ce013867125e99d9e600214fc036ae7fd475783f1859ce9aa0ed09357c875c1329ef308c3.png" alt="Sample" title="Sample" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<p><em>Intro Screen 1 - Final</em>  / <em>Sample</em></p>
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="https://snes.in/screenshots/gokujou-parodius/gokujou-parodius.2.png" alt="Intro 1 - Final" title="Intro 1 - Final" />
+      </div>
+      <img src="/assets/screenshots/gokujou-parodius-japan-sample/gokujou-parodius-japan-sample-intro-1-586320c0210ce75fbb58452688c0c7a5d5dc4d7254c512936ec022434653a1a9cdebd3d70a322f427b52b828a5d7f5b183c569fdfebef0b3783c2d7e808799bb.png" alt="Intro 1 - Sample" title="Intro 1 - Sample" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<p><em>Intro 2 &amp; 3 - Sample</em></p>
+
+<p><img src="/assets/screenshots/gokujou-parodius-japan-sample/gokujou-parodius-japan-sample-intro-2-22f1e12045ea13e14113c839e4dde825606bf0743332053436ecac79f3aacf26f671b0bc67d8b45789f074bd6d7d04f04f1750cda87f1c4a52bee34493cbeea9.png" alt="Intro 2 - Sample" />
+<img src="/assets/screenshots/gokujou-parodius-japan-sample/gokujou-parodius-japan-sample-intro-3-610408fb44579353d66e87c3d8f611206b46e1f1bb7663eba07ec31b7220ae6d0db1d1a493c4aac9e011c0497161010016158dcf7f60570e5206d7e9457850e8.png" alt="Intro 3 - Sample" /></p>
+
+<p><em>Characters - Final</em>  / <em>Sample</em></p>
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="https://snes.in/screenshots/gokujou-parodius/gokujou-parodius.3.png" alt="Character 1 - Final" title="Character 1 - Final" />
+      </div>
+      <img src="/assets/screenshots/gokujou-parodius-japan-sample/gokujou-parodius-japan-sample-characters-1-62da314c2d4cdc4525f088c775df55c3cf6d64c7d7de754acf77427b05af811f8c8d558b1ef61bf7fe294a133074da289216eadeebe3533585546a5f99d9cec9.png" alt="Character 1 - Sample" title="Character 1 - Sample" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="https://snes.in/screenshots/gokujou-parodius/gokujou-parodius.4.png" alt="Character 2 - Final" title="Character 2 - Final" />
+      </div>
+      <img src="/assets/screenshots/gokujou-parodius-japan-sample/gokujou-parodius-japan-sample-characters-2-1fb9fc9e6b75fd219c4c93abc0e867269b0dbb924e0949e98f1ed01e7af2ead4b37e1d86f46056ff8c3ce128ff25450d6e6c9e39f44eefb647ae5635173d8f99.png" alt="Character 2 - Sample" title="Character 2 - Sample" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="https://snes.in/screenshots/gokujou-parodius/gokujou-parodius.5.png" alt="Character 3 - Final" title="Character 3 - Final" />
+      </div>
+      <img src="/assets/screenshots/gokujou-parodius-japan-sample/gokujou-parodius-japan-sample-characters-3-782a71aa2b275b4374d40b5ba40f03abe6d727cf694642cb7dfadb29e0fdb0a70d5f20b994f08d74ae75733c099cae294559b6a939656ce44dd6cae7410ea09d.png" alt="Character 3 - Sample" title="Character 3 - Sample" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="https://snes.in/screenshots/gokujou-parodius/gokujou-parodius.6.png" alt="Character 4 - Final" title="Character 4 - Final" />
+      </div>
+      <img src="/assets/screenshots/gokujou-parodius-japan-sample/gokujou-parodius-japan-sample-characters-4-a638d43792d5b5fd6958001eb416a44edb9451763e3ded751dfb1d2e9a63ca84bbeb9e19087f9a79d368f02de5cacf3dbe16c766450c56f07c165c10a391927b.png" alt="Character 4 - Sample" title="Character 4 - Sample" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="https://snes.in/screenshots/gokujou-parodius/gokujou-parodius.7.png" alt="Character 5 - Final" title="Character 5 - Final" />
+      </div>
+      <img src="/assets/screenshots/gokujou-parodius-japan-sample/gokujou-parodius-japan-sample-characters-5-71f1b2918924de85b335ff2ee28f23fd884cb618cb437f105dc283c84f8af4246dd2e0690434a7e03837372c9f81b0e4a34976668bf2aede9e4650e19937eb17.png" alt="Character 5 - Sample" title="Character 5 - Sample" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="https://snes.in/screenshots/gokujou-parodius/gokujou-parodius.8.png" alt="Character 6 - Final" title="Character 6 - Final" />
+      </div>
+      <img src="/assets/screenshots/gokujou-parodius-japan-sample/gokujou-parodius-japan-sample-characters-6-22279d2817cc3901e47899d451d0370b711ce0bb82a6d2ac53d9a89cca0602fdd67c527d205a7c774fbaa5db6059befa4e27e0daf6a9a517a27832c73c39ed0f.png" alt="Character 6 - Sample" title="Character 6 - Sample" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="https://snes.in/screenshots/gokujou-parodius/gokujou-parodius.9.png" alt="Character 7 - Final" title="Character 7 - Final" />
+      </div>
+      <img src="/assets/screenshots/gokujou-parodius-japan-sample/gokujou-parodius-japan-sample-characters-7-37be24d6e0b761d5308e508453d7b5e12ada83f0df9490091e1144a9f2075851e9fbc661bff28a89f4c751c30f660455c4e8aca1a17e64aba711d0f1eee9c8cf.png" alt="Character 7 - Sample" title="Character 7 - Sample" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="https://snes.in/screenshots/gokujou-parodius/gokujou-parodius.10.png" alt="Character 8 - Final" title="Character 8 - Final" />
+      </div>
+      <img src="/assets/screenshots/gokujou-parodius-japan-sample/gokujou-parodius-japan-sample-characters-8-59e846da5cc051ae8a951315f4b38552ad7bda653862f5bfda42addcdef2eff21f59e15540efd8003069d1843c842d9bcf50bfa1df40bfac8873508bd2ecb173.png" alt="Character 8 - Sample" title="Character 8 - Sample" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="https://snes.in/screenshots/gokujou-parodius/gokujou-parodius.11.png" alt="Character 9 - Final" title="Character 9 - Final" />
+      </div>
+      <img src="/assets/screenshots/gokujou-parodius-japan-sample/gokujou-parodius-japan-sample-characters-9-edea3c8f290da03363de5d6197825858e10ce9e59bbb3f53bd2b6daac6f81db6f47158f9c08adf53d68908fc4b311c8569057ca71d2e75609d613249ee267eee.png" alt="Character 9 - Sample" title="Character 9 - Sample" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="https://snes.in/screenshots/gokujou-parodius/gokujou-parodius.12.png" alt="Character 10 - Final" title="Character 10 - Final" />
+      </div>
+      <img src="/assets/screenshots/gokujou-parodius-japan-sample/gokujou-parodius-japan-sample-characters-10-24024ad06836aa1327bfc4071b4704c588da30127b3dbb2eba00aff0bd28f4fac1e02fc9d074c1b36984c5409e1faa10a4112616887fba373807313e609c93c8.png" alt="Character 10 - Sample" title="Character 10 - Sample" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="https://snes.in/screenshots/gokujou-parodius/gokujou-parodius.13.png" alt="Character 11 - Final" title="Character 11 - Final" />
+      </div>
+      <img src="/assets/screenshots/gokujou-parodius-japan-sample/gokujou-parodius-japan-sample-characters-11-abdc513ab1ba460718373bc84e65d445de943c143fb63356bc58529b0247a6191f18fd498da5892955ec01bc12b61f9b2bfa2b1d28002d09fe29c8e09e056c8f.png" alt="Character 11 - Sample" title="Character 11 - Sample" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<p><em>Pre-Game - Sample</em></p>
+
+<p><img src="/assets/screenshots/gokujou-parodius-japan-sample/gokujou-parodius-japan-sample-characters-12-6d774d68bbda93d6981639c17f3f7f953cbacd2c81c4da46a2e1cc54bd8eba324d448ab077d349b2d3a0f0233a1aa06d5eaf2b014f88ec7000468d59308516e4.png" alt="Character 10 - Sample" /></p>
+
+<p><em>Cart Label / PCB</em></p>
+
+<p><img src="/assets/Gokujou Parodius (Japan) (Sample) - PCB &amp; Cart-2d098947ae6ae20f7052f51cbe23b44610c4cef61e1898594d5eb5501bfbcf6a4ba3590f1915995d52596b3dede5287b4eda876d12bd880cbe9edc7dc683bf4b.jpg" alt="PCB &amp; Cart" /></p>
+
+<p>A gameplay video play through played by <a href="https://www.youtube.com/channel/UCOXvfoAZZJhmDZw0boGkSYA">Kiddo Cabbusses | サテラビュー好きの外人さん</a>:</p>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/iqMAY7ZYs-o" frameborder="0" allowfullscreen=""></iframe>
+:ET

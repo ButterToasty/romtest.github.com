@@ -1,0 +1,36 @@
+I"8<p><strong><a href="https://superfamicom.org/info/sanrio-world-smash-ball">サンリオワールド スマッシュボール</a></strong></p>
+
+<p>Unfortunately same as final but on a development board. Read more about the game on <a href="https://superfamicom.org/info/sanrio-world-smash-ball">superfamicom.org</a> and <a href="http://www.snescentral.com/article.php?id=0904">SNESCentral</a>.</p>
+
+<p><img src="/assets/screenshots/sanrio-world-smash-ball-japan-sample/title-1-b1f6ae5f8f055ecbc9f0dcad528049bb97211a34eb501fd7468ba3db58e23a47412b80b04022628525a646ca1f60a908efaa4056b05a1129c2eb31b0b81b4f17.png" alt="Title" title="Title" />
+<img src="/assets/screenshots/sanrio-world-smash-ball-japan-sample/title-2-6f82f7c495a51d95ddeece1f7711c1f6ea9e5bd8400f137defc7aaf561c4fdd82dcf4da9fb591222883cd0e57679f16173f130e180fe8a9032b684cb4c39220b.png" alt="Title" title="Title" />
+<img src="/assets/screenshots/sanrio-world-smash-ball-japan-sample/title-3-02c7692709313451e3d47fd7eee92ba7d40448664348e2b11fae54367ddfc1535bdafc7ab60e0d781e1a805b4835ed3aa61080b120b9587be5b6e0db26a4a5ca.png" alt="Title" title="Title" /></p>
+
+<p><img src="/assets/screenshots/sanrio-world-smash-ball-japan-sample/in-game-1-ebd0c0fe9222f445fe60fc4966beb306750fb9783f8cbc31735db97b8feb3e326839afd4936dc31890960acd828169521641146affcb4cb85d961b2f24ee3ed7.png" alt="In Game" title="In Game" />
+<img src="/assets/screenshots/sanrio-world-smash-ball-japan-sample/in-game-2-7116be2ab467d18013b2521917e60c1fc24429abe39a71cc3cc659d7035f22b69d8af72947fedf7a76648bc78b8f40ed5871e06c903cc81523be369eb2e53d9e.png" alt="In Game" title="In Game" />
+<img src="/assets/screenshots/sanrio-world-smash-ball-japan-sample/in-game-3-8eccae0d73b00e7ba35db7f9c10c1f1584fe6b018f89a4821769cfd1f73e47189326b31531cbb1d2b0596269e95d63258214fe6329306dd3647ac0e2432df09e.png" alt="In Game" title="In Game" /></p>
+
+<p><em>ROM Info</em></p>
+
+<pre><code>---------------------Internal ROM Info----------------------
+       File: Sanrio World Smash Ball! (Japan).sfc
+       Name: SANRIO SMASH BALL!       Company: Character Soft
+     Header: None                        Bank: LoROM
+Interleaved: None                        SRAM: 0 Kb
+       Type: Normal                       ROM: 2 Mb
+    Country: Japan                      Video: NTSC
+  ROM Speed: 200ns (SlowROM)         Revision: 1.0
+   Checksum: Good 0xC100            Game Code:
+---------------------------Hashes---------------------------
+      CRC32: 0E318416
+        MD5: 9D1470F4AE1B3581EE6297380D4EB3E2
+      SHA-1: F182EB75F21E46E516CBB6E6BEF0324724BC0F04
+--------------------------Database--------------------------
+       Name: Sanrio World Smash Ball!
+    Country: Japan                   Revision: 1.0
+     Port 1: Gamepad                   Port 2: Gamepad
+    Genre 1: Unknown                  Genre 2: None
+</code></pre>
+
+<p>PCB &amp; Cart Scan coming soon!</p>
+:ET

@@ -35,7 +35,7 @@ The first game select screen is quite different, but I'm not familiar with the g
 
 There is a Music and Sprite Test in the place of the 2 penguin icon for mono or stereo. All the buttons seem to do different things here. Any feedback on what does what is welcome!
 
-![Music & Sprite Test - Sample]({% asset_path 'screenshots/pikiinya-japan-sample/sprite-test-sample.png' %} "Music & Sprite Test - Sample")
+![Music & Sprite Test - Sample]({% asset 'screenshots/pikiinya-japan-sample/sprite-test-sample.png' @path %} "Music & Sprite Test - Sample")
 
 _Game Select 2 - Final_  / _Sample_
 
@@ -49,7 +49,7 @@ The second game select screen is also quite different, but again I'm not familia
 
 The last icon has what looks like time trials for the lap game, that wasn't on this screen in the final.
 
-![Time Trial - Sample]({% asset_path 'screenshots/pikiinya-japan-sample/runner-sample.png' %} "Time Trial - Sample")
+![Time Trial - Sample]({% asset 'screenshots/pikiinya-japan-sample/runner-sample.png' @path %} "Time Trial - Sample")
 
 _Player Select - Final_  / _Sample_
 
@@ -113,4 +113,4 @@ Again the background is much more subtle in the final version, and some title ty
 
 After a soft reset there was a second title screen I couldn't get to show in the final version of the game.
 
-![Second Title - Sample]({% asset_path 'screenshots/pikiinya-japan-sample/second-title.png' %} "Second Title - Sample")
+![Second Title - Sample]({% asset 'screenshots/pikiinya-japan-sample/second-title.png' @path %} "Second Title - Sample")

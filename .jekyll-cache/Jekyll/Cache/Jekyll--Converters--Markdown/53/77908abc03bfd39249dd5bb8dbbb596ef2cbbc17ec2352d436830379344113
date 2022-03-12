@@ -1,0 +1,534 @@
+I"H�<p><strong><a href="https://superfamicom.org/info/granhistoria-genshi-sekaiki">グランヒストリア 〜幻史世界記〜</a></strong></p>
+
+<p>A very early, sample cart. Claiming to be 75% complete on the cart label. From May 16th, with a planned release date of May 31st, which it also didn’t make as it was released on June 30th, 1995.</p>
+
+<p>Some quick differences are the Debug Mode, and new added text styles and word choices in the final version. The ROM has an internal header at <code>0x7FD8</code> of <code>GRANHISTORIA</code> but the ROM, dumped many times with the same checksum, is insisting it is HiROM and not LoROM.</p>
+
+<pre><code>---------------------Internal ROM Info----------------------
+       File: Granhistoria - Genshi Sekaiki (Japan) (Sample).sfc
+       Name: _________~___________    Company: Unlicensed
+     Header: None                        Bank: HiROM
+Interleaved: None                        SRAM: 262144 Kb
+       Type: Normal                       ROM: 16 Mb
+    Country: Unknown                    Video: NTSC
+  ROM Speed: 120ns (FastROM)         Revision: 1.0
+   Checksum: Corrupt, Bad 0xCE36    Game Code:
+---------------------------Hashes---------------------------
+      CRC32: D7415D06
+        MD5: 1CAB1930BF771BDCDAB4999DBBD849F1
+      SHA-1: 85502DB9F32E64472E40F122A081B64A8037F9CC
+--------------------------Database--------------------------
+    ROM wasn't found in the database (possible bad dump).
+
+---------------------Internal ROM Info----------------------
+       File: Granhistoria - Genshi Sekaiki (Japan).sfc
+       Name: ｸﾞﾗﾝﾋｽﾄﾘｱ~ｹﾞﾝｼｾｶｲｷ~     Company: Banpresto
+     Header: None                        Bank: LoROM
+Interleaved: None                        SRAM: 64 Kb
+       Type: Normal + Batt                ROM: 16 Mb
+    Country: Japan                      Video: NTSC
+  ROM Speed: 120ns (FastROM)         Revision: 1.0
+   Checksum: Good 0xC717            Game Code: AIRJ
+---------------------------Hashes---------------------------
+      CRC32: 4AA7F384
+        MD5: DCE9998F26DE33FA4FE5586D966A4478
+      SHA-1: 9AC9496AAC5F5C2BAF277A918598B20260AA99B2
+--------------------------Database--------------------------
+       Name: Granhistoria
+    Country: Japan                   Revision: 1.0
+     Port 1: Gamepad                   Port 2: Gamepad
+    Genre 1: RPG                      Genre 2: Unknown
+</code></pre>
+
+<p><em>Title - Final</em>  / <em>Sample</em></p>
+
+<p>The title is different with the hero having a cape on and the logo letting not having a gradient as it does in in the final version.</p>
+
+<p><em>From <a href="https://twitter.com/gh_ips_patch/status/724553358703366144">gh_ips_patch</a>:</em>
+電源ON直後のメーカーロゴ</p>
+
+<p>Final：無音</p>
+
+<p>Sample：ロゴの表示と同時に音楽が再生される。</p>
+
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="/assets/screenshots/granhistoria-genshi-sekaiki-sample/title-021e3882302ce00c5d2899077dde3f69ed2f19ed08b4b8799e34b55c9366ad84ca2ce5230a96d97680dfb75fbbae46188669a55e372581e036a5f942f854b7c2.png" alt="Title - Final" title="Title - Final" />
+      </div>
+      <img src="/assets/screenshots/granhistoria-genshi-sekaiki-sample/title-sample-0cf101dff3c53e36839c52481b52fc9d4f7cbaa8eb922c09c5d46f2a6479ca7391642c0ab7080115bb52f1021eca7eacfad86782929f5ac991a87c45ed1243ff.png" alt="Title - Sample" title="Title - Sample" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<p><em>Intro - Final</em>  / <em>Sample</em></p>
+
+<p>The intro wording has changed slightly, gone from less kanji to more kanji. They typeface itself is also slightly different. The color fades in and out and was caught mid animation.</p>
+
+<p><em>From <a href="https://twitter.com/gh_ips_patch/status/724554946620739585">gh_ips_patch</a>:</em>
+OPデモに使われているシーン（映画の予告CMの様に、主要シーンがいくつか入る）が無い。歴史年表は、製品版とは別の場所を指していたりしています。</p>
+
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="/assets/screenshots/granhistoria-genshi-sekaiki-sample/intro-1-c99785ee0add9fbe6277244bce01a63ed64eeb0e9ccf600f7b3b6efb720d87726e7d41412d316cea253c0ae43058eccae894f9ec26b71dc1dcb765a3945caa84.png" alt="Intro - Final" title="Intro - Final" />
+      </div>
+      <img src="/assets/screenshots/granhistoria-genshi-sekaiki-sample/intro-1-sample-cda3a5f5d54b9938f6bc76019b6b12e0e395dd20c3ba7ed0819ae4da164818556f24dc4c3b84c9056f4bead5e415453369af165b895481db4f9253a1755e1c95.png" alt="Intro - Sample" title="Intro - Sample" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<p><em>Dialog - Final  / Sample</em></p>
+
+<p>The dialog screen is slightly more centered in the final version.</p>
+
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="/assets/screenshots/granhistoria-genshi-sekaiki-sample/dialog-e4527fa35229d439ac340e5875b4361d9a4a5f2e787843a83fef54b2bf6b8c66e3b043eb63cae18c6bb4ac51d3a5390870aa36cdf09244f32ca26f7cb4f19f33.png" alt="Dialog - Final" title="Dialog - Final" />
+      </div>
+      <img src="/assets/screenshots/granhistoria-genshi-sekaiki-sample/dialog-sample-00e465365fe6ce07596482dda9fe62a2888bf083bf5cb7881858837f00f62a49011a9226e19d9f8e0e7f2365fbcc765bd731d4131fa3fa1935f8f1d79a52b81b.png" alt="Dialog - Sample" title="Dialog - Sample" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<p><em>Orbs - Final  / Sample</em></p>
+
+<p>The orbs have changed.</p>
+
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="/assets/screenshots/granhistoria-genshi-sekaiki-sample/orbs-3cd73d862b5824e552faa9f0886031c8be16a394a79346164a1d7c7f00c2ea3cc0f41fbe101cd3109bb2ec443f77659559f142d76b616ddef3491dcd47adbfa2.png" alt="Orbs - Final" title="Orbs - Final" />
+      </div>
+      <img src="/assets/screenshots/granhistoria-genshi-sekaiki-sample/orbs-sample-43c9f82e237ecb40407a93e20b228c002c644b9d6b7ac04b851f588e932a0f839237da2dc80d8150fb829067bd9424920a6c7b63ea29ba52897fcef8cb5f421f.png" alt="Orbs - Sample" title="Orbs - Sample" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<p><em>Name Entry - Final</em>  / <em>Sample</em></p>
+
+<p>The name entry is missing the numbers in the sample version.</p>
+
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="/assets/screenshots/granhistoria-genshi-sekaiki-sample/name-entry-87e15baa340143c60c13337e15965f5c23679b7b4c31a0ff09f1396dd289236f673a39528c3a79c6caff812b4b0e85705680bc9cc882dd31bd5fefa739c772d9.png" alt="Name Entry - Final" title="Name Entry - Final" />
+      </div>
+      <img src="/assets/screenshots/granhistoria-genshi-sekaiki-sample/name-entry-sample-a3e5f91de467d528511e4d476e1f43984919707600192f2439ccb0f691d37ceef9b549102d579056d9faed7ba71b0f94bcbcbbc541dd592f7df79a08f496a795.png" alt="Name Entry - Sample" title="Name Entry - Sample" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<p><em>Final</em>  / <em>Sample</em></p>
+
+<p>The game is very different, especially the intro routine, but how or what is happening I can’t speak to. Hopefully someone knowledgable will chime in.</p>
+
+<p><strong>Update: April 25th, 2016</strong> Some kind folks have chimed in!</p>
+
+<p><em>From <a href="https://twitter.com/gh_ips_patch/status/724622262704295936">gh_ips_patch</a>:</em>
+歴史一覧の部分、製品版と結構違う（でもこれはストーリーが進行すると書き換わるので、イベントが減った/増えたとなる訳では無いと思う）</p>
+
+<p><em>From <a href="https://twitter.com/gh_ips_patch/status/724624358988083200">gh_ips_patch</a>:</em>
+セリフは、違いが沢山ありすぎて書き出せません。推敲前の文章のような、荒削りな感じを受けます。</p>
+
+<p><em>From <a href="https://twitter.com/gh_ips_patch/status/724624624827289600">gh_ips_patch</a>:</em>
+効果音が少ない。就寝時、回復アイテム使用時。</p>
+
+<p><em>From <a href="https://twitter.com/gh_ips_patch/status/724625426681749504">gh_ips_patch</a>:</em>
+盗賊の森で盗賊と戦ったあと、製品版ではイベントになるのですが、サンプル版はタンドとガイナスターが出てきて連戦になります。あっさりとゲームオーバーになりました。</p>
+
+<p>You can see more of work on typographic error restoration on their website, <a href="http://granhistoria.x0.com/">「グランヒストリア～幻史世界記～」 誤植修正ips-patch配布所 （兼、製作記録）</a>.</p>
+
+<hr />
+
+<p><em>From <a href="https://twitter.com/lianaleslie">Liana Kerr</a>:</em></p>
+
+<p>So far I just feel grateful they changed that blocky mess they were using for the typeface. There are minor differences in the text, such as changing “it’s truly like a dream” to “I’m truly happy” and spacing it better. The major differences increase emotional impact or clarify. The scene where Toll (the blue haired guy) dies particularly. He walks away slowly, the way the text is spaced is more dramatic, he says his fiancée’s name one more time (Lu). Instead of going straight to the name screen, Chronicle (white orb) explains that in this world you need a name. After naming, in the old version it reads “20 years until the end of the world” (the countdown continues through the game), Chronicle in the finished version explains that you’ve been granted 20 years, after which you can no longer stay in this world.</p>
+
+<p>Which raises even more questions, but does count as some sort of clarification to what is a confusing intro sequence. The difference I found most interesting and showed how the emotional level was increased was when Red Sphere (RS) sees Lu. He is inhabiting her fiancée’s body and they have an awkward conversation. He comments on her after she’s gone.</p>
+
+<p>Old: “Good night. So that was the girl who is to be married tomorrow?”</p>
+
+<p>New: “So that’s the girl Toll would have married tomorrow… Sleep well, poor girl…”</p>
+
+<p>Which is one of the most poignant lines in the game, I think. So I’d imagine there’s lines like that all over. From a cursory look at the villagers, they say the same things but their locations are different. So while the second screenshot you posted of talking to a villager looks very different, the content is just switched. The next big sequence also plays out a little more dramatically in the final version, though the content is about the same, because a bandit attack on a wedding to steal part of a mechanical god isn’t complete without someone yelling “Die!”.</p>
+
+<p>Then there are several differences in the timeline and character list (select 世界記 from the menu to see both). Mostly minor; one minor character was cut from the final list, and a couple more were added. Some don’t have final sprites, and there are some events shuffled around in the timeline, and some that aren’t described. It’s the saddest, most ambitious game from that era I can think of, and although it’s flawed I love it.</p>
+
+<p>There was a major change to the character screen – the very last guy, Kain, never should have been there. It’s a plot point that you don’t know anything about him at the beginning of the game. So it’s interesting he was there at all.</p>
+
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="/assets/screenshots/granhistoria-genshi-sekaiki-sample/status-3de4cdcc8a5c35d4dd5c5aeb4da0bca6337a23942b43995ca2bd5bccf6f56594915690119d3440cc1a7a9943699a8786a6369ed436ceab61595b133ce6541a57.png" alt="Status - Final" title="Status - Final" />
+      </div>
+      <img src="/assets/screenshots/granhistoria-genshi-sekaiki-sample/status-sample-9db256c5660594f4c00433410b336c1bfd933bc4fb354c0f5e63da1ab51f9efddb2e4ae6b46a40279e8d40e7f05ebce1498e556f87192b8aa1dcad29fe2f1593.png" alt="Status - Sample" title="Status - Sample" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="/assets/screenshots/granhistoria-genshi-sekaiki-sample/post-death-c7c97b8cbd3e9a894c713bc0ad94b2bd7884156269e5118fc94a3d0ab050e14e806a3c162020f788b72c029cc48ad0b4454f9fb095262fc33661402a039d7c10.png" alt="Post Death - Final" title="Post Death - Final" />
+      </div>
+      <img src="/assets/screenshots/granhistoria-genshi-sekaiki-sample/post-death-sample-da61031dc2266d7e93590327fb28b76cb01f9a976613b40508124accb649718ee943657ff97af4d2b105379c9e9082fc66d4b095565232c6dabd9789195ac5cc.png" alt="Post Death - Sample" title="Post Death - Sample" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="/assets/screenshots/granhistoria-genshi-sekaiki-sample/girl-aa0e3b01fe885c09d8ebb92d471236bf7689d62d99f99291211925a8d306e0e1effdd2cbc3a6e12637d2edcbfe013abe37f975b181ffd563c947fa62a14e8087.png" alt="Girl - Final" title="Girl - Final" />
+      </div>
+      <img src="/assets/screenshots/granhistoria-genshi-sekaiki-sample/girl-sample-6217bef1f1a65ff662d09ce51b04e68dfa51b9f98d1b2815ed792ba1cb59e6f2b31d705eb39a7d9136919da62d67c19d9d91a772a59be7df067c377c79952b14.png" alt="Girl - Sample" title="Girl - Sample" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="/assets/screenshots/granhistoria-genshi-sekaiki-sample/man-7acca3f6e93e2df7d362b246521ffcad0964f8ea573dc8daa6fdbd13d0427751a65cab6804f6b7dd415797b9ac02aba620bad09723a809a2453b0b78292b4704.png" alt="Man - Final" title="Man - Final" />
+      </div>
+      <img src="/assets/screenshots/granhistoria-genshi-sekaiki-sample/man-sample-214a5593ba4978cdbbfc162541d192fedf631a24f92651d6c6e04cfe98a78ed7b9dded26f59ecc22de16fdfbc7fcce8edb0d527886a0d61bc462906d41534f54.png" alt="Man - Sample" title="Man - Sample" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="/assets/screenshots/granhistoria-genshi-sekaiki-sample/entry-1-6c754b1b45c0b94e1868ad6f724178aa9137360498311ad1b9b6aed41b7ebac54cab21c246c16993ab11cb8f935b9799f3044a3b660921fbf0f57882c41163d6.png" alt="Entry 1 - Final" title="Entry 1 - Final" />
+      </div>
+      <img src="/assets/screenshots/granhistoria-genshi-sekaiki-sample/entry-1-sample-90bf6d9182f779a41bfbabd69fe1f9da191532173f24bf447d2448f826a273845333a1384615ca045cabb992ba859cf4ef65dd1f63a17c5a077fa9e65799cf88.png" alt="Entry 1 - Sample" title="Entry 1 - Sample" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="/assets/screenshots/granhistoria-genshi-sekaiki-sample/entry-2-9382c8b5f4e1f7adc28d6bfeef63f1d4b3f70ae743a8d8f44db24fccca4bf0d438946bf28d71b499d64c3fca7017ff03d3330a37eab00fbe45f7ba332b425c55.png" alt="Entry 2 - Final" title="Entry 2 - Final" />
+      </div>
+      <img src="/assets/screenshots/granhistoria-genshi-sekaiki-sample/entry-2-sample-2169600e06997743c1fbc33d1053677edf3c5b5b4484ac948e440e49a81afca92802257aa96f0cd54e32a3a065f28df7203bd9b2e33d24cf6c58a669727084d0.png" alt="Entry 2 - Sample" title="Entry 2 - Sample" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="/assets/screenshots/granhistoria-genshi-sekaiki-sample/entry-2-1-5e47bb9221aa57438304bbf4e0bc0c25c126611474fbcebde3b19e990a89a5ed46af0933d8649ab453825bb837b8abc2174f5a210a98d6d8b33f131740f4b154.png" alt="Entry 2B - Final" title="Entry 2B - Final" />
+      </div>
+      <img src="/assets/screenshots/granhistoria-genshi-sekaiki-sample/entry-2-1-sample-4bba376a3c545a8cbefd92ba515b8e504edec49365a8d9111d79bff64b4b4068a2d55fbfd1c5038c9f5128e14bdb756bc867ab83a0523f40d6672589c7be5455.png" alt="Entry 2B - Sample" title="Entry 2B - Sample" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<p><em>Debug Mode</em></p>
+
+<p>Hitting the <code>Y Button</code> cycles through maps, mostly breaking the actual game play but sometimes you can walk around and interact which is neat considering the game is hard to play without knowing Japanese.</p>
+
+<p><img src="/assets/screenshots/granhistoria-genshi-sekaiki-sample/debug-00-f92550eb694379c78fe849e44c394de4574cb105ed8e3a1fb9756705774d487419268b8a223d374ea0ee5938622efb87e61e01ab459ab9a38ff88912eec71d89.png" alt="Debug Mode" title="Debug Mode" />
+<img src="/assets/screenshots/granhistoria-genshi-sekaiki-sample/debug-01-0a06fa28dc32d4bf5afeaed14685b9e72f310487a2166b3e31d8a42e254cbb7c768c1244b40df2bf53139b8a9a60025e8e6c14a98ae69f3232532cbbd11c3249.png" alt="Debug Mode" title="Debug Mode" />
+<img src="/assets/screenshots/granhistoria-genshi-sekaiki-sample/debug-03-0ccbd38eeea2af89cba68367f4b976dd8f535529634870e14b687973574b1d5359c42f83157f7b58d18395d57e3802fe490cd3b1ff1dab1521dcd5461e12fda3.png" alt="Debug Mode" title="Debug Mode" /></p>
+
+<p><img src="/assets/screenshots/granhistoria-genshi-sekaiki-sample/debug-04-28faa540cbdfd42d1183e553147c7cfa5d03d8b2a1909182935ed49078db3ecae2fcaac7936c7628bf33266595331f38245371ca3ede5820cc4e235f64977306.png" alt="Debug Mode" title="Debug Mode" />
+<img src="/assets/screenshots/granhistoria-genshi-sekaiki-sample/debug-06-5be1c990e7f71be0bd89fed988822c2dcb0e2483f0c97baf2c6368897f014d15e320e25bc257f0691a5fafc7d2b388e456123aaff3de7512839d90aef7832ab6.png" alt="Debug Mode" title="Debug Mode" />
+<img src="/assets/screenshots/granhistoria-genshi-sekaiki-sample/debug-07-a300fb864fb3b09f3a0791cb25fc318ba01487dc2f2b9b137ecba276a6908b91ff652e511eea680b6b1dd3269179a98d34dc490344e716c5e08055e96e3941ca.png" alt="Debug Mode" title="Debug Mode" /></p>
+
+<p><img src="/assets/screenshots/granhistoria-genshi-sekaiki-sample/debug-08-f25c6bb4bd8e37daeb6adde1a1ce473307a7101c9044de633f7c545b6fcdfddaf9e856e2ef367108ad0ad4b96ff01286bae3f99d0f7547f29ccfb4bb0fc05c0f.png" alt="Debug Mode" title="Debug Mode" />
+<img src="/assets/screenshots/granhistoria-genshi-sekaiki-sample/debug-09-8ff4cd749d2210a4ad3405239d9a60d07f2c3b0a7c26a31a92bdafd5e346eb1c70ea23f69795226b1ac9edc573e3c287377881be7cb61e98937ba887189b1716.png" alt="Debug Mode" title="Debug Mode" />
+<img src="/assets/screenshots/granhistoria-genshi-sekaiki-sample/debug-10-a731b202bbcecd1a856aa5d5b2826f98172d3d5c2a68f5fa7987861ab6f85396cc51905fba036af20c96f145558efc757822a5f7309cf08cba015a698f4a969e.png" alt="Debug Mode" title="Debug Mode" /></p>
+
+<p><img src="/assets/screenshots/granhistoria-genshi-sekaiki-sample/debug-11-5689850b5e438e1468621a59d7beb8b07998615519d50798a3716efa3c88d2065fb2d6f9709e6a8529efcab5ae1a427e12f5c98e7260279b96e913653584504e.png" alt="Debug Mode" title="Debug Mode" />
+<img src="/assets/screenshots/granhistoria-genshi-sekaiki-sample/debug-12-feeb36429603af72b8fdb3b824497ba33f44f299cb6d918080f9ec5d934be965dfbb1d343f9a690fd4499d0b046efdcf50ae4e902b63e70a19b8c6a25ae2b941.png" alt="Debug Mode" title="Debug Mode" />
+<img src="/assets/screenshots/granhistoria-genshi-sekaiki-sample/debug-13-b7c2c0454a7d921f5428a1e62ddb56125cd761b3da4ce2dd24644a1a3f9f12d537eb157ed9c1c017bd1ebdf0fe346cba3cd0414227a139b0b35b13c924313769.png" alt="Debug Mode" title="Debug Mode" /></p>
+
+<p><img src="/assets/screenshots/granhistoria-genshi-sekaiki-sample/debug-14-718db130105f26da27b25279b77c3e942daeed9a8216b9b88ca3bd251e9484fa34f17a824cd544eb00d1e4d0a7907985718105dda1106063718689ac1876fe7e.png" alt="Debug Mode" title="Debug Mode" />
+<img src="/assets/screenshots/granhistoria-genshi-sekaiki-sample/debug-15-99b92e28fdc9d6142d04e2588d211b6db9fb720f92c7e0d698b58400ac1195ec55e5b516fce79917fbaf0254ebddba4001b3de79800d10408fcbfac566a9cb42.png" alt="Debug Mode" title="Debug Mode" />
+<img src="/assets/screenshots/granhistoria-genshi-sekaiki-sample/debug-16-888638bc4ec888aec238e27df877a7dabc41831c9e0985e051abafcdbd3f187a29eb5ec7bef9ae401a8cfe9b538640ff9913c7c914e836bd295c53ff64dcd534.png" alt="Debug Mode" title="Debug Mode" /></p>
+
+<p>If you happen to know the game well and find more differences, or can translate any of the screen shots above- <a href="https://github.com/MatthewCallis/eludevisibility.org">please update this post on GitHub</a> or contact me!</p>
+
+<p><img src="/assets/Granhistoria (Japan) (Sample) - Cart Front-52206568def6f1608526225b9e03b4d6356122ddc40c9363317ba9de5527404a49ebef010e1ef31112354f56370165eb53f46a9e7a50615b0b446a8c239e4944.jpg" alt="Granhistoria (Japan) (Sample) - Cart Front" title="Granhistoria (Japan) (Sample) - Cart Front" /></p>
+:ET

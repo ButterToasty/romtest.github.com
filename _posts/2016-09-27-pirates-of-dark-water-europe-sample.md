@@ -15,13 +15,13 @@ __[The Pirates of Dark Water](https://superfamicom.org/info/the-pirates-of-dark-
 
 This is a PAL sample, different than the [USA Prototype on SNESCentral](http://www.snescentral.com/review.php?id=0549&num=0&fancy=yes&article=proto), but another copy of the [white label version](http://www.snescentral.com/review.php?id=0549&num=1&fancy=yes&article=proto). Apart from being in a case, there are only a handful of differences between all the versions I compared: *USA Prototype*, *Europe* and *Europe Sample*. For the most part, the *USA Prototype* matched the *Europe* final closer than the *Europe Sample* did.
 
-_Titles - USA Prototype_  / _Europe_  / _Europe Sample_
+*Titles - USA Prototype*  / *Europe*  / *Europe Sample*
 
 The *Europe Sample*  title has the string `SAMPLE VERSION` clearly at the top. The missing `PRESS START` is simply not picture as it blinks in all version.
 
-![USA Prototype Title]({% asset_path 'screenshots/pirates-of-dark-water-europe-sample/usa-prototype-title.png' %} "USA Prototype Title")
-![Europe Title]({% asset_path 'screenshots/pirates-of-dark-water-europe-sample/europe-title.png' %} "Europe Title")
-![Europe Sample Title]({% asset_path 'screenshots/pirates-of-dark-water-europe-sample/europe-sample-title.png' %} "Europe Sample Title")
+![USA Prototype Title]({% asset 'screenshots/pirates-of-dark-water-europe-sample/usa-prototype-title.png' @path %} "USA Prototype Title")
+![Europe Title]({% asset 'screenshots/pirates-of-dark-water-europe-sample/europe-title.png' @path %} "Europe Title")
+![Europe Sample Title]({% asset 'screenshots/pirates-of-dark-water-europe-sample/europe-sample-title.png' @path %} "Europe Sample Title")
 
 {% include compare_local.html
     name_1='Title - Europe Sample'
@@ -30,7 +30,7 @@ The *Europe Sample*  title has the string `SAMPLE VERSION` clearly at the top. T
     image_2='screenshots/pirates-of-dark-water-europe-sample/europe-title.png'
 %}
 
-_License - USA Prototype_  / _Europe Sample_
+*License - USA Prototype*  / *Europe Sample*
 
 As noted on [SNESCentral](http://www.snescentral.com/review.php?id=0549&num=0&fancy=yes&article=proto) the license screen has been shuffled around, moving the license string `LICENSED BY NINTENDO` to the title screen.
 
@@ -41,7 +41,7 @@ As noted on [SNESCentral](http://www.snescentral.com/review.php?id=0549&num=0&fa
     image_2='screenshots/pirates-of-dark-water-europe-sample/usa-prototype-license.png'
 %}
 
-_Options - USA Prototype_  / _Europe Sample_
+*Options - USA Prototype*  / *Europe Sample*
 
 The *Europe Sample* has a `LEVEL SELECT`, as seen on [The Cutting Room Floor article](https://tcrf.net/The_Pirates_of_Dark_Water_(SNES)) that lets you toggle between `01`, `04` and `05`, this is missing from the *USA Prototype* version.
 
@@ -52,7 +52,7 @@ The *Europe Sample* has a `LEVEL SELECT`, as seen on [The Cutting Room Floor art
     image_2='screenshots/pirates-of-dark-water-europe-sample/usa-prototype-options.png'
 %}
 
-_Game Select - USA Prototype_  / _Europe Sample_
+*Game Select - USA Prototype*  / *Europe Sample*
 
 The *Europe Sample* has the options higher up, which is harder to read.
 
@@ -63,7 +63,7 @@ The *Europe Sample* has the options higher up, which is harder to read.
     image_2='screenshots/pirates-of-dark-water-europe-sample/usa-prototype-select.png'
 %}
 
-_Level 1 - Dragon's Maw - USA Prototype_  / _Europe Sample_
+*Level 1 - Dragon's Maw - USA Prototype*  / *Europe Sample*
 
 The *USA Prototype* appears to have no shadow under the player, but is otherwise the same from what I saw. The flying creatures are randomly placed in the background.
 
@@ -74,19 +74,19 @@ The *USA Prototype* appears to have no shadow under the player, but is otherwise
     image_2='screenshots/pirates-of-dark-water-europe-sample/usa-prototype-level-1.png'
 %}
 
-_Screenshots_
+*Screenshots*
 
-![Sunsoft Logo]({% asset_path 'screenshots/pirates-of-dark-water-europe-sample/europe-sample-sunsoft.png' %})
-![Intro Text]({% asset_path 'screenshots/pirates-of-dark-water-europe-sample/europe-sample-intro-text.png' %})
-![Frame 1]({% asset_path 'screenshots/pirates-of-dark-water-europe-sample/europe-sample-frame-1.png' %})
-![Frame 2]({% asset_path 'screenshots/pirates-of-dark-water-europe-sample/europe-sample-frame-2.png' %})
-![Ren Bio]({% asset_path 'screenshots/pirates-of-dark-water-europe-sample/europe-sample-ren-bio.png' %})
-![Character Select]({% asset_path 'screenshots/pirates-of-dark-water-europe-sample/europe-sample-character-select.png' %})
-![Map 1]({% asset_path 'screenshots/pirates-of-dark-water-europe-sample/europe-sample-map-1.png' %})
-![Map 2]({% asset_path 'screenshots/pirates-of-dark-water-europe-sample/europe-sample-map-2.png' %})
-![Level 5]({% asset_path 'screenshots/pirates-of-dark-water-europe-sample/europe-sample-level-5.png' %})
+![Sunsoft Logo]({% asset 'screenshots/pirates-of-dark-water-europe-sample/europe-sample-sunsoft.png' @path %})
+![Intro Text]({% asset 'screenshots/pirates-of-dark-water-europe-sample/europe-sample-intro-text.png' @path %})
+![Frame 1]({% asset 'screenshots/pirates-of-dark-water-europe-sample/europe-sample-frame-1.png' @path %})
+![Frame 2]({% asset 'screenshots/pirates-of-dark-water-europe-sample/europe-sample-frame-2.png' @path %})
+![Ren Bio]({% asset 'screenshots/pirates-of-dark-water-europe-sample/europe-sample-ren-bio.png' @path %})
+![Character Select]({% asset 'screenshots/pirates-of-dark-water-europe-sample/europe-sample-character-select.png' @path %})
+![Map 1]({% asset 'screenshots/pirates-of-dark-water-europe-sample/europe-sample-map-1.png' @path %})
+![Map 2]({% asset 'screenshots/pirates-of-dark-water-europe-sample/europe-sample-map-2.png' @path %})
+![Level 5]({% asset 'screenshots/pirates-of-dark-water-europe-sample/europe-sample-level-5.png' @path %})
 
-_ROM Info_
+*ROM Info*
 
 ```
 ---------------------Internal ROM Info----------------------
@@ -162,5 +162,5 @@ Interleaved: None                        SRAM: 0 Kb
 
 If you happen to know the game well and find more differences, or can translate any of the screen shots above- [please update this post on GitHub](https://github.com/MatthewCallis/eludevisibility.org) or contact me!
 
-![The Pirates of Dark Water (USA) (Sample) - Cart]({% asset_path "The Pirates of Dark Water (USA) (Sample) - Cart.jpg" %} "The Pirates of Dark Water (USA) (Sample) - Cart")
-![The Pirates of Dark Water (USA) (Sample) - PCB Front]({% asset_path "The Pirates of Dark Water (USA) (Sample) - PCB Front.jpg" %} "The Pirates of Dark Water (USA) (Sample) - PCB Front")
+![The Pirates of Dark Water (USA) (Sample) - Cart]({% asset "The Pirates of Dark Water (USA) (Sample) - Cart.jpg" @path %} "The Pirates of Dark Water (USA) (Sample) - Cart")
+![The Pirates of Dark Water (USA) (Sample) - PCB Front]({% asset "The Pirates of Dark Water (USA) (Sample) - PCB Front.jpg" @path %} "The Pirates of Dark Water (USA) (Sample) - PCB Front")

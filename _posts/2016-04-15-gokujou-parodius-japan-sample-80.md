@@ -45,8 +45,8 @@ _Title Sign 1 & 2 - Sample_
 
 "The best Parodius, 極パロ end of year scheduled release (年末発売予定) buy! かってかって　but.... なんだけど。" - [Gaijillionaire](https://twitter.com/Gaijillionaire/status/720822237817769984)
 
-![Title - Sign 1]({% asset_path 'screenshots/gokujou-parodius-japan-sample/gokujou-parodius-japan-sample-title-sign-1.png' %})
-![Title - Sign 2]({% asset_path 'screenshots/gokujou-parodius-japan-sample/gokujou-parodius-japan-sample-title-sign-2.png' %})
+![Title - Sign 1]({% asset 'screenshots/gokujou-parodius-japan-sample/gokujou-parodius-japan-sample-title-sign-1.png' @path %})
+![Title - Sign 2]({% asset 'screenshots/gokujou-parodius-japan-sample/gokujou-parodius-japan-sample-title-sign-2.png' @path %})
 
 _Options - Final_  / _Sample_
 {% include compare.html
@@ -66,8 +66,8 @@ _Intro Screen 1 - Final_  / _Sample_
 
 _Intro 2 & 3 - Sample_
 
-![Intro 2 - Sample]({% asset_path 'screenshots/gokujou-parodius-japan-sample/gokujou-parodius-japan-sample-intro-2.png' %})
-![Intro 3 - Sample]({% asset_path 'screenshots/gokujou-parodius-japan-sample/gokujou-parodius-japan-sample-intro-3.png' %})
+![Intro 2 - Sample]({% asset 'screenshots/gokujou-parodius-japan-sample/gokujou-parodius-japan-sample-intro-2.png' @path %})
+![Intro 3 - Sample]({% asset 'screenshots/gokujou-parodius-japan-sample/gokujou-parodius-japan-sample-intro-3.png' @path %})
 
 _Characters - Final_  / _Sample_
 {% include compare.html
@@ -149,11 +149,11 @@ _Characters - Final_  / _Sample_
 
 _Pre-Game - Sample_
 
-![Character 10 - Sample]({% asset_path 'screenshots/gokujou-parodius-japan-sample/gokujou-parodius-japan-sample-characters-12.png' %})
+![Character 10 - Sample]({% asset 'screenshots/gokujou-parodius-japan-sample/gokujou-parodius-japan-sample-characters-12.png' @path %})
 
 _Cart Label / PCB_
 
-![PCB & Cart]({% asset_path 'Gokujou Parodius (Japan) (Sample) - PCB & Cart.jpg' %})
+![PCB & Cart]({% asset 'Gokujou Parodius (Japan) (Sample) - PCB & Cart.jpg' @path %})
 
 A gameplay video play through played by [Kiddo Cabbusses | サテラビュー好きの外人さん](https://www.youtube.com/channel/UCOXvfoAZZJhmDZw0boGkSYA):
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/iqMAY7ZYs-o" frameborder="0" allowfullscreen></iframe>

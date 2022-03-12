@@ -1,0 +1,15 @@
+I"�
+<p>Update 2018: The more appropriate page for this is now at the <a href="https://wiki.superfamicom.org/space-funky-b.o.b.">Space Funky B.O.B.</a> page on the <a href="https://wiki.superfamicom.org/">Super Famicom Development Wiki</a>.</p>
+
+<p>Well, well. What have we here? Is this a first? Maybe. Hopefully. So what is it? It’s the source code to the <a href="https://superfamicom.org/">Super Nintendo</a> game <a href="https://superfamicom.org/info/space-funky-bob">Space Funky B.O.B.</a>. from Electronic Arts / Gray Matter. This is an early game for the system, and you can really tell with the equipment and software used, more on this in a bit. I haven’t tried to compile the game, I don’t know if the compiler they used is included. The files included range from the original MIDI version of some songs, to RAW format graphics to various types of sources to some fun developers notes.</p>
+
+<p>Some of the software that was on the disks used is old, but what’s odd is that some of it is used to emulate even OLDER hardware, the Apple II. The Apple II emulator includes some files, but never having used that computer, I myself started with Windows 3.1, I’ll let some investigative readers figure that out. Some of the other software included is ICE, which I have gotten to work only once, it was an interactive debugger setup. Next, we have SLUGGO. I couldn’t find anything online about it in 30 seconds of searching. From the READ.ME included it seems to be the Sluggo III which looks to be a ROM emulator, and not much else.</p>
+
+<p>If you would like to help, the best thing to do as of right now is to please link to this page or the main page and NOT link to other sites; if for whatever reason my link goes down or my site get shut off, this will change (duh) but right now let’s stick with this. If you would like to help by donating anything from money to books to software to hardware, contact me over on the contacts page or donate to gapetto at gmail via PayPal. Thank you and as always, enjoi!</p>
+
+<p><em>Screenshots</em></p>
+
+<p><img src="/assets/screenshots/space-funky-bob-source-code/space-funky-bob.0-1edf23d7a6e123789344903ff11ef71a53487f89b9b52aad9c6374ebaffe8e673ebbca9ba9f5063f26ae2e8fb836636fae587bdd5f411f8648a4558ec748468c.png" alt="Screenshot" />
+<img src="/assets/screenshots/space-funky-bob-source-code/space-funky-bob.1-ac9921b6b7a7143343a68cca5e47c54d4a7f4d5b759fff71d9f8a2761d5e9a028b977afb82fced0eb43546f7665478bdb09936b6405d599776f3c9630fc40ae6.png" alt="Screenshot" />
+<img src="/assets/screenshots/space-funky-bob-source-code/space-funky-bob.2-c08ccc24d46ebfc22d4e7f1b86ba6cf1c8e48ad39b4d2d0172a1ec2da4b130e2555d2a7266259beddc1e142af62eff01db3319db45ce5b648aef4a22bc52d66c.png" alt="Screenshot" /></p>
+:ET

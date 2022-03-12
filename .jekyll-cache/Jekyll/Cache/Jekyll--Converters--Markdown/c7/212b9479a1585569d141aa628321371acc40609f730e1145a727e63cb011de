@@ -1,0 +1,176 @@
+I"�/<p>Long time no post :P. Regardless I’ve got something fun, pricey and <a href="https://superfamicom.org/info/ganbare-goemon-yuki-hime-kyuushutsu-emaki/" title="Ganbare Goemon - Yuki Hime Kyuushutsu Emaki">Goemon</a>…  <a href="https://superfamicom.org/info/ganbare-goemon-3-shishi-juuroku-hyoue-no-karakuri-manjigatame/" title="Ganbare Goemon 3 - Shishi Juuroku Hyoue no Karakuri Manjigatame">Ganbare Goemon 3 - Shishi Juuroku Hyoue no Karakuri Manjigatame</a>!</p>
+
+<p>This along with <a href="https://superfamicom.org/info/gokujou-parodius/" title="Gokujou Parodius - Kako no Eikou o Motomete (Japan)">Gokujou Parodius - Kako no Eikou o Motomete (Japan)</a> were on Yahoo! and went really high, higher than I wanted to go. None the less, very worth it. At first glance, just slight differences, events slightly off, doors don’t slide open, pixel placement different… boring, basically final. BUT WAIT! <strong>Debug fly mode!</strong>!</p>
+
+<p>In debug mode you can fly around, getting to any area quickly, but hitting the L trigger. You can also hit L trigger and max out your money. There’s probably more to it, but it’s hard to play without being able to read it.</p>
+
+<p><img src="/assets/screenshots/goemon3/ganbare-goemon-3.float-f58f3093d7bdcf00ab45976e14248c26b5e293cdddd0521b526433a2898442b3f5fc8e0003b302db0c0c6cc73a7a1358c00db4f969ece5e3d5f5a675a3f306b8.png" alt="Ganbare Goemon 3 - Shishi Juuroku Hyoue no Karakuri Manjigatame Debug" title="Ganbare Goemon 3 - Shishi Juuroku Hyoue no Karakuri Manjigatame Debug" /></p>
+
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="/assets/screenshots/goemon3/ganbare-goemon-3.0-c272c7ad280659d61d90c6b276266d16faf641bd960c1909cdbafaf5905b057304f3e4863c25016a7a1de852786b46f1dfbdb4642fe40c5671ba64dbc4f294e1.png" alt="Ganbare Goemon 3 - Shishi Juuroku Hyoue no Karakuri Manjigatame" title="Ganbare Goemon 3 - Shishi Juuroku Hyoue no Karakuri Manjigatame" />
+      </div>
+      <img src="/assets/screenshots/goemon3/ganbare-goemon-3-sample.0-e62525b89b51b7c895443c6751eca570fea028384a7de5d9750cd38ebfd6e039c146d001a726ef0169e5ccfbc688d50d777a20297333ba9ac97bdff76af60092.png" alt="Ganbare Goemon 3 - Shishi Juuroku Hyoue no Karakuri Manjigatame - Sample" title="Ganbare Goemon 3 - Shishi Juuroku Hyoue no Karakuri Manjigatame - Sample" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="/assets/screenshots/goemon3/ganbare-goemon-3.1-67eff53e03cf9e8f343fcb92e771d1395b9f8038756f521284ed525815032aae3083f5b4d33c6ba3dbbd530f88ab8ca21596980f8507d3cbf20fd2cd6149cd61.png" alt="Ganbare Goemon 3 - Shishi Juuroku Hyoue no Karakuri Manjigatame" title="Ganbare Goemon 3 - Shishi Juuroku Hyoue no Karakuri Manjigatame" />
+      </div>
+      <img src="/assets/screenshots/goemon3/ganbare-goemon-3-sample.1-a389db88e79a41c01424b5123d63ff7e3fbadcf5d3cd0823fac2b849cb14bbcc1ea7a91396a18a6e2cdfccf202969508c120d9e5510c314daa0f9f676b8543b2.png" alt="Ganbare Goemon 3 - Shishi Juuroku Hyoue no Karakuri Manjigatame - Sample" title="Ganbare Goemon 3 - Shishi Juuroku Hyoue no Karakuri Manjigatame - Sample" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="/assets/screenshots/goemon3/ganbare-goemon-3.2-5347e7fa0a1de10274327fe01285359aaf1bf5e135b3a8ec52f464bb4a36e549bb7be1d0dfaaa3e35a26974398d5f1573b556b9424f4d5d4f5a11b0b4a1a5fd1.png" alt="Ganbare Goemon 3 - Shishi Juuroku Hyoue no Karakuri Manjigatame" title="Ganbare Goemon 3 - Shishi Juuroku Hyoue no Karakuri Manjigatame" />
+      </div>
+      <img src="/assets/screenshots/goemon3/ganbare-goemon-3-sample.2-dcc4d4651a814219a8714c56e776c5b5b321c2f998409bfb59af34002c1c73cc93326657f8c07740a9dc1a112accbcd99579eb04e77375f7e331ad66ee0f40e8.png" alt="Ganbare Goemon 3 - Shishi Juuroku Hyoue no Karakuri Manjigatame - Sample" title="Ganbare Goemon 3 - Shishi Juuroku Hyoue no Karakuri Manjigatame - Sample" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="/assets/screenshots/goemon3/ganbare-goemon-3.3-7f5bc4204f4a0705aa91cff7bf67611a7079e2e2f82b2f462078acc8fce870e40ac94d8983be8c403d79fe545a8a56538cc0995ba3c513d3b95fad4477c33b14.png" alt="Ganbare Goemon 3 - Shishi Juuroku Hyoue no Karakuri Manjigatame" title="Ganbare Goemon 3 - Shishi Juuroku Hyoue no Karakuri Manjigatame" />
+      </div>
+      <img src="/assets/screenshots/goemon3/ganbare-goemon-3-sample.3-7f8a2153e2cb7cc7f523de09c0212f54935b571bb1d6e9e336be987cc58b47e328300161ff9e8b99748f98d09ddcaf43deee0bb7ed96f0ff145031d68dbf5df2.png" alt="Ganbare Goemon 3 - Shishi Juuroku Hyoue no Karakuri Manjigatame - Sample" title="Ganbare Goemon 3 - Shishi Juuroku Hyoue no Karakuri Manjigatame - Sample" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="/assets/screenshots/goemon3/ganbare-goemon-3.4-ed799d2c7ba7262425a077f519c422180ce3bdc9fd53b9c8e0fcae17b042f033da17cfd4ba92eea57fc5bc0b2f7813785d77b72ccb561e2fb68004a5501add2a.png" alt="Ganbare Goemon 3 - Shishi Juuroku Hyoue no Karakuri Manjigatame" title="Ganbare Goemon 3 - Shishi Juuroku Hyoue no Karakuri Manjigatame" />
+      </div>
+      <img src="/assets/screenshots/goemon3/ganbare-goemon-3-sample.4-9898066b0b9d8f0142a57e70d1d1574b06702a85a6530920a948513d3eb156ed341f72e0344262e70c2f85b1553b18336f87993265f4b17a0af628f828834b7e.png" alt="Ganbare Goemon 3 - Shishi Juuroku Hyoue no Karakuri Manjigatame - Sample" title="Ganbare Goemon 3 - Shishi Juuroku Hyoue no Karakuri Manjigatame - Sample" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<p>A gameplay video play through played by <a href="https://www.youtube.com/channel/UCOXvfoAZZJhmDZw0boGkSYA">Kiddo Cabbusses | サテラビュー好きの外人さん</a>:</p>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/3Edn8j8Emd4" frameborder="0" allowfullscreen=""></iframe>
+:ET

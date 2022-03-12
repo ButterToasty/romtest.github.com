@@ -1,0 +1,65 @@
+I"A<p><strong><a href="https://superfamicom.org/info/haou-taikei-ryuu-knight-lord-of-paladin">覇王大系リューナイト ロードオブパラディン</a></strong></p>
+
+<p>The ROM is different but the differences are not immediately apparent.</p>
+
+<p><img src="/assets/screenshots/haou-taikei-ryuu-knight-lord-of-paladin-japan-prototype/title-8383809ff32f815fc987fdbe9f80da7b179179a49477e11eaf718053973d2cddc2007d211a7130f2b3bf0483b8f470f1a4b907603ec39f5d9d7b8907553e9bc5.png" alt="Title" title="Title" />
+<img src="/assets/screenshots/haou-taikei-ryuu-knight-lord-of-paladin-japan-prototype/intro-7b56185b72109a0339865b8b6e1c0233753190679b631af3ef1159390a0bf3e446890228568f109d8fb3063ddd0bffd3e89563f637ba97dcfd7d1f296ad78082.png" alt="Intro" title="Intro" />
+<img src="/assets/screenshots/haou-taikei-ryuu-knight-lord-of-paladin-japan-prototype/dialog-1-4d864b286b62e815f6d613651c482d4020d48b40a21c66657ef63fabc691b4202ca85ecf284175f098728117fe257e40e607454e343bdb5a09bc669fb4d0b807.png" alt="Dialog 1" title="Dialog 1" />
+<img src="/assets/screenshots/haou-taikei-ryuu-knight-lord-of-paladin-japan-prototype/dialog-2-402b8ff92f5801a03704eaa3554ed437d6c74be40cc74bf7a1cbee850c400096094a163ada5bd55ca7e92c2276061b537680e3c8f7b9a1d0cda2b402a97f2743.png" alt="Dialog 2" title="Dialog 2" />
+<img src="/assets/screenshots/haou-taikei-ryuu-knight-lord-of-paladin-japan-prototype/map-d6c7f5c2726e101b462d4bcef5645d8e3e97ebfd18b86dfc21e30d90aff7a84373ce8013f621f15ffef9e787d35e4d8c694a07d733fc0a2dc8298d01246ac679.png" alt="Map" title="Map" />
+<img src="/assets/screenshots/haou-taikei-ryuu-knight-lord-of-paladin-japan-prototype/menu-ff97f6d87b3f27693f83d91bd0ac47f609dde7b4ce8fd650887579e273a85b6d3c611628b8877437013939ad1b903d4648df8e36ccc4267dfb749eeaff91038a.png" alt="Menu" title="Menu" />
+<img src="/assets/screenshots/haou-taikei-ryuu-knight-lord-of-paladin-japan-prototype/stats-1-cee9b75c8829f4ece4954976dce1b0e48ea721b5b458b276e9b079344afaa1b14000424e03833927fe54c0bef85b265f08495716198f829131be8d9ee4823f94.png" alt="Stats 1" title="Stats 1" />
+<img src="/assets/screenshots/haou-taikei-ryuu-knight-lord-of-paladin-japan-prototype/stats-2-31551160363181b7e3c222087109908a2823dd061cac87a0099b652c468630e441062a5a796377523176993d3edbe727386057b71bbd0298b5d28d58892bbbc3.png" alt="Stats 2" title="Stats 2" /></p>
+
+<p><em>SRAM Strings</em></p>
+
+<p>The SRAM that came on the cart:</p>
+
+<pre><code>0x0000: Ver 0.0 r_knight
+</code></pre>
+
+<p>The SRAM from the current ROM on save and the final ROM:</p>
+
+<pre><code>0x0000: Ver 0.4 r_knight
+</code></pre>
+
+<p><em>ROM Info</em></p>
+
+<pre><code>---------------------Internal ROM Info----------------------
+       File: Haou Taikei - Ryuu Knight (Japan).sfc
+       Name: ﾊｵｳﾀｲｹｲ ﾘｭｰﾅｲﾄ LOP 1    Company: Bandai
+     Header: None                        Bank: LoROM
+Interleaved: None                        SRAM: 64 Kb
+       Type: Normal + Batt                ROM: 12 Mb
+    Country: Japan                      Video: NTSC
+  ROM Speed: 200ns (SlowROM)         Revision: 1.0
+   Checksum: Good 0xC3C2            Game Code: UR
+---------------------------Hashes---------------------------
+      CRC32: B7B6BEF7
+        MD5: F6B18C51FB4B704B2C56A5D8E6C0B299
+      SHA-1: 221305F1E5913C7876B89D4A5D56406275E143A7
+--------------------------Database--------------------------
+       Name: Haou Taikei Ryuu Knight
+    Country: Japan                   Revision: 1.0
+     Port 1: Gamepad                   Port 2: Gamepad
+    Genre 1: RPG                      Genre 2: Unknown
+
+---------------------Internal ROM Info----------------------
+       File: Haou Taikei Ryuu Knight - Lord of Paladin (Japan) (Prototype).sfc
+       Name: ﾊｵｳﾀｲｹｲ ﾘｭｰﾅｲﾄ LOP 1    Company: Bandai
+     Header: None                        Bank: LoROM
+Interleaved: None                        SRAM: 64 Kb
+       Type: Normal + Batt                ROM: 12 Mb
+    Country: Japan                      Video: NTSC
+  ROM Speed: 200ns (SlowROM)         Revision: 1.0
+   Checksum: Good 0x0FB9            Game Code: UR
+---------------------------Hashes---------------------------
+      CRC32: 6AFF2914
+        MD5: 3474FD98284982326B96753FBEAB9039
+      SHA-1: 24783A05813BD7D6EE1B1663FA704F0287333968
+--------------------------Database--------------------------
+    ROM wasn't found in the database (possible bad dump).
+</code></pre>
+
+<p>PCB Scans coming soon.</p>
+:ET

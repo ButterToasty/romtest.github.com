@@ -1,0 +1,59 @@
+I"J	<p><strong>カービィのおもちゃ箱 ピンボール / Kirby’s Toy Box - Pinball</strong></p>
+
+<p>Well this is something I have been after for a while, the first of 2 current Kirby downloads… Kirby Pinball! It’s lots of fun, but I think Gator Ball for the Game Boy was more fun. If you have this cart have no worries about playing it, as this game and seemingly other Kirby games in the same set have unlimited start ups.</p>
+
+<p><img src="/assets/screenshots/bskirbypinball/BS-Kirby-no-Omochabako-Pinball-(Japan).1-8074c446432dc7ad0a3ca219ea10785216d7d67c6f15cacdba20226c3ce9c373b35a0a3ad99a2fb116eb45ee7d4a3ffef055a77ac7fa31954d74adda813be070.png" alt="BS Kirby no Omochabako - Pinball (Japan)" title="BS Kirby no Omochabako - Pinball (Japan)" />
+<img src="/assets/screenshots/bskirbypinball/BS-Kirby-no-Omochabako-Pinball-(Japan).2-da5550532cc539ede23233422a075065fd52a3ac982ae0735f7a88c3e9d0e5d858989a1f5ce03db6535d5fa9cfb84150a51d1997689a54e4a3479905fac098eb.png" alt="BS Kirby no Omochabako - Pinball (Japan)" title="BS Kirby no Omochabako - Pinball (Japan)" />
+<img src="/assets/screenshots/bskirbypinball/BS-Kirby-no-Omochabako-Pinball-(Japan).3-395f7e58f8d06eea7235f321a2540c6c87a35738cbed94f5083e27676f12f21cf66b57f10e92b40bd44fe3c7b1650b9e2bd8fc99f438f3956489a25295ffd04d.png" alt="BS Kirby no Omochabako - Pinball (Japan)" title="BS Kirby no Omochabako - Pinball (Japan)" /></p>
+
+<p>There is also lots of interesting bits of code in here:</p>
+
+<p><em>Offset:</em> <code>0x50E7</code></p>
+
+<pre><code>SFC LiveProject Version2.00 Mon Aug 14 1995
+KT_PINBA
+KT_HOSIK
+KT_GLGLB
+KT_ARANG
+KT_PACHI
+KT_BASEB
+KT_CANON
+KT_BRALY
+KT_CURSOT
+1996 NINTENDO
+1996 HAL LABORATORY.INC.
+</code></pre>
+
+<p><em>Offset:</em> <code>Various</code></p>
+
+<pre><code>ProjectBank.EXEC
+ProjectBank.01
+</code></pre>
+
+<p><em>Offset:</em> <code>0x234A</code>, <code>0x250A</code></p>
+
+<pre><code>START OF MOUSE BIOS
+...
+MODIFIED FROM SHVC MOUSE BIOS Ver1.00END OF MOUSE BIOS
+</code></pre>
+
+<p><em>Offset:</em> <code>0x4B46</code></p>
+
+<pre><code>CG0
+CG1
+CG2
+CG3
+GmkSystemBank
+ProjectBank.EXE
+CProjectBank
+INTSYS
+CHRMK_DATA
+ChrmkData
+OBJMK_DATA
+ANIMK_DATA
+SFXMK_DATA
+GmkFileBank
+</code></pre>
+
+<p>If you enjoy this, please consider linking to this page or <a href="https://superfamicom.org">https://superfamicom.org</a> or maybe even donating something useful or sending me a post card.</p>
+:ET

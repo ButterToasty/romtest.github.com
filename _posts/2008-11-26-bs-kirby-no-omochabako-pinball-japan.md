@@ -15,10 +15,9 @@ __カービィのおもちゃ箱 ピンボール / Kirby's Toy Box - Pinball__
 
 Well this is something I have been after for a while, the first of 2 current Kirby downloads... Kirby Pinball! It's lots of fun, but I think Gator Ball for the Game Boy was more fun. If you have this cart have no worries about playing it, as this game and seemingly other Kirby games in the same set have unlimited start ups.
 
-![BS Kirby no Omochabako - Pinball (Japan)]({% asset_path 'screenshots/bskirbypinball/BS-Kirby-no-Omochabako-Pinball-(Japan).1.png' %} "BS Kirby no Omochabako - Pinball (Japan)")
-![BS Kirby no Omochabako - Pinball (Japan)]({% asset_path 'screenshots/bskirbypinball/BS-Kirby-no-Omochabako-Pinball-(Japan).2.png' %} "BS Kirby no Omochabako - Pinball (Japan)")
-![BS Kirby no Omochabako - Pinball (Japan)]({% asset_path 'screenshots/bskirbypinball/BS-Kirby-no-Omochabako-Pinball-(Japan).3.png' %} "BS Kirby no Omochabako - Pinball (Japan)")
-
+![BS Kirby no Omochabako - Pinball (Japan)]({% asset 'screenshots/bskirbypinball/BS-Kirby-no-Omochabako-Pinball-(Japan).1.png' @path %} "BS Kirby no Omochabako - Pinball (Japan)")
+![BS Kirby no Omochabako - Pinball (Japan)]({% asset 'screenshots/bskirbypinball/BS-Kirby-no-Omochabako-Pinball-(Japan).2.png' @path %} "BS Kirby no Omochabako - Pinball (Japan)")
+![BS Kirby no Omochabako - Pinball (Japan)]({% asset 'screenshots/bskirbypinball/BS-Kirby-no-Omochabako-Pinball-(Japan).3.png' @path %} "BS Kirby no Omochabako - Pinball (Japan)")
 
 There is also lots of interesting bits of code in here:
 
@@ -72,4 +71,5 @@ ANIMK_DATA
 SFXMK_DATA
 GmkFileBank
 ```
+
 If you enjoy this, please consider linking to this page or [https://superfamicom.org](https://superfamicom.org) or maybe even donating something useful or sending me a post card.

@@ -1,0 +1,27 @@
+I"�<p>Who doesn’t love <a href="https://superfamicom.org/info/super-bomberman/" title="Super Bomberman">Super Bomberman</a>, my favorite is <a href="https://superfamicom.org/info/super-bomberman-3/" title="Super Bomberman 3">Super Bomberman 3</a>. I didn’t dig through it looking for many difference, if any. The board it came on was bad, had to swap the ROMs to a new board.</p>
+
+<p><img src="/assets/screenshots/super-bomberman/super-bomberman-usa-sample.0-2493bd2c2b0a9c04a09af06fc4990d3d129687198f392986217d79b1bf6561b8623aa3ba8113d5a1ba2b4b10585cabab4d744be8a9f14bead7deb9fd3a69425f.png" alt="Super Bomberman (USA) (Sample)" title="Super Bomberman (USA) (Sample)" />
+<img src="/assets/screenshots/super-bomberman/super-bomberman-usa-sample.1-a41a9494b781af808f2c3023c7ccf744b63a0810c2e19465205bd0df84d1512bf4fc4169494db9713b24052630a84c274b8245a7f313afc6b6abce7b653dc3a2.png" alt="Super Bomberman (USA) (Sample)" title="Super Bomberman (USA) (Sample)" />
+<img src="/assets/screenshots/super-bomberman/super-bomberman-usa-sample.2-16f84bc83849cbec1ff1f1aecc5705deecfbf4d965b1eb561e57c18832346db8708d81e6b5d863614450f8ae231c65b8a14795deb9cc336892e02ad537232232.png" alt="Super Bomberman (USA) (Sample)" title="Super Bomberman (USA) (Sample)" /></p>
+
+<p>The EEPROM has this written on it:</p>
+
+<pre><code>1993-05-11 (Kanji?)
+SUM= [3953]
+</code></pre>
+
+<pre><code>---------------------Internal ROM Info----------------------
+       File: Super Bomberman (USA) (Sample).sfc
+       Name: SUPER BOMBERMAN          Company: Hudson Soft
+     Header: None                        Bank: HiROM
+Interleaved: None                        SRAM: 0 Kb
+       Type: Normal                       ROM: 4 Mb
+    Country: USA                        Video: NTSC
+  ROM Speed: 200ns (SlowROM)         Revision: 1.0
+   Checksum: Good 0x3953            Game Code:
+---------------------------Hashes---------------------------
+      CRC32: ACC4D648
+        MD5: D67A1A2B0FAC0564D950F8CD45FEE3C2
+      SHA-1: 454854D03D14B045673145ABCEBF3A2A3757D8A1
+</code></pre>
+:ET

@@ -13,4 +13,4 @@ download:
 
 __コロンブス ～黄金の夜明け～__
 
-![Columbus - Ougon no Yoake (Japan) (Sample)]({% asset_path 'screenshots/columbus-ougon-no-yoake-japan-sample/columbus-ougon-no-yoake-japan-sample.0.png' %})
+![Columbus - Ougon no Yoake (Japan) (Sample)]({% asset 'screenshots/columbus-ougon-no-yoake-japan-sample/columbus-ougon-no-yoake-japan-sample.0.png' @path %})

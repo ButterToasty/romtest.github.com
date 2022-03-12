@@ -1,0 +1,354 @@
+I"�+<p>This is a sales sheet for the tentativly named <em>Game Kiosk</em>, which was the working name for the Nintendo Power rewriteable cart service. This breaks down what it is, or was planned to be, how it works, how partners would work withit, and various technical details for the <em>GK Writer</em>, the <em>GK Terminal</em> and <em>F Carts</em>, the white Nintendo Power carts.</p>
+
+<p>I’ve scanned the pages and attempted to extract the text and added machine translations for the contents. If you can translate them better please let me know and I will update the text below. I’ve also collected them into a single PDF for easier grouping.</p>
+
+<hr />
+
+<h2 id="page-1-japanese">Page 1 Japanese</h2>
+
+<p>ゲームキオスク（仮称）説明資料
+平成9年4月
+任天堂株式会社</p>
+
+<h2 id="page-1-english">Page 1 English</h2>
+
+<p>Game kiosk (tentative name) explanatory material
+April 1997
+Nintendo Co., Ltd</p>
+
+<p><img src="/assets/game-kiosk-np-writer/game-kiosk-np-writer-page-1.jpg" alt="Page 1" /></p>
+
+<hr />
+
+<h2 id="page-2-japanese">Page 2 Japanese</h2>
+
+<p>１. 目的</p>
+
+<p>スーパーファミコンは、日本国内で1,700万台（平成8年12月末）の販売実績を持つ家庭用テレビゲームの標準機であります。</p>
+
+<p>任天堂は、圧倒的多数のスーパーファミコンユーザーに対し、引続きスーパーファミコンソフトを供給し続ける為に、ソフトの書込/書換サービス「ゲームキオスク（仮称）」を提案致します。
+このサービスを実施することによりスーパーファミコン市場をさらに発展させたいと考えます。</p>
+
+<p>「ゲームキオスク（仮称）」は、新作ゲームを従来のマスクロムではなく書込可能なフラッシュメモリーを利用し、ユーザーに対して安価に提供するシステムです。
+ソフトメーカーにとっては開発コストの効率化が可能となり販売店におかれましては在庫リスクが無く、パッケージ化（生産）の期間が無い為に売り逃しの無い安心できるビジネスが実現致します。
+ひいては中古問題の解決にもつながるものと考えております。</p>
+
+<h2 id="page-2-english">Page 2 English</h2>
+
+<p>１. Purpose</p>
+
+<p>Super Nintendo is the standard home video game console with a sales record of 17 million units in Japan (end of December 1996).</p>
+
+<p>Nintendo proposes a software writing / rewriting service “game kiosk (tentative name)” to continue to supply Super Nintendo software to an overwhelmingly many NES users.
+By implementing this service, we would like to further develop the SNES market.</p>
+
+<p>The “game kiosk (provisional name)” is a system that uses a writable flash memory instead of conventional cartridges to provide new games at low cost to users.
+For software manufacturers, development costs can be made more efficient, and there is no inventory risk at retailers, and there is no packaging (production) period.
+We believe that it will eventually lead to the solution of used problems.</p>
+
+<p><img src="/assets/game-kiosk-np-writer/game-kiosk-np-writer-page-2.jpg" alt="Page 2" /></p>
+
+<hr />
+
+<h2 id="page-3-japanese">Page 3 Japanese</h2>
+
+<p>２. 概 要</p>
+
+<p>&lt; ゲームキオスク（仮称）ソフト供給のフロー &gt;</p>
+
+<p>ソフトメーカー</p>
+
+<p>ゲームソフトを供給</p>
+
+<p>任天堂</p>
+
+<p>ゲームソフトを</p>
+
+<p>マスターCDに収録し供給</p>
+
+<p>書込データの送信</p>
+
+<p>販売店</p>
+
+<p>書込みサービス</p>
+
+<p>書込み代金の支払</p>
+
+<p>ユーザー</p>
+
+<p>３. 広告宣伝・販売促進</p>
+
+<p>販売促進、広告宣伝は弊社が主体者となって実施致します。企画、および内容についてはソフトメーカーの協力をお願いし、実施する予定です。</p>
+
+<p>● 広告宣伝</p>
+
+<p>１. TV宣伝はスポット、および提供番組での広告。</p>
+
+<p>２. 雑誌宣伝はゲーム誌、コミック誌等。</p>
+
+<p>● 販売促進</p>
+
+<p>１. 店頭でのパンフレット、チラシの配布。</p>
+
+<p>２. 「NINTENDOマガジン（仮称）」の様なコミュニケーション誌を発刊致します。</p>
+
+<p>３. 小学館、アスキーリクルートの既刊誌と連動した総合的な広告、パブリシティを展開致します。</p>
+
+<p>４. 様々なイベントを実施致します。</p>
+
+<h2 id="page-3-english">Page 3 English</h2>
+
+<p>２. Overview</p>
+
+<p>&lt; Flow of game kiosk (tentative name) software supply &gt;</p>
+
+<p>Software maker</p>
+
+<p>Supply game software</p>
+
+<p>Nintendo</p>
+
+<p>Game software</p>
+
+<p>Recorded and supplied on master CD</p>
+
+<p>Transmission of write data</p>
+
+<p>Sales outlet</p>
+
+<p>Write service</p>
+
+<p>Payment of writing fee</p>
+
+<p>user</p>
+
+<p>３. Advertising and Sales Promotion</p>
+
+<p>Sales promotion and advertising will be conducted by our company. We will ask for the cooperation of the software maker for the planning and content, and will implement it.</p>
+
+<p>● Advertising</p>
+
+<p>１. TV advertising is advertising in spots and offered programs.</p>
+
+<p>２. Magazine advertisements include game magazines and comic magazines.</p>
+
+<p>● Sales promotion</p>
+
+<p>１. Distribution of pamphlets and flyers at stores.</p>
+
+<p>２. We will publish a communication magazine like “NINTENDO Magazine (tentative name)”.</p>
+
+<p>３. We will develop comprehensive advertising and publicity linked to the previously published magazines of Shogakukan and ASCII Recruit.</p>
+
+<p>４. We carry out various events.</p>
+
+<p><img src="/assets/game-kiosk-np-writer/game-kiosk-np-writer-page-3.jpg" alt="Page 3" /></p>
+
+<hr />
+
+<h2 id="page-4-japanese">Page 4 Japanese</h2>
+
+<p>４. システム構成</p>
+
+<p>任天堂サーバー</p>
+
+<p>ショップ A, B, C, D, E, Y</p>
+
+<p>GKコントローラ</p>
+
+<p>GKライター（マスター）</p>
+
+<p>GKライター（スレーブ）</p>
+
+<p>５. スケジュール等</p>
+
+<p>● 書換えサービスの開始</p>
+
+<p>今秋（11月頃）を予定。</p>
+
+<p>● スタート時のソフト</p>
+
+<p>新作を中心に、既発売ソフトを含めて約100タィトルを予定。</p>
+
+<p>● 設置店の募集</p>
+
+<p>7月頃にGKコントローラ、GKライターの量産品、およびスタート時のソフトの展示説明会を開催致します。その際、併せて募集要項も発表致します。</p>
+
+<h2 id="page-4-english">Page 4 English</h2>
+
+<p>４. System configuration</p>
+
+<p>Nintendo server</p>
+
+<p>Shops A, B, C, D, E, Y</p>
+
+<p>GK Controller</p>
+
+<p>GK Writer (Master)</p>
+
+<p>GK Writer (Slave)</p>
+
+<p>５. Schedule etc.</p>
+
+<p>● Start of rewriting service</p>
+
+<p>This fall (around November) is scheduled.</p>
+
+<p>● Software at the start</p>
+
+<p>Approximately 100 titles, including newly released software, are planned.</p>
+
+<p>● Recruitment of setting store</p>
+
+<p>An exhibition briefing will be held around July for GK controllers, GK writer mass-produced products, and software at the start. At that time, we will also announce the application guidelines.</p>
+
+<p><img src="/assets/game-kiosk-np-writer/game-kiosk-np-writer-page-4.jpg" alt="Page 4" /></p>
+
+<hr />
+
+<h2 id="page-5-japanese">Page 5 Japanese</h2>
+
+<p>イメージ図</p>
+
+<h2 id="page-5-english">Page 5 English</h2>
+
+<p>Image</p>
+
+<p><img src="/assets/game-kiosk-np-writer/game-kiosk-np-writer-page-5.jpg" alt="Page 5" /></p>
+
+<hr />
+
+<h2 id="page-6-japanese">Page 6 Japanese</h2>
+
+<p>■ GK端末仕様</p>
+
+<p>表示: 10.4インチカラーLCDスクリーン</p>
+
+<p>操作キー: 赤外線タッチスクリーン（640×480ドット）</p>
+
+<p>プリンター: 58mm 幅サーマルプリンター内蔵</p>
+
+<p>I/O: PCMCIA スロット内蔵</p>
+
+<p>SR-232Cポート: 2個（GKライター接続用）</p>
+
+<p>ソフト: WINDOW95</p>
+
+<p>外寸: 305（幅）× 320（奥行き）× 300（高さ）mm</p>
+
+<p>重量: 4.8Kg</p>
+
+<p>電力ケーブル: 100VAC 50/60Hz</p>
+
+<p>消費電力: 0.23KVA（160W）</p>
+
+<p>■ GKライター仕様</p>
+
+<p>表示: 24文字×2行（1文字は8×5ドット）LCDスクリーン</p>
+
+<p>LED表示: 赤色LED×1、緑色LED×2（動作表示用）</p>
+
+<p>操作キー: パネルキー×4（スタート取り消し、▲、▼）</p>
+
+<p>機構: カセットロック、EJECT、カセットシャッター機構付き</p>
+
+<p>CD-ROM: CD-ROM（8倍速）×1内蔵（ゲームソフト供給用）</p>
+
+<p>カウンター: 電子カウンター内蔵（書き換え回数カウント用）</p>
+
+<p>I/O: RS-232C×1、子機との接続用コネクター×1</p>
+
+<p>ソフト: DOS-V</p>
+
+<p>外寸: 230（幅）× 340（奥行き）× 180（高さ）mm</p>
+
+<p>専重: 約2.0Kg</p>
+
+<p>電力ケーブル: 100VAC 50/60Hz</p>
+
+<p>消費電力: 未定</p>
+
+<p>■ Fカセット仕様</p>
+
+<p>メモリー: Fメモリー32Mb（16Mbx2）: ゲームプログラム用
+  S-RAM 256Kb: バックアップ用（バッテリー付き）</p>
+
+<p>その他IC: ASIC×1、CIC×1</p>
+
+<p>PCB: 両面 62 ピン端子金メッキ仕様</p>
+
+<p>外寸: スーパーファミコンカセットと同仕様</p>
+
+<p>消費電流: 5V-200mA 以下</p>
+
+<p>備考: シングルゲーム：ユーザーエリア 32Mb
+  マルチゲーム：ューザーエリア 28Mb、メニューエリア 4Mb</p>
+
+<h2 id="page-6-english">Page 6 English</h2>
+
+<p>■ GK Terminal Specifications</p>
+
+<p>Display: 10.4 inch color LCD screen</p>
+
+<p>Operation keys: infrared touch screen (640 x 480 dots)</p>
+
+<p>Printer: Built-in 58mm width thermal printer</p>
+
+<p>I / O: Built-in PCMCIA slot</p>
+
+<p>SR-232C port: 2 (for connecting GK writer)</p>
+
+<p>Software: WINDOW95</p>
+
+<p>Outside dimensions: 305 (width) x 320 (depth) x 300 (height) mm</p>
+
+<p>Weight: 4.8Kg</p>
+
+<p>Power cable: 100VAC 50 / 60Hz</p>
+
+<p>Power consumption: 0.23KVA (160W)</p>
+
+<p>■ GK Writer Specification</p>
+
+<p>Display: 24 characters x 2 lines (1 character is 8 x 5 dots) LCD screen</p>
+
+<p>LED display: Red LED x 1, Green LED x 2 (for operation display)</p>
+
+<p>Operation keys: Panel keys x 4 (Start cancel, ▲, ▼)</p>
+
+<p>Mechanism: Cassette lock, EJECT, with cassette shutter mechanism</p>
+
+<p>CD-ROM: Built-in CD-ROM (8x speed) x 1 (for game software supply)</p>
+
+<p>Counter: Built-in electronic counter (for counting rewrites)</p>
+
+<p>I / O: RS-232C x 1, Connector for connection with slave unit x 1</p>
+
+<p>Software: DOS-V</p>
+
+<p>Outside dimensions: 230 (W) x 340 (D) x 180 (H) mm</p>
+
+<p>Weight: About 2.0Kg</p>
+
+<p>Power cable: 100VAC 50 / 60Hz</p>
+
+<p>Power consumption: TBD</p>
+
+<p>■ F Cassette Specification</p>
+
+<p>Memory: F memory 32Mb (16Mbx2): For game program
+  S-RAM 256Kb: For backup (with battery)</p>
+
+<p>Other IC: ASIC × 1, CIC × 1</p>
+
+<p>PCB: Double-sided 62-pin terminal gold-plated specification</p>
+
+<p>Outside dimensions: same specifications as Super Nintendo cassette</p>
+
+<p>Current consumption: 5V-200mA or less</p>
+
+<p>Remarks: Single game: User area 32Mb
+  Multi-game: user area 28Mb, menu area 4Mb</p>
+
+<p><img src="/assets/game-kiosk-np-writer/game-kiosk-np-writer-page-6.jpg" alt="Page 6" /></p>
+:ET

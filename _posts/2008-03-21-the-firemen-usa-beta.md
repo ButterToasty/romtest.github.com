@@ -15,16 +15,16 @@ So here is a very expensive (over priced) demo for the US version of the [Human]
 
 It actually looks better than the European version with a much improved font. It also has the wonderful script editing errors in tact, like the example below. Note: seen is correctly spelled but not the right word, which is scene. Game play plays the same but the dialog seems to move faster than the European version, but that might just be placebo. So if you ever wanted to play it in English on an NTSC TV for what ever reason, here's your chance! It's an enjoyable game with a good message, don't burn things and / or be a fireman.
 
-![FIREMEN_BETA.png]({% asset_path 'screenshots/FIREMEN_BETA.png' %})
-![FIREMEN_EURO.png]({% asset_path 'screenshots/FIREMEN_EURO.png' %})
-![FIREMEN_JAPAN.png]({% asset_path 'screenshots/FIREMEN_JAPAN.png' %})
+![FIREMEN_BETA.png]({% asset 'screenshots/FIREMEN_BETA.png' @path %})
+![FIREMEN_EURO.png]({% asset 'screenshots/FIREMEN_EURO.png' @path %})
+![FIREMEN_JAPAN.png]({% asset 'screenshots/FIREMEN_JAPAN.png' @path %})
 
-![FIREMEN_BETA_GAME.png]({% asset_path 'screenshots/FIREMEN_BETA_GAME.png' %})
-![FIREMEN_EURO_GAME.png]({% asset_path 'screenshots/FIREMEN_EURO_GAME.png' %})
-![FIREMEN_JAPAN_GAME.png]({% asset_path 'screenshots/FIREMEN_JAPAN_GAME.png' %})
+![FIREMEN_BETA_GAME.png]({% asset 'screenshots/FIREMEN_BETA_GAME.png' @path %})
+![FIREMEN_EURO_GAME.png]({% asset 'screenshots/FIREMEN_EURO_GAME.png' @path %})
+![FIREMEN_JAPAN_GAME.png]({% asset 'screenshots/FIREMEN_JAPAN_GAME.png' @path %})
 
-![FIREMEN_BETA_CONFIG.png]({% asset_path 'screenshots/FIREMEN_BETA_CONFIG.png' %})
-![FIREMEN_EURO_CONFIG.png]({% asset_path 'screenshots/FIREMEN_EURO_CONFIG.png' %})
-![FIREMEN_JAPAN_CONFIG.png]({% asset_path 'screenshots/FIREMEN_JAPAN_CONFIG.png' %})
+![FIREMEN_BETA_CONFIG.png]({% asset 'screenshots/FIREMEN_BETA_CONFIG.png' @path %})
+![FIREMEN_EURO_CONFIG.png]({% asset 'screenshots/FIREMEN_EURO_CONFIG.png' @path %})
+![FIREMEN_JAPAN_CONFIG.png]({% asset 'screenshots/FIREMEN_JAPAN_CONFIG.png' @path %})
 
 Write up at [SNESCentral](http://www.snescentral.com/review.php?id=0829&num=0&fancy=yes&article=proto).

@@ -1,0 +1,786 @@
+I"O�<p><strong><a href="https://superfamicom.org/info/touge-densetsu-saisoku-battle">峠・伝説 最速バトル</a></strong></p>
+
+<p>The original auction was mentioned in the <a href="http://www.snescentral.com/article.php?id=0872">SNESCentral Article</a> a long time ago, here are the details. More of the <a href="https://tcrf.net/GT_Racing">TCRF found Ln-MOS</a> X-Modem debugging goodness inside.</p>
+
+<p>In the sample, the credit listing DOS code is missing, starting at <code>0x5161</code> they begin to differ. The string <code>ACING GE BB.LENAR Co.,1995.5</code> is found in the SRAM.</p>
+
+<p><em>Screenshots</em></p>
+
+<p>A few typos have been fixed, track times made real, and colors slightly changed between the prototype and the final version. The map of Japan has also been touched up, and the bike customization screen is very different, much more polished.</p>
+
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="/assets/screenshots/touge-densetsu-saisoku-battle-japan-prototype/final-1-b501ce0559df827b4f216fd39baf70a824116bdf176f73dacac41f11c0b558ed8aa3c1c2e27ff6156495ec607cc7cba246a61e45ea61c019cd58c4eb20cbf9ea.png" alt="Final" title="Final" />
+      </div>
+      <img src="/assets/screenshots/touge-densetsu-saisoku-battle-japan-prototype/sample-1-b7a69b40a9eb112d5e155110d748a0050aa5146fc56efc6f7309b635d8458aa54d33832d85beea75b2b679476f0309a396f79b5c7c4c01eb6c0e5b7738df2645.png" alt="Sample" title="Sample" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="/assets/screenshots/touge-densetsu-saisoku-battle-japan-prototype/final-2-d1c47e6e044c4a1e616e5e791e38f1b585e6a06200e49ba971d9f9d1e9f0b705469fb8e5840690d45adefec74d5d4a60e3486f83cca9bb5f5b96cfbbd095678c.png" alt="Final" title="Final" />
+      </div>
+      <img src="/assets/screenshots/touge-densetsu-saisoku-battle-japan-prototype/sample-2-864d83e2248a24ce3457be1d38f27dd8a3e6e12aa0a7535a692a5fafaae9f7dabaaf5c27400c06ccfb952af6e7df49a36499b9aba66f0da26bf09f5f59442bb0.png" alt="Sample" title="Sample" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="/assets/screenshots/touge-densetsu-saisoku-battle-japan-prototype/final-3-6d93a828e24c0bc9fac1d71c069f8c909285487a04d3a61a983280a68796c4105d3bfd34b1983fffaef714846f5a9ef0da63ff31db4cbd5cdcfbd555f303bbe9.png" alt="Final" title="Final" />
+      </div>
+      <img src="/assets/screenshots/touge-densetsu-saisoku-battle-japan-prototype/sample-3-46f704a9f6bbe61bf9c1a83f38c765b5984a60f8330434f101bf1eaf65f86dfb871e397ed54c61ea0be5059d8eb632229387f1fc4060b3965fe087663017ffc2.png" alt="Sample" title="Sample" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="/assets/screenshots/touge-densetsu-saisoku-battle-japan-prototype/final-4-63908933e49700206a74e7d686448d71e9eab04f1611d376bbff16bb6a1741006f634b9b63190b2f1045dee37ae9f855412d70a15eea5cb00f5101a7afa4d27b.png" alt="Final" title="Final" />
+      </div>
+      <img src="/assets/screenshots/touge-densetsu-saisoku-battle-japan-prototype/sample-4-2ac5f82fdaad67b73662078f911398450c24168a434addc9c7cf51082c3742422832ec9bc9e59dc98bc6d96fe632b3766e43dfba60d81a27e6d5e7ca86e00525.png" alt="Sample" title="Sample" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="/assets/screenshots/touge-densetsu-saisoku-battle-japan-prototype/final-5-3294b10327fa56a8b79d6ddc851f961190cf2e16778c2e5d829d874577d55b92d0718f11bbdd5c96ad6b1360ed86da4efab93a0523cff052840346c9cb6377a3.png" alt="Final" title="Final" />
+      </div>
+      <img src="/assets/screenshots/touge-densetsu-saisoku-battle-japan-prototype/sample-5-c48c6736e0d977a88b9e51e5b7fa6e31af267cdab992689727f6704da576152449c38804bf4b1a9ea622aa433a016491c58675e2e345d4ddc4a05e2e7a50d0e7.png" alt="Sample" title="Sample" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="/assets/screenshots/touge-densetsu-saisoku-battle-japan-prototype/final-6-032a5708adee124d8f18537b64c2f915954003b149ef1a5fcb858466e655653cc3744523111781a8a2b522a39841f90897ce8b0e70d42fedad062762d3f2e16b.png" alt="Final" title="Final" />
+      </div>
+      <img src="/assets/screenshots/touge-densetsu-saisoku-battle-japan-prototype/sample-6-047685d7de05a2b21fa9927767e88f22fa71c5b95a4e8dcc1d45cf7e97475bc4a7694d1a47b7e5f21b14e0efc2b947ee6bcaf0dc3710f72edbe3821f1884e282.png" alt="Sample" title="Sample" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="/assets/screenshots/touge-densetsu-saisoku-battle-japan-prototype/final-7-0ebb8c8274bef01cd861f31a428c5b0d0ca89d91b91e49a889ba8d005156bbb0e55fc04ff33a40f211284e09eb50a2bd58d81f1049e5b54906107fafea42846b.png" alt="Final" title="Final" />
+      </div>
+      <img src="/assets/screenshots/touge-densetsu-saisoku-battle-japan-prototype/sample-7-b178239781e0f44bd521f86c9caf889b15901a15d5f871657143b8b848509a081afd7508671cfa765babcc58f1d6f88e95cf25bdf0ea3e80b3c83b3f97018ed6.png" alt="Sample" title="Sample" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="/assets/screenshots/touge-densetsu-saisoku-battle-japan-prototype/final-8-b886031f23e9a0430263763ab2aa7a5cfa1dea43204604b2fa652e76e7f3dcc286ad31a26f8037ab030be9072853061dada3fa1a1b97d0284ee0326a6ad07787.png" alt="Final" title="Final" />
+      </div>
+      <img src="/assets/screenshots/touge-densetsu-saisoku-battle-japan-prototype/sample-8-fbc3ff5bd01a97d0e77d55e0e0b3530fa26d40234267a81759588b7e40754085d480034cd623f3e09775b0dbc2643d78e27f83152920590c0daecf9c1bf0846f.png" alt="Sample" title="Sample" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="/assets/screenshots/touge-densetsu-saisoku-battle-japan-prototype/final-9-44c60df4f1c1082a67140c46ba438ed5d5cfdb6b7f32c95b37deb67568b7c7947768b0ac586130c33cabbc3451c7c4770b6203df190ab0fdf20e35fcad71fbe6.png" alt="Final" title="Final" />
+      </div>
+      <img src="/assets/screenshots/touge-densetsu-saisoku-battle-japan-prototype/sample-9-5a80fe8d0569c65015edc6fff8777e77b8d6e1c553e0cef25917519418e9a02b0d56657248807cf655e012bbe67d8f61916112bb11905b30d12047b82f56c982.png" alt="Sample" title="Sample" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="/assets/screenshots/touge-densetsu-saisoku-battle-japan-prototype/final-10-8ebfab0af326b6525f45cd7b1ac960d13e4b6fab49930076e5ee894c90dda6f3247577b52f6ab353de6d7da27052d6c5640a4cbc566fa3f727e244e940748cc3.png" alt="Final" title="Final" />
+      </div>
+      <img src="/assets/screenshots/touge-densetsu-saisoku-battle-japan-prototype/sample-10-8d31fa4e345dccb9191f22e07efd912d417f49b5ecb45f52214f083ffa876e3caeff64cd9b6f45cb9ccf64691f5a5103ec2e00c4638c6b0c4f79b1ed0a292799.png" alt="Sample" title="Sample" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="/assets/screenshots/touge-densetsu-saisoku-battle-japan-prototype/final-11-66b3f1d505f71cc61c7b02ecccf53e8edd39127197537ac030def0ca383afb668ab1a081047b8c709f68d7ada8b64a041ed67f2aa1907a968161106b78aacde6.png" alt="Final" title="Final" />
+      </div>
+      <img src="/assets/screenshots/touge-densetsu-saisoku-battle-japan-prototype/sample-11-7cdeecab55012e7fc5cac5b81bce7e7a7317e8dc0da321f7836d851cfc01a42696b6310444b3fa144d3750ae1165185865fc31a5897f989c2bcaad3ca642afab.png" alt="Sample" title="Sample" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="/assets/screenshots/touge-densetsu-saisoku-battle-japan-prototype/final-12-ca0e983a6c406f90e9e33e3261b82f4cd63f69163edcbd3970bf98efabf6caca7b3b43995c07379aa0d8fa129aeca5cbf9e6fde90b4c81e1f3db276bebfd38ba.png" alt="Final" title="Final" />
+      </div>
+      <img src="/assets/screenshots/touge-densetsu-saisoku-battle-japan-prototype/sample-12-c6bf36c5c7958fa8797778b3ac4ebbb482f7925decb7cbaae636ac09a67c805e6a2e841f79adb752135db8369fd192caf410b5202669a3484b02a80e0c782f5a.png" alt="Sample" title="Sample" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="/assets/screenshots/touge-densetsu-saisoku-battle-japan-prototype/final-13-3651a425aa0b7bc16745dcc6a74f69612809fedb2984fdf310e3d6a7f545eb6190a7f205eab920e881c42ed2897fb8043d8a666ff3da47bfcdab07c11c973c58.png" alt="Final" title="Final" />
+      </div>
+      <img src="/assets/screenshots/touge-densetsu-saisoku-battle-japan-prototype/sample-13-16c5f4fb605e26379cf546ffba775fdaa9b2097a89bbc74cad01329ff94f6bbfdb836b91e0ef1932986047114381e4ef85e3e842aa12430786e860e6aa522d19.png" alt="Sample" title="Sample" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="/assets/screenshots/touge-densetsu-saisoku-battle-japan-prototype/final-14-19a460ae2b7759200358a038112add63c7f9b4f2bd0e273e0154c37b9d2522efb41fc680a17ef62080e414fe1409db18e9411b7b53780bf1c1074211207a1bb9.png" alt="Final" title="Final" />
+      </div>
+      <img src="/assets/screenshots/touge-densetsu-saisoku-battle-japan-prototype/sample-14-46df5d384952505203ffd87e1607b5cc6648bbf39ca7dc2ad4c04a0c2596e67770ca3f2012d83e16a66aa899ac10aecbd67b8c6514429355530f866191afb7cb.png" alt="Sample" title="Sample" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="/assets/screenshots/touge-densetsu-saisoku-battle-japan-prototype/final-15-7da36ac58fa0fc1e0fb7af0d7e692263ed0f783eaa832be79a37e8b1713e342997e4fd05f5b891441f04265722f1d0363c85adaaf0289d8f61c5f1a355868058.png" alt="Final" title="Final" />
+      </div>
+      <img src="/assets/screenshots/touge-densetsu-saisoku-battle-japan-prototype/sample-15-dec9aae3f8ae934fed61d7877803e3676aeae8b974d9923193a1f5d3e2f0fafa9c55dcb847fd89f1761bf7b9ec1b1118293a36377dc9f52b6f9ae55016483323.png" alt="Sample" title="Sample" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="/assets/screenshots/touge-densetsu-saisoku-battle-japan-prototype/final-16-ee60e3e5f6370e14143d02306b3138a3c879be0eb4c18b8a833e8ebca6d276759cce931a2f507be2182e058d7490e33a63dc61128cb33f144292713faea019f4.png" alt="Final" title="Final" />
+      </div>
+      <img src="/assets/screenshots/touge-densetsu-saisoku-battle-japan-prototype/sample-16-9d9d6995a1b816a473d75c415f5921aa4902506c9cf44d615b9ddc1f018e2166b5a1d2ce5fd05379c0084da30e2ead927e055a446abcfe4efec6270401cbd076.png" alt="Sample" title="Sample" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<p>The bike config is missing the automatic / manual transmission option.</p>
+
+<p><img src="/assets/screenshots/touge-densetsu-saisoku-battle-japan-prototype/sample-17-742119a3574b0dc0a52a4517c0435204e0f1965c10d83f845f20305c46df46a9b746d8609d314f6be05ea1050b279abc3c8b643439955a7202ab98245db79c8e.png" alt="Debug - Auto / Manual" title="Debug - Auto / Manual" /></p>
+
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="/assets/screenshots/touge-densetsu-saisoku-battle-japan-prototype/final-17-2b907a474cb0a035a6e70bc0f6c768891e408a99f4b0d6d408833a9bad9dc51d143bac52f599fdebd6ed44daa1e72244ec87c4ae457d0163a235913c5787e541.png" alt="Final" title="Final" />
+      </div>
+      <img src="/assets/screenshots/touge-densetsu-saisoku-battle-japan-prototype/sample-18-4a7a4d2db07ae806361cf31a175079063b3422b4c4a563925803099ce9c8f76ac9965ae9437f201b89ee3546911e8e22f80760e535a16b84e0f15ce108626a51.png" alt="Sample" title="Sample" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="/assets/screenshots/touge-densetsu-saisoku-battle-japan-prototype/final-20-8f8e149c2e76d9f55d0213a951de04de4ccaf15fd346399f61667ca417f2d919b2e4c9993496d4edf0bb2c590638e23ae3adb3233f92f4fb1bd6fe60407df24d.png" alt="Final" title="Final" />
+      </div>
+      <img src="/assets/screenshots/touge-densetsu-saisoku-battle-japan-prototype/sample-20-8f8e149c2e76d9f55d0213a951de04de4ccaf15fd346399f61667ca417f2d919b2e4c9993496d4edf0bb2c590638e23ae3adb3233f92f4fb1bd6fe60407df24d.png" alt="Sample" title="Sample" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<p>The name select no  longer defaults to <code>H</code> as the first character in the final, and some slight name placement adjustments.</p>
+
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="/assets/screenshots/touge-densetsu-saisoku-battle-japan-prototype/final-21-806f7e414244f02f15de2ff9824ce5241107d99d19aa8d54d934bd329d21b4168c9ed85c7a00604afc2f65d1505153ea6e3cbe64b7b6dec22a4b9747770a31cc.png" alt="Final" title="Final" />
+      </div>
+      <img src="/assets/screenshots/touge-densetsu-saisoku-battle-japan-prototype/sample-21-7173f58522fc8e7acd6d5c5d19efa1c3b02f56f3cdce461ecc1afdc785237c7b463c49d37178ebe8e616529967a7114b6df457fb3dc5b6e41060c33a5bc433e2.png" alt="Sample" title="Sample" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="/assets/screenshots/touge-densetsu-saisoku-battle-japan-prototype/final-24-6271bcb85b95643e661760fba664b45b2a438a3e0ed53fb8dfeaa310239a445d0de0db2c1e0dc2173926a6d21aec54e1960b4ceb638a9d3a4eae4eb93ad948c4.png" alt="Final" title="Final" />
+      </div>
+      <img src="/assets/screenshots/touge-densetsu-saisoku-battle-japan-prototype/sample-24-5122b0583ad085586cf3639a8ca14ee0b98ca60afcf533fc1c6cac7a7b81273799311b66c51e0041590dccfebbbc860fc5bcde7d338b42966af5f5b6b17bb916.png" alt="Sample" title="Sample" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="/assets/screenshots/touge-densetsu-saisoku-battle-japan-prototype/final-25-d0214738beed8d8f9d88401a181e8f1b044f33cee8d1dd8ccc59a24d76e91465f5b6a54b1c87e4b80821800e0056c3e9abe916312a4d83261464dd5cd4993bc1.png" alt="Final" title="Final" />
+      </div>
+      <img src="/assets/screenshots/touge-densetsu-saisoku-battle-japan-prototype/sample-25-1fe1a1ccfd22966787641ae76fefc05d2fdbbb0de0e91a686cca0e33db173019a23c456fe7af003188d933af6acee23ac1f9cde8e55d052a1c88c4a2c7b49e60.png" alt="Sample" title="Sample" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<p>The color of <code>Go!</code> has changed as has a sliver of the track.</p>
+
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="/assets/screenshots/touge-densetsu-saisoku-battle-japan-prototype/final-27-e907c80aaf5f5265f61a4b010c590042430444f82d98f4fea7075c311ee0709c3c6c84fc8505ab66b10e8622215e63e66e42ebea35993e54f0f1adbe9a2a1adb.png" alt="Final" title="Final" />
+      </div>
+      <img src="/assets/screenshots/touge-densetsu-saisoku-battle-japan-prototype/sample-27-87206c203a568a469af5d638986a80885d8d109d7e0c00c4ea5bee324651e91832081cb4420b7da1d021997f7e2204d2759f4f0314d8e91f169db4cefee72ad9.png" alt="Sample" title="Sample" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<p><em>ROM Info</em></p>
+
+<pre><code>---------------------Internal ROM Info----------------------
+       File: Touge Densetsu - Saisoku Battle (Japan) (Prototype).sfc
+       Name: SAISOKU BATTLE           Company: Unlicensed
+     Header: None                        Bank: LoROM
+Interleaved: None                        SRAM: 16 Kb
+       Type: Normal + Batt                ROM: 24 Mb
+    Country: Japan                      Video: NTSC
+  ROM Speed: 120ns (FastROM)         Revision: 1.0
+   Checksum: Corrupt, Bad 0xEB16    Game Code: IO
+---------------------------Hashes---------------------------
+      CRC32: CBA34E28
+        MD5: 8C7F8DE639D0B3C3B98509BE154FB5E9
+      SHA-1: E7EE469FB440552A276645C8214B14F438DFA1F7
+--------------------------Database--------------------------
+    ROM wasn't found in the database (possible bad dump).
+
+---------------------Internal ROM Info----------------------
+       File: Touge Densetsu - Saisoku Battle (Japan).sfc
+       Name: SAISOKU BATTLE           Company: Bullet-Proof Software
+     Header: None                        Bank: LoROM
+Interleaved: None                        SRAM: 64 Kb
+       Type: Normal + Batt                ROM: 24 Mb
+    Country: Japan                      Video: NTSC
+  ROM Speed: 120ns (FastROM)         Revision: 1.0
+   Checksum: Good 0xC657            Game Code: ACQJ
+---------------------------Hashes---------------------------
+      CRC32: 03FD7AD4
+        MD5: 51E0FF237EC249972DFAE3A679D5FEE4
+      SHA-1: D72C79911EB1ED54A22010ED29A37748BC3334CD
+--------------------------Database--------------------------
+       Name: Touge Densetsu Saisoku Battle
+    Country: Japan                   Revision: 1.0
+     Port 1: Gamepad                   Port 2: Gamepad
+    Genre 1: Racing                   Genre 2: Biking
+</code></pre>
+
+<p>If you happen to know the game well and find more differences, or can translate any of the screen shots above- <a href="https://github.com/MatthewCallis/eludevisibility.org">please update this post on GitHub</a> or contact me!</p>
+
+<p>PCB Scans coming soon!</p>
+:ET

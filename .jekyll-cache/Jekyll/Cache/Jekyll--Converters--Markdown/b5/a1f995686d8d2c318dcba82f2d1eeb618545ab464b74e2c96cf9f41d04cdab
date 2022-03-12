@@ -1,0 +1,335 @@
+I"�H<p><strong><a href="https://superfamicom.org/info/marmalade-boy">ママレード・ボーイ</a></strong></p>
+
+<p>Not sure about any differences in content, let me know if you notice any. Obvious text layout changes and some color tweaks. Hidden in the SRM was the string <code>KUSOH KAGAKU0124</code>.</p>
+
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="https://snes.in/screenshots/marmalade-boy/marmalade-boy.0.png" alt="Marmalade Boy (Japan)" title="Marmalade Boy (Japan)" />
+      </div>
+      <img src="/assets/screenshots/marmalade-boy-japan-sample-80/marmalade-boy-japan-sample-80.0-ccaa5cbc717322eb7c8dee3939936dad63c34c05ee6021d0eb8f9725fc5b1a011a8276804f6e41cb3c2caec027dea6d453dd7c5d1cb4d1627f28d4ec5468778f.png" alt="Marmalade Boy (Japan) (Sample 80%)" title="Marmalade Boy (Japan) (Sample 80%)" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="https://snes.in/screenshots/marmalade-boy/marmalade-boy.1.png" alt="Marmalade Boy (Japan)" title="Marmalade Boy (Japan)" />
+      </div>
+      <img src="/assets/screenshots/marmalade-boy-japan-sample-80/marmalade-boy-japan-sample-80.1-52d37cbd64e0f3b64a39be425eec81704c0f367b5a5ed3532bc285ceb26c47484dfe09a0e722612fc03e999a02867782ca0c767f47e4c4a805bf47e1a8311e8d.png" alt="Marmalade Boy (Japan) (Sample 80%)" title="Marmalade Boy (Japan) (Sample 80%)" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="https://snes.in/screenshots/marmalade-boy/marmalade-boy.2.png" alt="Marmalade Boy (Japan)" title="Marmalade Boy (Japan)" />
+      </div>
+      <img src="/assets/screenshots/marmalade-boy-japan-sample-80/marmalade-boy-japan-sample-80.2-68405460940478b6187830bea186bfa6cffd90aa31cdb1d94a0e07099ab6b2ef0343553dd076c93f75c7de5d17c73f0327b0a73efe7a09a94719f2395bdd5092.png" alt="Marmalade Boy (Japan) (Sample 80%)" title="Marmalade Boy (Japan) (Sample 80%)" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="https://snes.in/screenshots/marmalade-boy/marmalade-boy.3.png" alt="Marmalade Boy (Japan)" title="Marmalade Boy (Japan)" />
+      </div>
+      <img src="/assets/screenshots/marmalade-boy-japan-sample-80/marmalade-boy-japan-sample-80.3-d2761068c3542454c7759f7f2bd88f615f8a24240ce8bfda2b3087c530ab1f2d06dbfdda34520fce60e648594db1f001d2a0a89f30c77db7090047607ba34c87.png" alt="Marmalade Boy (Japan) (Sample 80%)" title="Marmalade Boy (Japan) (Sample 80%)" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="https://snes.in/screenshots/marmalade-boy/marmalade-boy.4.png" alt="Marmalade Boy (Japan)" title="Marmalade Boy (Japan)" />
+      </div>
+      <img src="/assets/screenshots/marmalade-boy-japan-sample-80/marmalade-boy-japan-sample-80.4-273f249e402561bcde2afd88e2e654fcfed8b74301f04e04f2b87eadaa1bf3a063cb50a9bb750b55c274e42d2fc072a919cdb9a7d64af3d4f60bb7b586cab6b3.png" alt="Marmalade Boy (Japan) (Sample 80%)" title="Marmalade Boy (Japan) (Sample 80%)" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="https://snes.in/screenshots/marmalade-boy/marmalade-boy.5.png" alt="Marmalade Boy (Japan)" title="Marmalade Boy (Japan)" />
+      </div>
+      <img src="/assets/screenshots/marmalade-boy-japan-sample-80/marmalade-boy-japan-sample-80.5-8264857b6656bffd42d4ae3aee29f44a779d987fbbce455b02bd72a5a101de6ebcac2be808ab129a49d79135eaf6ce6cbd7ee96cfb828339a5333d1aaecfee11.png" alt="Marmalade Boy (Japan) (Sample 80%)" title="Marmalade Boy (Japan) (Sample 80%)" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="https://snes.in/screenshots/marmalade-boy/marmalade-boy.6.png" alt="Marmalade Boy (Japan)" title="Marmalade Boy (Japan)" />
+      </div>
+      <img src="/assets/screenshots/marmalade-boy-japan-sample-80/marmalade-boy-japan-sample-80.6-1bdb825a8254848ddee5b8aaef0d8483867de933880e6a30bd185163e8716718d473ed5f3687e2df69c80ac524d2396473e4347ad7b166481f1d7e1ece16b5d9.png" alt="Marmalade Boy (Japan) (Sample 80%)" title="Marmalade Boy (Japan) (Sample 80%)" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="https://snes.in/screenshots/marmalade-boy/marmalade-boy.7.png" alt="Marmalade Boy (Japan)" title="Marmalade Boy (Japan)" />
+      </div>
+      <img src="/assets/screenshots/marmalade-boy-japan-sample-80/marmalade-boy-japan-sample-80.7-ab88a4352cc7ecb3e3501e1345fae1708327ab1355cdcc908c6fd948975d5705855db0c4ea17f70d1ea8a4b00c5a9eea4c9ee3cd217d7a93c55d74ce52cdcdb4.png" alt="Marmalade Boy (Japan) (Sample 80%)" title="Marmalade Boy (Japan) (Sample 80%)" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="https://snes.in/screenshots/marmalade-boy/marmalade-boy.8.png" alt="Marmalade Boy (Japan)" title="Marmalade Boy (Japan)" />
+      </div>
+      <img src="/assets/screenshots/marmalade-boy-japan-sample-80/marmalade-boy-japan-sample-80.8-15eb27770f0af3cd61ee835c8a55faabe05c180a49641d2a676a3065a915d38fad7793121c61765e4b97310b2d146e5393d8a967ba86087828dccb05677e7a1c.png" alt="Marmalade Boy (Japan) (Sample 80%)" title="Marmalade Boy (Japan) (Sample 80%)" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="https://snes.in/screenshots/marmalade-boy/marmalade-boy.9.png" alt="Marmalade Boy (Japan)" title="Marmalade Boy (Japan)" />
+      </div>
+      <img src="/assets/screenshots/marmalade-boy-japan-sample-80/marmalade-boy-japan-sample-80.9-f2fbe7d68871005788cb028f517f1f4975a5d6f637f8371218533c0955478ba22659a0e830465cf4a4a64218ada6dca0c28cfecadd0acd906acefa68bf35bef4.png" alt="Marmalade Boy (Japan) (Sample 80%)" title="Marmalade Boy (Japan) (Sample 80%)" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+:ET

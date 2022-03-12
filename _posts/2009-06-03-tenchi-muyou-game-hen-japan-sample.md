@@ -76,7 +76,7 @@ Carrots:
     image_2='screenshots/tenchi/tenchi-muyou-game-hen.6.png'
 %}
 
-![Tenchi Muyou! Game Hen (Japan) Carrots 2]({% asset_path 'screenshots/tenchi/tenchi-muyou-game-hen.7.png' %} "Tenchi Muyou! Game Hen (Japan) Carrots 2")
+![Tenchi Muyou! Game Hen (Japan) Carrots 2]({% asset 'screenshots/tenchi/tenchi-muyou-game-hen.7.png' @path %} "Tenchi Muyou! Game Hen (Japan) Carrots 2")
 
 If anyone can play through more and find any significant changes, please let me know!
 

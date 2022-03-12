@@ -1,0 +1,93 @@
+I"_<p>This is a version of the game that was used at the ‘96 Tokyo Toy Fair / ‘96東京おもちゃショー and very closely resembles the Satellaview release. So closely in fact that only 1 non-header byte is different. At <code>0x04EAA0</code> the Satellaview copy has <code>0x02</code> and the Tokyo Toy Fair version has <code>0x09</code>. Both ROMs actually contain both banners, the value at <code>0x7FF4</code> controls the <code>for</code> banner image, with <code>0x00</code> being the Tokyo Toy Fair, <code>0x01</code> or any other value being the Satellaview banner. Other than that the game is the same as the <a href="https://www.youtube.com/watch?v=6sTotHZvjw8">Satellaview version</a>. The very cute <a href="https://www.cdc.gov/actagainstaids/index.html">Act Against AIDS</a> banner is present in all versions of the game.</p>
+
+<p>On a more personal level, I lost a copy of this at auction many years ago, and felt terrible about it. Finding it was a my white whale moment, and belated birthday present. 🌺</p>
+
+<div class="comparison-container">
+  <div class="comparison">
+    <div class="container">
+      <div class="divisor inline">
+        <img src="/assets/screenshots/super-nazo-puyo-tsuu-rulue-no-tetsuwan-hanjouki-japan-96-tokyo-toy-show/for-96-toy-show-9df7ca39fdf7e5f7bea18d89b4c0934e2db9ffb234d33fb70e97cdf0fb8f60711323562cd42d3438c08db1479c4f6607e53130d461e4e6e482b1e72eec4f94eb.png" alt="For Screen - '96 Tokyo Toy Show" title="For Screen - '96 Tokyo Toy Show" />
+      </div>
+      <img src="/assets/screenshots/super-nazo-puyo-tsuu-rulue-no-tetsuwan-hanjouki-japan-96-tokyo-toy-show/Super Nazo Puyo Tsuu - Rulue no Tetsuwan Hanjouki (Japan) (BS)-for-satellaview-7274c5bc2a53d03c49e848d48398f62689a8415e24b325537a3d8c73363d184ff315bf89ad16816bc2057829e8e5a4419f45228519372eea4558aff04e1ce57d.png" alt="For Screen - Satellaview" title="For Screen - Satellaview" />
+    </div>
+    <input type="range" min="0" max="100" value="50" class="slider" />
+    <select name="blend-mode" class="blend-mode">
+      <option value="normal" selected="">Normal</option>
+      <option value="multiply">Multiply</option>
+      <option value="screen">Screen</option>
+      <option value="overlay">Overlay</option>
+      <option value="darken">Darken</option>
+      <option value="lighten">Lighten</option>
+      <option value="color-dodge">Color Dodge</option>
+      <option value="olor-burn">Color Burn</option>
+      <option value="hard-light">Hard Light</option>
+      <option value="soft-light">Soft Light</option>
+      <option value="difference">Difference</option>
+      <option value="exclusion">Exclusion</option>
+      <option value="hue">Hue</option>
+      <option value="saturation">Saturation</option>
+      <option value="color">Color</option>
+      <option value="luminosity">Luminosity</option>
+    </select>
+    <input type="radio" name="type" value="inline" class="types type-inline" checked="" /> 2-Up
+    <input type="radio" name="type" value="slider" class="types type-slider" /> Swipe
+    <input type="radio" name="type" value="onion" class="types type-onion" /> Onion Skin
+  </div>
+</div>
+
+<p><em>Screenshots</em></p>
+
+<p><img src="/assets/screenshots/super-nazo-puyo-tsuu-rulue-no-tetsuwan-hanjouki-japan-96-tokyo-toy-show/scene-1-925819f515a3b6f70d6d41cb26e35f54db99cd1e539e15de52936238545bcd524e401c2ff132bfad2ff2c149bb878ae590ba1efe63ba13fc57c98c7cd41743cf.png" alt="Town Scene 1" />
+<img src="/assets/screenshots/super-nazo-puyo-tsuu-rulue-no-tetsuwan-hanjouki-japan-96-tokyo-toy-show/scene-2-37505a9e30ee214ff883ad34791ce1d2c0ebf14751567d2cd3f49b307e13d144ea6d89c53c2a097f80132615be5349e0500b792494c2d265f7cddcccae6a926e.png" alt="Town Scene 2" />
+<img src="/assets/screenshots/super-nazo-puyo-tsuu-rulue-no-tetsuwan-hanjouki-japan-96-tokyo-toy-show/title-b84088d368fc84cf633d38a5ccd7f769b82a5415630e5604e2542d60cc26ab2478216d306c3de747ff329f25b4dce01040fee519e620559d7d635dca347aac5d.png" alt="Title Screen" />
+<img src="/assets/screenshots/super-nazo-puyo-tsuu-rulue-no-tetsuwan-hanjouki-japan-96-tokyo-toy-show/for-96-toy-show-9df7ca39fdf7e5f7bea18d89b4c0934e2db9ffb234d33fb70e97cdf0fb8f60711323562cd42d3438c08db1479c4f6607e53130d461e4e6e482b1e72eec4f94eb.png" alt="for '96東京おもちゃショー" />
+<img src="/assets/screenshots/super-nazo-puyo-tsuu-rulue-no-tetsuwan-hanjouki-japan-96-tokyo-toy-show/game-info-977a170217172ec9364dd6fa2e076692be1e8f3238f7ce86275bcfb7713af9bdd410c30879eaf0211ef3fa24da8b0c94c7b339993a39f906f30935a054cd4957.png" alt="Game Info" />
+<img src="/assets/screenshots/super-nazo-puyo-tsuu-rulue-no-tetsuwan-hanjouki-japan-96-tokyo-toy-show/contact-screen-cb834eefcbc3ecd2d79b2b0f32f204808dc5b0691039d5ddc1a0f237b87fb6dae5ebbdcb27b757a0dff45a74b30bbca1082936fd88b95db0a25f1a60f44515c2.png" alt="Contact Screen" />
+<img src="/assets/screenshots/super-nazo-puyo-tsuu-rulue-no-tetsuwan-hanjouki-japan-96-tokyo-toy-show/story-1-8f951c54c7b71647b59a68c542cb36ed0241619260647576a0a53e72a54ea61af50e4fa9773c34db722f2d494533fb7cb9d37cafd8ee03c7b746f3b7d3c51c65.png" alt="Story" />
+<img src="/assets/screenshots/super-nazo-puyo-tsuu-rulue-no-tetsuwan-hanjouki-japan-96-tokyo-toy-show/aids-ed1102d22d44e7bd2d1cfe52b401cfb4c46f1e231301416a94b1a22b606b02e5e1c45a7c60d0c8351d82a1270b004a1448a485e48007586f6af6bbcc853c0166.png" alt="Act Against AIDS" /></p>
+
+<p><em>Transcriptions &amp; Translations</em></p>
+
+<p><img src="/assets/screenshots/super-nazo-puyo-tsuu-rulue-no-tetsuwan-hanjouki-japan-96-tokyo-toy-show/game-info-977a170217172ec9364dd6fa2e076692be1e8f3238f7ce86275bcfb7713af9bdd410c30879eaf0211ef3fa24da8b0c94c7b339993a39f906f30935a054cd4957.png" alt="Game Info" /></p>
+
+<p>ジャンル … パズル
+対応機種 … スーパーファミコン
+メディア … ROMカートリッジ 12M+BB
+発売日 … 96-6-26
+価格 … 6800</p>
+
+<p>Genre … Puzzle
+Compatible Model … Super Famicom
+Media … ROM Cartridge 12M+BB
+Release Date … 96-6-26 (June 26th, 1996)
+Price … 6800</p>
+
+<hr />
+
+<p><img src="/assets/screenshots/super-nazo-puyo-tsuu-rulue-no-tetsuwan-hanjouki-japan-96-tokyo-toy-show/contact-screen-cb834eefcbc3ecd2d79b2b0f32f204808dc5b0691039d5ddc1a0f237b87fb6dae5ebbdcb27b757a0dff45a74b30bbca1082936fd88b95db0a25f1a60f44515c2.png" alt="Contact Screen" /></p>
+
+<p>?? Promotion
+期間：1996年6月28 ~ 12月28
+抽選で: 3000名榚 (?500?)に
+★オリジナ儿テレカ★を
+プレゼント!!</p>
+
+<p>詳しくは
+取扱説明書を
+読んでねv</p>
+
+<p>?? Campaign
+Period: 1996-06-28 - 12-28
+Lottery: 3000 People
+★ Original Phone Card ★
+Present!!</p>
+
+<p>For details,
+[game]
+please read [game’s] the instruction manual♡</p>
+
+<p><em>Playthrough Video</em></p>
+
+<p>A gameplay video play through played by <a href="https://www.youtube.com/channel/UCOXvfoAZZJhmDZw0boGkSYA">Kiddo Cabbusses | サテラビュー好きの外人さん</a>:</p>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/6sTotHZvjw8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
+:ET

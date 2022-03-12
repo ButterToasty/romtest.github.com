@@ -17,15 +17,15 @@ An NTSC Sample version of Daffy Duck, but I couldn't find any differences other 
 
 _Screenshots_
 
-![Sunsoft Logo]({% asset_path 'screenshots/daffy-duck-the-marvin-missions-usa-sample/daffy-duck-the-marvin-missions-usa-sample-1.png' %})
-![License Text]({% asset_path 'screenshots/daffy-duck-the-marvin-missions-usa-sample/daffy-duck-the-marvin-missions-usa-sample-2.png' %})
-![Daffy Duck Face]({% asset_path 'screenshots/daffy-duck-the-marvin-missions-usa-sample/daffy-duck-the-marvin-missions-usa-sample-3.png' %})
-![Where There's Duck There's Fire]({% asset_path 'screenshots/daffy-duck-the-marvin-missions-usa-sample/daffy-duck-the-marvin-missions-usa-sample-5.png' %})
-![Planet Magma Bio]({% asset_path 'screenshots/daffy-duck-the-marvin-missions-usa-sample/daffy-duck-the-marvin-missions-usa-sample-6.png' %})
-![Planet Mamgma Mission]({% asset_path 'screenshots/daffy-duck-the-marvin-missions-usa-sample/daffy-duck-the-marvin-missions-usa-sample-7.png' %})
-![Acme Weapon Shop]({% asset_path 'screenshots/daffy-duck-the-marvin-missions-usa-sample/daffy-duck-the-marvin-missions-usa-sample-8.png' %})
-![Level 1]({% asset_path 'screenshots/daffy-duck-the-marvin-missions-usa-sample/daffy-duck-the-marvin-missions-usa-sample-9.png' %})
-![Level 1 Paused Map]({% asset_path 'screenshots/daffy-duck-the-marvin-missions-usa-sample/daffy-duck-the-marvin-missions-usa-sample-10.png' %})
+![Sunsoft Logo]({% asset 'screenshots/daffy-duck-the-marvin-missions-usa-sample/daffy-duck-the-marvin-missions-usa-sample-1.png' @path %})
+![License Text]({% asset 'screenshots/daffy-duck-the-marvin-missions-usa-sample/daffy-duck-the-marvin-missions-usa-sample-2.png' @path %})
+![Daffy Duck Face]({% asset 'screenshots/daffy-duck-the-marvin-missions-usa-sample/daffy-duck-the-marvin-missions-usa-sample-3.png' @path %})
+![Where There's Duck There's Fire]({% asset 'screenshots/daffy-duck-the-marvin-missions-usa-sample/daffy-duck-the-marvin-missions-usa-sample-5.png' @path %})
+![Planet Magma Bio]({% asset 'screenshots/daffy-duck-the-marvin-missions-usa-sample/daffy-duck-the-marvin-missions-usa-sample-6.png' @path %})
+![Planet Mamgma Mission]({% asset 'screenshots/daffy-duck-the-marvin-missions-usa-sample/daffy-duck-the-marvin-missions-usa-sample-7.png' @path %})
+![Acme Weapon Shop]({% asset 'screenshots/daffy-duck-the-marvin-missions-usa-sample/daffy-duck-the-marvin-missions-usa-sample-8.png' @path %})
+![Level 1]({% asset 'screenshots/daffy-duck-the-marvin-missions-usa-sample/daffy-duck-the-marvin-missions-usa-sample-9.png' @path %})
+![Level 1 Paused Map]({% asset 'screenshots/daffy-duck-the-marvin-missions-usa-sample/daffy-duck-the-marvin-missions-usa-sample-10.png' @path %})
 
 _ROM Info_
 

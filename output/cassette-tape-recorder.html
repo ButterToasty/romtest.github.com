@@ -1,0 +1,253 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimal-ui">
+    <title>Cassette Tape Recorders</title>
+    <link type="text/css" rel="stylesheet" href="assets/css/github-markdown.css">
+    <link type="text/css" rel="stylesheet" href="assets/css/pilcrow.css">
+    <link type="text/css" rel="stylesheet" href="assets/css/hljs-github.min.css"/>
+  </head>
+  <body>
+    <article class="markdown-body"><h1 id="tascam-portastudio-414"><a class="header-link" href="#tascam-portastudio-414"></a>Tascam Portastudio 414</h1>
+<p>Some notes for working on and with the Tascam 414 Portastudio 4 Track Recorder deck.</p>
+<h2 id="generic-5-second-cassette-loop"><a class="header-link" href="#generic-5-second-cassette-loop"></a>Generic 5 Second Cassette Loop</h2>
+<p>This is a generic clear tape loop. The tape has a particular constant warble, to the point a clear sine tone cannot be read out enough to get an exact key difference.</p>
+<table>
+<thead>
+<tr>
+<th>Tape Speed In</th>
+<th>Tape Speed Out</th>
+<th>BPM In</th>
+<th>BPM Out</th>
+<th>Key In</th>
+<th>Key Out</th>
+<th>Duration</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Normal 🕛</td>
+<td>Fast 🕔</td>
+<td>120</td>
+<td>163.30</td>
+<td>C3</td>
+<td>~F3</td>
+<td>0:03:532</td>
+</tr>
+<tr>
+<td>Normal 🕛</td>
+<td>Normal 🕛</td>
+<td>120</td>
+<td>118.02</td>
+<td>C3</td>
+<td>~C3</td>
+<td>0:04:709</td>
+</tr>
+<tr>
+<td>Normal 🕛</td>
+<td>Slow 🕖</td>
+<td>120</td>
+<td>95.41</td>
+<td>C3</td>
+<td>~G#2</td>
+<td>0:06:024</td>
+</tr>
+</tbody></table>
+<p>Below are the iZotope RX views of the loop and the Melodyne view of the loop, to see how unstable it is:</p>
+<p>![iZotope RX View]({% asset &#39;cassette-tape-recorder/izotope-rx-view.png&#39; @path %})</p>
+<p>![Melodyne View]({% asset &#39;cassette-tape-recorder/melodyne-view.png&#39; @path %})</p>
+<h2 id="sony-hf-60-high-bias-type-1"><a class="header-link" href="#sony-hf-60-high-bias-type-1"></a>Sony HF 60 High Bias Type 1</h2>
+<p>An old tape I used in high school Spanish class, not a tape loop but stable enough to get a key.</p>
+<p>Sorted by Tape Speed Out:</p>
+<table>
+<thead>
+<tr>
+<th>Tape Speed In</th>
+<th>Tape Speed Out</th>
+<th>BPM In</th>
+<th>BPM Out</th>
+<th>Key In</th>
+<th>Key Out</th>
+<th>Multiplier</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Slow 🕛</td>
+<td>Slow 🕛</td>
+<td>120</td>
+<td>85.63</td>
+<td>C3</td>
+<td>F#2, +15ct</td>
+<td>70.9416%</td>
+</tr>
+<tr>
+<td>Normal 🕛</td>
+<td>Slow 🕛</td>
+<td>120</td>
+<td>99.52</td>
+<td>C3</td>
+<td>A2, -25ct</td>
+<td>82.9333%</td>
+</tr>
+<tr>
+<td>Fast 🕔</td>
+<td>Slow 🕛</td>
+<td>120</td>
+<td>120.16</td>
+<td>C3</td>
+<td>C3, -2ct</td>
+<td>~100%</td>
+</tr>
+<tr>
+<td>Slow 🕛</td>
+<td>Normal 🕖</td>
+<td>120</td>
+<td>103.13</td>
+<td>C3</td>
+<td>A2, +37ct</td>
+<td>85.9416%</td>
+</tr>
+<tr>
+<td>Normal 🕛</td>
+<td>Normal 🕛</td>
+<td>120</td>
+<td>119.92</td>
+<td>C3</td>
+<td>C3, -2ct</td>
+<td>~100%</td>
+</tr>
+<tr>
+<td>Fast 🕔</td>
+<td>Normal 🕖</td>
+<td>120</td>
+<td>144.68</td>
+<td>C3</td>
+<td>D#3, +24ct</td>
+<td>120.5666%</td>
+</tr>
+<tr>
+<td>Slow 🕛</td>
+<td>Fast 🕔</td>
+<td>120</td>
+<td>120.03</td>
+<td>C3</td>
+<td>C3, +1ct</td>
+<td>~100%</td>
+</tr>
+<tr>
+<td>Normal 🕛</td>
+<td>Fast 🕔</td>
+<td>120</td>
+<td>146.08</td>
+<td>C3</td>
+<td>D#3, -39ct</td>
+<td>121.7333%</td>
+</tr>
+<tr>
+<td>Fast 🕔</td>
+<td>Fast 🕔</td>
+<td>120</td>
+<td>168.22</td>
+<td>C3</td>
+<td>F#3, +13ct</td>
+<td>140.1833%</td>
+</tr>
+</tbody></table>
+<p>Sorted by Tape Speed In:</p>
+<table>
+<thead>
+<tr>
+<th>Tape Speed In</th>
+<th>Tape Speed Out</th>
+<th>BPM In</th>
+<th>BPM Out</th>
+<th>Key In</th>
+<th>Key Out</th>
+<th>Multiplier</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Slow 🕛</td>
+<td>Slow 🕛</td>
+<td>120</td>
+<td>85.63</td>
+<td>C3</td>
+<td>F#2, +15ct</td>
+<td>70.9416%</td>
+</tr>
+<tr>
+<td>Slow 🕛</td>
+<td>Normal 🕖</td>
+<td>120</td>
+<td>103.13</td>
+<td>C3</td>
+<td>A2, +37ct</td>
+<td>85.9416%</td>
+</tr>
+<tr>
+<td>Slow 🕛</td>
+<td>Fast 🕔</td>
+<td>120</td>
+<td>120.03</td>
+<td>C3</td>
+<td>C3, +1ct</td>
+<td>~100%</td>
+</tr>
+<tr>
+<td>Normal 🕛</td>
+<td>Slow 🕛</td>
+<td>120</td>
+<td>99.52</td>
+<td>C3</td>
+<td>A2, -25ct</td>
+<td>82.9333%</td>
+</tr>
+<tr>
+<td>Normal 🕛</td>
+<td>Normal 🕛</td>
+<td>120</td>
+<td>119.92</td>
+<td>C3</td>
+<td>C3, -2ct</td>
+<td>~100%</td>
+</tr>
+<tr>
+<td>Normal 🕛</td>
+<td>Fast 🕔</td>
+<td>120</td>
+<td>146.08</td>
+<td>C3</td>
+<td>D#3, -39ct</td>
+<td>121.7333%</td>
+</tr>
+<tr>
+<td>Fast 🕔</td>
+<td>Slow 🕛</td>
+<td>120</td>
+<td>120.16</td>
+<td>C3</td>
+<td>C3, -2ct</td>
+<td>~100%</td>
+</tr>
+<tr>
+<td>Fast 🕔</td>
+<td>Normal 🕖</td>
+<td>120</td>
+<td>144.68</td>
+<td>C3</td>
+<td>D#3, +24ct</td>
+<td>120.5666%</td>
+</tr>
+<tr>
+<td>Fast 🕔</td>
+<td>Fast 🕔</td>
+<td>120</td>
+<td>168.22</td>
+<td>C3</td>
+<td>F#3, +13ct</td>
+<td>140.1833%</td>
+</tr>
+</tbody></table>
+    </article>
+  </body>
+</html>
